@@ -1,0 +1,16 @@
+player,total_shots,total_goals,total_xg,overall_residual,residual_per_shot,clusters_qualified,best_cluster,best_rps,worst_cluster,worst_rps
+Robert Lewandowski,1380,262,274.8,-12.8,-0.0093,12,rebound_shot,0.045,top_of_box_edge,-0.073
+Harry Kane,1357,225,200.9,24.1,0.0177,13,top_of_box_edge,0.054,direct_free_kick,-0.028
+Lionel Messi,1384,222,186.5,35.5,0.0257,11,through_ball_one_on_one,0.174,rebound_shot,-0.068
+Kylian Mbappe-Lottin,959,192,167.6,24.4,0.0255,9,rebound_shot,0.15,header_from_cross_corner,-0.058
+Luis Suárez,986,187,178.3,8.7,0.0089,12,header_from_cross_corner,0.079,rebound_shot,-0.029
+Mohamed Salah,1139,182,177.8,4.2,0.0037,10,long_range_left,0.071,through_ball_one_on_one,-0.12
+Cristiano Ronaldo,1401,182,180.3,1.7,0.0012,13,top_of_box_edge,0.107,through_ball_one_on_one,-0.056
+Pierre-Emerick Aubameyang,819,156,164.9,-8.9,-0.0109,11,rebound_shot,0.015,top_of_box_edge,-0.071
+Romelu Lukaku,853,150,143.5,6.5,0.0076,12,through_ball_one_on_one,0.125,direct_free_kick,-0.066
+Alexandre Lacazette,734,150,138.2,11.8,0.016,12,top_of_box_edge,0.095,direct_free_kick,-0.051
+Antoine Griezmann,825,145,118.0,27.0,0.0327,13,direct_free_kick,0.107,wide_right_box,-0.037
+Karim Benzema,840,141,144.9,-3.9,-0.0047,12,top_of_box_edge,0.08,rebound_shot,-0.038
+Wissam Ben Yedder,609,130,122.0,8.0,0.0131,10,wide_right_box,0.048,top_of_box_edge,-0.12
+Son Heung-Min,742,129,97.6,31.4,0.0423,10,top_of_box_edge,0.099,through_ball_one_on_one,-0.05
+Ciro Immobile,879,126,118.4,7.6,0.0087,11,through_ball_one_on_one,0.082,top_of_box_edge,-0.061
