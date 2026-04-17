@@ -1,0 +1,16 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Sergio García,La_liga,2014,2014-08-30,Espanyol,Sevilla,8,0.4198299944400787,NO_GOAL,ShotOnPost
+Sergio García,La_liga,2014,2014-12-20,Rayo Vallecano,Espanyol,50,0.0758811980485916,NO_GOAL,BlockedShot
+Sergio García,La_liga,2014,2014-12-20,Rayo Vallecano,Espanyol,91,0.1393029987812042,NO_GOAL,MissedShots
+Sergio García,La_liga,2014,2015-01-17,Espanyol,Celta Vigo,6,0.0274263005703687,NO_GOAL,MissedShots
+Sergio García,La_liga,2014,2015-03-08,Real Sociedad,Espanyol,11,0.0810436010360717,NO_GOAL,MissedShots
+Sergio García,La_liga,2014,2015-03-08,Real Sociedad,Espanyol,25,0.0366690009832382,NO_GOAL,SavedShot
+Sergio García,La_liga,2014,2015-04-09,Villarreal,Espanyol,22,0.0393832996487617,NO_GOAL,BlockedShot
+Sergio García,La_liga,2014,2015-05-03,Espanyol,Rayo Vallecano,9,0.0278296992182731,NO_GOAL,MissedShots
+Sergio García,La_liga,2014,2015-05-03,Espanyol,Rayo Vallecano,11,0.0367195010185241,NO_GOAL,SavedShot
+Sergio García,La_liga,2017,2017-09-24,Espanyol,Deportivo La Coruna,78,0.3522000014781952,NO_GOAL,MissedShots
+Sergio García,La_liga,2018,2018-09-02,Alaves,Espanyol,36,0.0335555002093315,NO_GOAL,SavedShot
+Sergio García,La_liga,2018,2018-09-16,Espanyol,Levante,58,0.0749605968594551,NO_GOAL,MissedShots
+Sergio García,La_liga,2018,2018-10-07,Espanyol,Villarreal,4,0.0437308996915817,NO_GOAL,BlockedShot
+Sergio García,La_liga,2018,2018-11-11,Sevilla,Espanyol,32,0.0615492984652519,NO_GOAL,MissedShots
+Sergio García,La_liga,2018,2018-12-16,Espanyol,Real Betis,1,0.043843999505043,NO_GOAL,MissedShots

@@ -1,0 +1,17 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Dango Ouattara,Ligue_1,2022,2022-12-29,Lorient,Montpellier,32,0.0508130006492137,NO_GOAL,SavedShot
+Dango Ouattara,Ligue_1,2022,2022-12-29,Lorient,Montpellier,34,0.0142336003482341,NO_GOAL,MissedShots
+Dango Ouattara,EPL,2022,2023-02-04,Brighton,Bournemouth,45,0.0480995997786521,NO_GOAL,MissedShots
+Dango Ouattara,EPL,2022,2023-02-04,Brighton,Bournemouth,81,0.0687431991100311,NO_GOAL,MissedShots
+Dango Ouattara,EPL,2022,2023-03-18,Aston Villa,Bournemouth,26,0.065432496368885,NO_GOAL,SavedShot
+Dango Ouattara,EPL,2022,2023-04-23,Bournemouth,West Ham,69,0.019714206457138,NO_GOAL,MissedShots
+Dango Ouattara,EPL,2023,2023-12-23,Nottingham Forest,Bournemouth,10,0.0575016476213932,NO_GOAL,MissedShots
+Dango Ouattara,EPL,2023,2023-12-26,Bournemouth,Fulham,10,0.067771315574646,NO_GOAL,BlockedShot
+Dango Ouattara,EPL,2023,2023-12-31,Tottenham,Bournemouth,40,0.051699049770832,NO_GOAL,MissedShots
+Dango Ouattara,EPL,2024,2024-08-17,Nottingham Forest,Bournemouth,4,0.4425158202648163,NO_GOAL,MissedShots
+Dango Ouattara,EPL,2024,2024-10-05,Leicester,Bournemouth,52,0.392277330160141,NO_GOAL,MissedShots
+Dango Ouattara,EPL,2024,2025-01-04,Bournemouth,Everton,7,0.6588313579559326,NO_GOAL,SavedShot
+Dango Ouattara,EPL,2024,2025-01-25,Bournemouth,Nottingham Forest,45,0.0774685367941856,NO_GOAL,SavedShot
+Dango Ouattara,EPL,2024,2025-01-25,Bournemouth,Nottingham Forest,54,0.6112751960754395,GOAL,Goal
+Dango Ouattara,EPL,2024,2025-02-25,Brighton,Bournemouth,17,0.0573141872882843,NO_GOAL,MissedShots
+Dango Ouattara,EPL,2024,2025-04-19,Crystal Palace,Bournemouth,27,0.0849151387810707,NO_GOAL,SavedShot

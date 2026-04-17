@@ -1,0 +1,28 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Roberto Firmino,Bundesliga,2014,2014-09-26,Mainz 05,Hoffenheim,60,0.1485410034656524,NO_GOAL,ShotOnPost
+Roberto Firmino,Bundesliga,2014,2015-02-01,Augsburg,Hoffenheim,44,0.059256300330162,GOAL,Goal
+Roberto Firmino,Bundesliga,2014,2015-02-21,Freiburg,Hoffenheim,62,0.0404415987432003,NO_GOAL,MissedShots
+Roberto Firmino,Bundesliga,2014,2015-02-28,Hoffenheim,Mainz 05,52,0.0675169005990028,NO_GOAL,MissedShots
+Roberto Firmino,Bundesliga,2014,2015-04-12,FC Cologne,Hoffenheim,21,0.0641418024897575,NO_GOAL,SavedShot
+Roberto Firmino,Bundesliga,2014,2015-04-25,Hannover 96,Hoffenheim,32,0.0158568993210792,NO_GOAL,ShotOnPost
+Roberto Firmino,EPL,2016,2016-10-01,Swansea,Liverpool,53,0.2903020083904266,GOAL,Goal
+Roberto Firmino,EPL,2016,2016-11-06,Liverpool,Watford,56,0.5868610143661499,GOAL,Goal
+Roberto Firmino,EPL,2016,2016-12-04,Bournemouth,Liverpool,16,0.0700974017381668,NO_GOAL,BlockedShot
+Roberto Firmino,EPL,2016,2017-04-16,West Bromwich Albion,Liverpool,45,0.3624480068683624,GOAL,Goal
+Roberto Firmino,EPL,2016,2017-05-21,Liverpool,Middlesbrough,19,0.066397801041603,NO_GOAL,BlockedShot
+Roberto Firmino,EPL,2017,2017-11-04,West Ham,Liverpool,1,0.080491803586483,NO_GOAL,SavedShot
+Roberto Firmino,EPL,2017,2017-12-26,Liverpool,Swansea,51,0.1038189977407455,GOAL,Goal
+Roberto Firmino,EPL,2018,2018-12-05,Burnley,Liverpool,68,0.9567199945449828,GOAL,Goal
+Roberto Firmino,EPL,2018,2019-03-03,Everton,Liverpool,84,0.1236129999160766,NO_GOAL,BlockedShot
+Roberto Firmino,EPL,2019,2019-09-22,Chelsea,Liverpool,29,0.4955889880657196,GOAL,Goal
+Roberto Firmino,EPL,2019,2019-10-20,Manchester United,Liverpool,76,0.0511073991656303,NO_GOAL,SavedShot
+Roberto Firmino,EPL,2020,2020-10-24,Liverpool,Sheffield United,65,0.019090499728918,NO_GOAL,BlockedShot
+Roberto Firmino,EPL,2020,2020-11-22,Liverpool,Leicester,31,0.4163239896297455,NO_GOAL,MissedShots
+Roberto Firmino,EPL,2020,2020-12-16,Liverpool,Tottenham,10,0.0334491990506649,NO_GOAL,SavedShot
+Roberto Firmino,EPL,2020,2021-01-04,Southampton,Liverpool,38,0.0338339991867542,NO_GOAL,MissedShots
+Roberto Firmino,EPL,2020,2021-05-13,Manchester United,Liverpool,47,0.2982740104198456,GOAL,Goal
+Roberto Firmino,EPL,2021,2021-10-24,Manchester United,Liverpool,46,0.0445464998483657,NO_GOAL,MissedShots
+Roberto Firmino,EPL,2021,2022-02-10,Liverpool,Leicester,5,0.0095957797020673,NO_GOAL,MissedShots
+Roberto Firmino,EPL,2021,2022-02-10,Liverpool,Leicester,32,0.0827383995056152,NO_GOAL,BlockedShot
+Roberto Firmino,EPL,2022,2022-11-12,Liverpool,Southampton,5,0.0285678002983331,GOAL,Goal
+Roberto Firmino,EPL,2022,2023-05-20,Liverpool,Aston Villa,89,0.568637490272522,GOAL,Goal

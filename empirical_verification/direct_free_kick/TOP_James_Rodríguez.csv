@@ -1,0 +1,21 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+James Rodríguez,La_liga,2014,2015-05-23,Real Madrid,Getafe,50,0.1161850020289421,GOAL,Goal
+James Rodríguez,La_liga,2014,2015-05-23,Real Madrid,Getafe,67,0.0872773975133895,NO_GOAL,SavedShot
+James Rodríguez,La_liga,2015,2015-08-30,Real Madrid,Real Betis,38,0.0734646990895271,GOAL,Goal
+James Rodríguez,La_liga,2015,2016-01-31,Real Madrid,Espanyol,33,0.0672594979405403,NO_GOAL,MissedShots
+James Rodríguez,La_liga,2015,2016-04-09,Real Madrid,Eibar,4,0.1725720018148422,GOAL,Goal
+James Rodríguez,La_liga,2016,2016-11-06,Real Madrid,Leganes,86,0.088424302637577,NO_GOAL,MissedShots
+James Rodríguez,La_liga,2016,2017-01-07,Real Madrid,Granada,70,0.0795568972826004,NO_GOAL,MissedShots
+James Rodríguez,La_liga,2016,2017-04-15,Sporting Gijon,Real Madrid,85,0.0537941008806228,NO_GOAL,BlockedShot
+James Rodríguez,La_liga,2016,2017-04-29,Real Madrid,Valencia,25,0.0503434985876083,NO_GOAL,MissedShots
+James Rodríguez,La_liga,2016,2017-04-29,Real Madrid,Valencia,64,0.1037459969520568,NO_GOAL,BlockedShot
+James Rodríguez,Bundesliga,2017,2018-01-12,Bayer Leverkusen,Bayern Munich,90,0.1550640016794204,GOAL,Goal
+James Rodríguez,Bundesliga,2018,2018-10-20,Wolfsburg,Bayern Munich,11,0.0833073034882545,NO_GOAL,SavedShot
+James Rodríguez,Bundesliga,2018,2019-01-27,Bayern Munich,VfB Stuttgart,89,0.056581899523735,NO_GOAL,MissedShots
+James Rodríguez,Bundesliga,2018,2019-02-09,Bayern Munich,Schalke 04,45,0.0660590976476669,NO_GOAL,MissedShots
+James Rodríguez,Bundesliga,2018,2019-03-02,Borussia M.Gladbach,Bayern Munich,8,0.0695537999272346,NO_GOAL,BlockedShot
+James Rodríguez,Bundesliga,2018,2019-04-28,Nuernberg,Bayern Munich,68,0.1035619974136352,NO_GOAL,SavedShot
+James Rodríguez,EPL,2020,2020-09-26,Crystal Palace,Everton,48,0.1042699962854385,NO_GOAL,SavedShot
+James Rodríguez,EPL,2020,2020-10-25,Southampton,Everton,15,0.0570520013570785,NO_GOAL,SavedShot
+James Rodríguez,EPL,2020,2021-02-20,Liverpool,Everton,16,0.0386627987027168,NO_GOAL,SavedShot
+James Rodríguez,EPL,2020,2021-04-12,Brighton,Everton,14,0.0517363995313644,NO_GOAL,MissedShots

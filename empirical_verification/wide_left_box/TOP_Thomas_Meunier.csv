@@ -1,0 +1,26 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Thomas Meunier,Ligue_1,2016,2016-09-16,Caen,Paris Saint Germain,65,0.0756948962807655,NO_GOAL,MissedShots
+Thomas Meunier,Ligue_1,2016,2016-12-21,Paris Saint Germain,Lorient,24,0.0469135008752346,GOAL,Goal
+Thomas Meunier,Ligue_1,2017,2017-10-14,Dijon,Paris Saint Germain,70,0.0436933003365993,GOAL,Goal
+Thomas Meunier,Ligue_1,2017,2018-01-21,Lyon,Paris Saint Germain,91,0.0371493995189666,NO_GOAL,BlockedShot
+Thomas Meunier,Ligue_1,2018,2018-09-23,Rennes,Paris Saint Germain,60,0.0368006005883216,GOAL,Goal
+Thomas Meunier,Ligue_1,2018,2019-03-02,Caen,Paris Saint Germain,5,0.0426095984876155,NO_GOAL,MissedShots
+Thomas Meunier,Ligue_1,2018,2019-03-17,Paris Saint Germain,Marseille,24,0.0675650015473365,NO_GOAL,SavedShot
+Thomas Meunier,Ligue_1,2018,2019-04-14,Lille,Paris Saint Germain,1,0.0721651017665863,NO_GOAL,MissedShots
+Thomas Meunier,Ligue_1,2018,2019-05-18,Paris Saint Germain,Dijon,57,0.0644797012209892,NO_GOAL,SavedShot
+Thomas Meunier,Ligue_1,2019,2019-09-28,Bordeaux,Paris Saint Germain,26,0.0316549986600875,NO_GOAL,MissedShots
+Thomas Meunier,Ligue_1,2019,2019-09-28,Bordeaux,Paris Saint Germain,85,0.053661398589611,NO_GOAL,BlockedShot
+Thomas Meunier,Ligue_1,2019,2019-12-15,Saint-Etienne,Paris Saint Germain,17,0.0621705017983913,NO_GOAL,SavedShot
+Thomas Meunier,Bundesliga,2020,2021-01-19,Bayer Leverkusen,Borussia Dortmund,55,0.0650971010327339,NO_GOAL,MissedShots
+Thomas Meunier,Bundesliga,2021,2021-10-30,Borussia Dortmund,FC Cologne,3,0.0494919009506702,NO_GOAL,SavedShot
+Thomas Meunier,Bundesliga,2021,2022-01-08,Eintracht Frankfurt,Borussia Dortmund,1,0.0497066006064415,NO_GOAL,SavedShot
+Thomas Meunier,Ligue_1,2024,2024-08-24,Lille,Angers,33,0.0670354291796684,GOAL,Goal
+Thomas Meunier,Ligue_1,2024,2024-09-13,Saint-Etienne,Lille,63,0.0437867604196071,NO_GOAL,MissedShots
+Thomas Meunier,Ligue_1,2024,2024-11-01,Lille,Lyon,47,0.081767238676548,NO_GOAL,MissedShots
+Thomas Meunier,Ligue_1,2024,2025-01-17,Lille,Nice,43,0.0450821630656719,NO_GOAL,SavedShot
+Thomas Meunier,Ligue_1,2024,2025-01-25,Strasbourg,Lille,16,0.0738535970449447,NO_GOAL,SavedShot
+Thomas Meunier,Ligue_1,2024,2025-02-08,Lille,Le Havre,43,0.0535957887768745,NO_GOAL,SavedShot
+Thomas Meunier,Ligue_1,2024,2025-02-16,Rennes,Lille,77,0.0457854457199573,NO_GOAL,BlockedShot
+Thomas Meunier,Ligue_1,2024,2025-03-08,Lille,Montpellier,4,0.0433456972241401,NO_GOAL,SavedShot
+Thomas Meunier,Ligue_1,2024,2025-04-20,Lille,Auxerre,8,0.2588374614715576,GOAL,Goal
+Thomas Meunier,Ligue_1,2024,2025-05-17,Lille,Reims,70,0.0506630502641201,NO_GOAL,SavedShot

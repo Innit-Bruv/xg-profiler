@@ -1,0 +1,17 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Sulemana,Serie_A,2022,2022-10-09,Salernitana,Verona,86,0.0106269996613264,NO_GOAL,MissedShots
+Sulemana,Serie_A,2022,2022-10-24,Sassuolo,Verona,70,0.0343683995306491,NO_GOAL,MissedShots
+Sulemana,Serie_A,2022,2022-11-10,Verona,Juventus,2,0.0155491000041365,NO_GOAL,MissedShots
+Sulemana,Serie_A,2022,2023-01-14,Inter,Verona,64,0.0223078001290559,NO_GOAL,MissedShots
+Sulemana,Serie_A,2022,2023-05-20,Atalanta,Verona,81,0.0119304368272423,NO_GOAL,ShotOnPost
+Sulemana,Serie_A,2023,2023-08-28,Cagliari,Inter,82,0.0204959381371736,NO_GOAL,MissedShots
+Sulemana,Serie_A,2023,2023-09-27,Cagliari,AC Milan,39,0.0194045137614011,NO_GOAL,SavedShot
+Sulemana,Serie_A,2023,2023-09-27,Cagliari,AC Milan,56,0.0167677570134401,NO_GOAL,MissedShots
+Sulemana,Serie_A,2023,2024-04-01,Cagliari,Verona,73,0.0425913222134113,GOAL,Goal
+Sulemana,Serie_A,2023,2024-04-07,Cagliari,Atalanta,27,0.0261858776211738,NO_GOAL,BlockedShot
+Sulemana,Serie_A,2023,2024-04-14,Inter,Cagliari,15,0.018279867246747,NO_GOAL,MissedShots
+Sulemana,Serie_A,2023,2024-04-19,Cagliari,Juventus,3,0.018060527741909,NO_GOAL,MissedShots
+Sulemana,Serie_A,2024,2025-05-12,Atalanta,Roma,68,0.1020047143101692,NO_GOAL,BlockedShot
+Sulemana,Serie_A,2024,2025-05-12,Atalanta,Roma,75,0.0516211725771427,GOAL,Goal
+Sulemana,Serie_A,2024,2025-05-18,Genoa,Atalanta,10,0.0282632410526275,NO_GOAL,BlockedShot
+Sulemana,Serie_A,2024,2025-05-18,Genoa,Atalanta,46,0.0167530216276645,GOAL,Goal

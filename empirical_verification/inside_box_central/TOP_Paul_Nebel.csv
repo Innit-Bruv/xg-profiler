@@ -1,0 +1,19 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Paul Nebel,Bundesliga,2021,2021-08-15,Mainz 05,RasenBallsport Leipzig,50,0.1433620005846023,NO_GOAL,SavedShot
+Paul Nebel,Bundesliga,2024,2024-11-09,Mainz 05,Borussia Dortmund,53,0.5693087577819824,GOAL,Goal
+Paul Nebel,Bundesliga,2024,2024-12-08,Wolfsburg,Mainz 05,10,0.3660711646080017,GOAL,Goal
+Paul Nebel,Bundesliga,2024,2024-12-08,Wolfsburg,Mainz 05,65,0.5516679286956787,GOAL,Goal
+Paul Nebel,Bundesliga,2024,2025-01-25,Mainz 05,VfB Stuttgart,67,0.1027432903647422,NO_GOAL,BlockedShot
+Paul Nebel,Bundesliga,2024,2025-01-31,Werder Bremen,Mainz 05,50,0.0945044755935669,NO_GOAL,BlockedShot
+Paul Nebel,Bundesliga,2024,2025-01-31,Werder Bremen,Mainz 05,68,0.3527699410915375,NO_GOAL,SavedShot
+Paul Nebel,Bundesliga,2024,2025-02-08,Mainz 05,Augsburg,1,0.0644069984555244,NO_GOAL,MissedShots
+Paul Nebel,Bundesliga,2024,2025-02-08,Mainz 05,Augsburg,5,0.3006911277770996,NO_GOAL,SavedShot
+Paul Nebel,Bundesliga,2024,2025-02-22,Mainz 05,St. Pauli,94,0.3118398487567901,GOAL,Goal
+Paul Nebel,Bundesliga,2024,2025-03-07,Borussia M.Gladbach,Mainz 05,38,0.1373027265071869,GOAL,Goal
+Paul Nebel,Bundesliga,2024,2025-03-07,Borussia M.Gladbach,Mainz 05,58,0.2871888875961303,NO_GOAL,SavedShot
+Paul Nebel,Bundesliga,2024,2025-03-30,Borussia Dortmund,Mainz 05,75,0.0757587775588035,GOAL,Goal
+Paul Nebel,Bundesliga,2024,2025-05-10,Bochum,Mainz 05,35,0.0624670311808586,NO_GOAL,BlockedShot
+Paul Nebel,Bundesliga,2024,2025-05-10,Bochum,Mainz 05,47,0.1366923451423645,NO_GOAL,SavedShot
+Paul Nebel,Bundesliga,2024,2025-05-10,Bochum,Mainz 05,92,0.3950227499008178,GOAL,Goal
+Paul Nebel,Bundesliga,2024,2025-05-17,Mainz 05,Bayer Leverkusen,34,0.0976025834679603,GOAL,Goal
+Paul Nebel,Bundesliga,2024,2025-05-17,Mainz 05,Bayer Leverkusen,66,0.0511572547256946,NO_GOAL,BlockedShot

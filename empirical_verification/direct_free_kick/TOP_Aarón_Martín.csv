@@ -1,0 +1,19 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Aarón Martín,La_liga,2016,2016-10-30,Real Betis,Espanyol,28,0.0438987985253334,NO_GOAL,SavedShot
+Aarón Martín,Bundesliga,2018,2019-01-26,Mainz 05,Nuernberg,40,0.0487930998206138,NO_GOAL,BlockedShot
+Aarón Martín,Bundesliga,2018,2019-02-23,Mainz 05,Schalke 04,49,0.0535401999950408,NO_GOAL,BlockedShot
+Aarón Martín,Bundesliga,2021,2022-02-18,Mainz 05,Bayer Leverkusen,56,0.0705937966704368,GOAL,Goal
+Aarón Martín,Bundesliga,2021,2022-02-26,Union Berlin,Mainz 05,48,0.0567872002720832,NO_GOAL,MissedShots
+Aarón Martín,Bundesliga,2022,2022-08-06,Bochum,Mainz 05,74,0.0689247027039527,NO_GOAL,MissedShots
+Aarón Martín,Bundesliga,2022,2022-09-04,Borussia M.Gladbach,Mainz 05,26,0.0573132000863552,NO_GOAL,BlockedShot
+Aarón Martín,Bundesliga,2022,2022-09-04,Borussia M.Gladbach,Mainz 05,54,0.0645553991198539,GOAL,Goal
+Aarón Martín,Bundesliga,2022,2022-10-01,Freiburg,Mainz 05,89,0.0530856996774673,NO_GOAL,SavedShot
+Aarón Martín,Bundesliga,2022,2022-10-21,Mainz 05,FC Cologne,72,0.0621589012444019,GOAL,Goal
+Aarón Martín,Bundesliga,2022,2023-01-21,VfB Stuttgart,Mainz 05,71,0.1573210060596466,NO_GOAL,BlockedShot
+Aarón Martín,Bundesliga,2022,2023-05-05,Mainz 05,Schalke 04,69,0.0572602972388267,GOAL,Goal
+Aarón Martín,Bundesliga,2022,2023-05-27,Borussia Dortmund,Mainz 05,79,0.0465840846300125,NO_GOAL,SavedShot
+Aarón Martín,Serie_A,2023,2024-04-29,Genoa,Cagliari,25,0.0558605045080184,NO_GOAL,BlockedShot
+Aarón Martín,Serie_A,2024,2024-10-31,Genoa,Fiorentina,11,0.0783341154456138,NO_GOAL,MissedShots
+Aarón Martín,Serie_A,2024,2024-11-04,Parma Calcio 1913,Genoa,37,0.032626062631607,NO_GOAL,MissedShots
+Aarón Martín,Serie_A,2024,2024-12-15,AC Milan,Genoa,91,0.1150067821145057,NO_GOAL,MissedShots
+Aarón Martín,Serie_A,2024,2025-04-27,Como,Genoa,34,0.0497625134885311,NO_GOAL,MissedShots

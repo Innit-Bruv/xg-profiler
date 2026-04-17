@@ -1,0 +1,14 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Kevin De Bruyne,Bundesliga,2014,2014-09-24,Hertha Berlin,Wolfsburg,37,0.0260479003190994,NO_GOAL,SavedShot
+Kevin De Bruyne,Bundesliga,2014,2015-04-26,Borussia M.Gladbach,Wolfsburg,37,0.0248549003154039,NO_GOAL,MissedShots
+Kevin De Bruyne,Bundesliga,2014,2015-05-23,FC Cologne,Wolfsburg,38,0.0636982023715972,NO_GOAL,MissedShots
+Kevin De Bruyne,EPL,2015,2015-09-12,Crystal Palace,Manchester City,46,0.0353774987161159,NO_GOAL,SavedShot
+Kevin De Bruyne,EPL,2015,2016-01-02,Watford,Manchester City,68,0.0296863000839948,NO_GOAL,SavedShot
+Kevin De Bruyne,EPL,2015,2016-04-02,Bournemouth,Manchester City,11,0.102523997426033,GOAL,Goal
+Kevin De Bruyne,EPL,2015,2016-05-15,Swansea,Manchester City,53,0.0556464008986949,NO_GOAL,BlockedShot
+Kevin De Bruyne,EPL,2016,2017-02-05,Manchester City,Swansea,54,0.0422936007380485,NO_GOAL,BlockedShot
+Kevin De Bruyne,EPL,2017,2017-08-12,Brighton,Manchester City,66,0.0255637001246213,NO_GOAL,BlockedShot
+Kevin De Bruyne,EPL,2017,2017-09-30,Chelsea,Manchester City,66,0.0561131983995437,GOAL,Goal
+Kevin De Bruyne,EPL,2017,2017-10-28,West Bromwich Albion,Manchester City,55,0.0269070994108915,NO_GOAL,MissedShots
+Kevin De Bruyne,EPL,2020,2020-11-21,Tottenham,Manchester City,57,0.0810125991702079,NO_GOAL,BlockedShot
+Kevin De Bruyne,EPL,2022,2022-12-31,Manchester City,Everton,81,0.1140490025281906,NO_GOAL,BlockedShot

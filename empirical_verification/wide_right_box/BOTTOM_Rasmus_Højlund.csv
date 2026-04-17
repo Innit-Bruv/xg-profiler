@@ -1,0 +1,16 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Rasmus Højlund,Serie_A,2022,2022-10-15,Atalanta,Sassuolo,80,0.3251749873161316,NO_GOAL,SavedShot
+Rasmus Højlund,Serie_A,2022,2023-01-04,Spezia,Atalanta,84,0.0454187989234924,NO_GOAL,MissedShots
+Rasmus Højlund,Serie_A,2022,2023-01-09,Bologna,Atalanta,32,0.0434383004903793,NO_GOAL,MissedShots
+Rasmus Højlund,Serie_A,2022,2023-01-28,Atalanta,Sampdoria,29,0.0342908017337322,NO_GOAL,SavedShot
+Rasmus Højlund,Serie_A,2022,2023-01-28,Atalanta,Sampdoria,66,0.0788574963808059,NO_GOAL,SavedShot
+Rasmus Højlund,Serie_A,2022,2023-05-20,Atalanta,Verona,30,0.0539201535284519,NO_GOAL,BlockedShot
+Rasmus Højlund,EPL,2023,2023-10-07,Manchester United,Brentford,63,0.0297325942665338,NO_GOAL,MissedShots
+Rasmus Højlund,EPL,2023,2023-12-06,Manchester United,Chelsea,2,0.0522958301007747,NO_GOAL,SavedShot
+Rasmus Højlund,EPL,2023,2024-02-04,Manchester United,West Ham,45,0.0699865743517875,NO_GOAL,MissedShots
+Rasmus Højlund,EPL,2024,2024-12-22,Manchester United,Bournemouth,68,0.0509572550654411,NO_GOAL,SavedShot
+Rasmus Højlund,EPL,2024,2024-12-30,Manchester United,Newcastle United,33,0.2680741548538208,NO_GOAL,MissedShots
+Rasmus Højlund,EPL,2024,2025-01-05,Liverpool,Manchester United,41,0.2833350002765655,NO_GOAL,SavedShot
+Rasmus Højlund,EPL,2024,2025-02-16,Tottenham,Manchester United,71,0.047943290323019,NO_GOAL,SavedShot
+Rasmus Højlund,EPL,2024,2025-02-16,Tottenham,Manchester United,78,0.0836716741323471,NO_GOAL,BlockedShot
+Rasmus Højlund,EPL,2024,2025-04-13,Newcastle United,Manchester United,93,0.1063411906361579,NO_GOAL,BlockedShot

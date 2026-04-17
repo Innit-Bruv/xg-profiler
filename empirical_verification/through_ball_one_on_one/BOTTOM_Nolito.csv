@@ -1,0 +1,16 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Nolito,La_liga,2014,2014-09-26,Elche,Celta Vigo,89,0.4977059960365295,GOAL,Goal
+Nolito,La_liga,2014,2014-10-18,Athletic Club,Celta Vigo,86,0.1162820011377334,NO_GOAL,MissedShots
+Nolito,La_liga,2014,2015-03-08,Villarreal,Celta Vigo,17,0.1117189973592758,NO_GOAL,SavedShot
+Nolito,La_liga,2014,2015-04-11,Celta Vigo,Rayo Vallecano,48,0.4675939977169037,NO_GOAL,MissedShots
+Nolito,La_liga,2015,2015-11-29,Celta Vigo,Sporting Gijon,87,0.1304579973220825,NO_GOAL,ShotOnPost
+Nolito,EPL,2016,2016-09-17,Manchester City,Bournemouth,17,0.3930040001869201,NO_GOAL,SavedShot
+Nolito,EPL,2016,2016-10-29,West Bromwich Albion,Manchester City,25,0.3939409852027893,NO_GOAL,BlockedShot
+Nolito,EPL,2016,2016-10-29,West Bromwich Albion,Manchester City,60,0.1200840026140213,NO_GOAL,BlockedShot
+Nolito,EPL,2016,2016-12-15,Manchester City,Watford,21,0.1181740015745163,NO_GOAL,SavedShot
+Nolito,La_liga,2017,2017-09-09,Sevilla,Eibar,42,0.3212789893150329,NO_GOAL,MissedShots
+Nolito,La_liga,2017,2017-09-30,Sevilla,Malaga,90,0.4368909895420074,NO_GOAL,SavedShot
+Nolito,La_liga,2019,2019-11-24,Real Valladolid,Sevilla,43,0.3194540143013,NO_GOAL,SavedShot
+Nolito,La_liga,2020,2020-11-21,Sevilla,Celta Vigo,45,0.1247000023722648,NO_GOAL,SavedShot
+Nolito,La_liga,2020,2020-11-29,Celta Vigo,Granada,70,0.4404389858245849,NO_GOAL,MissedShots
+Nolito,La_liga,2021,2021-09-12,Real Madrid,Celta Vigo,73,0.4190860092639923,NO_GOAL,MissedShots

@@ -1,0 +1,18 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Rodrigo Palacio,Serie_A,2014,2014-10-26,Cesena,Inter,91,0.0302281994372606,NO_GOAL,SavedShot
+Rodrigo Palacio,Serie_A,2014,2015-01-11,Inter,Genoa,11,0.8705030083656311,GOAL,Goal
+Rodrigo Palacio,Serie_A,2014,2015-04-19,Inter,AC Milan,78,0.5955359935760498,NO_GOAL,SavedShot
+Rodrigo Palacio,Serie_A,2015,2016-01-24,Inter,Carpi,25,0.0285717006772756,NO_GOAL,BlockedShot
+Rodrigo Palacio,Serie_A,2015,2016-01-24,Inter,Carpi,38,0.6170899868011475,GOAL,Goal
+Rodrigo Palacio,Serie_A,2015,2016-02-07,Verona,Inter,66,0.5738909840583801,NO_GOAL,SavedShot
+Rodrigo Palacio,Serie_A,2017,2018-03-18,Lazio,Bologna,29,0.0637720003724098,NO_GOAL,BlockedShot
+Rodrigo Palacio,Serie_A,2018,2019-03-31,Bologna,Sassuolo,43,0.0544832982122898,NO_GOAL,SavedShot
+Rodrigo Palacio,Serie_A,2018,2019-04-08,Bologna,Chievo,53,0.6008480191230774,NO_GOAL,MissedShots
+Rodrigo Palacio,Serie_A,2019,2019-10-06,Bologna,Lazio,30,0.8599830269813538,GOAL,Goal
+Rodrigo Palacio,Serie_A,2019,2019-12-15,Bologna,Atalanta,11,0.652538001537323,GOAL,Goal
+Rodrigo Palacio,Serie_A,2019,2020-02-01,Bologna,Brescia,46,0.4756999909877777,NO_GOAL,MissedShots
+Rodrigo Palacio,Serie_A,2020,2020-11-08,Bologna,Napoli,85,0.1106330007314682,NO_GOAL,BlockedShot
+Rodrigo Palacio,Serie_A,2020,2020-11-29,Bologna,Crotone,46,0.7998610138893127,NO_GOAL,BlockedShot
+Rodrigo Palacio,Serie_A,2020,2021-01-03,Fiorentina,Bologna,36,0.0479853004217147,NO_GOAL,MissedShots
+Rodrigo Palacio,Serie_A,2020,2021-04-11,Roma,Bologna,8,0.5453190207481384,NO_GOAL,BlockedShot
+Rodrigo Palacio,Serie_A,2020,2021-05-08,Udinese,Bologna,45,0.6325770020484924,NO_GOAL,SavedShot

@@ -1,0 +1,17 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Akor Adams,Ligue_1,2023,2023-08-19,Lyon,Montpellier,40,0.0933560878038406,NO_GOAL,MissedShots
+Akor Adams,Ligue_1,2023,2023-11-26,Montpellier,Brest,91,0.0309658776968717,NO_GOAL,BlockedShot
+Akor Adams,Ligue_1,2023,2023-12-08,Montpellier,Lens,27,0.0452863089740276,NO_GOAL,MissedShots
+Akor Adams,Ligue_1,2023,2023-12-08,Montpellier,Lens,56,0.072732113301754,NO_GOAL,BlockedShot
+Akor Adams,Ligue_1,2023,2023-12-08,Montpellier,Lens,68,0.0288938730955123,NO_GOAL,SavedShot
+Akor Adams,Ligue_1,2023,2023-12-17,Metz,Montpellier,32,0.3550925552845001,NO_GOAL,SavedShot
+Akor Adams,Ligue_1,2023,2024-01-28,Montpellier,Lille,26,0.0572936534881591,NO_GOAL,SavedShot
+Akor Adams,Ligue_1,2023,2024-01-28,Montpellier,Lille,59,0.0345766507089138,NO_GOAL,SavedShot
+Akor Adams,Ligue_1,2023,2024-02-11,Montpellier,Lyon,83,0.0498699620366096,NO_GOAL,BlockedShot
+Akor Adams,Ligue_1,2023,2024-03-03,Montpellier,Strasbourg,22,0.0389998592436313,NO_GOAL,SavedShot
+Akor Adams,Ligue_1,2023,2024-05-03,Toulouse,Montpellier,58,0.0163108725100755,NO_GOAL,MissedShots
+Akor Adams,Ligue_1,2023,2024-05-12,Montpellier,Monaco,79,0.0779908597469329,NO_GOAL,MissedShots
+Akor Adams,Ligue_1,2024,2024-09-22,Montpellier,Auxerre,38,0.0942535921931266,NO_GOAL,SavedShot
+Akor Adams,Ligue_1,2024,2024-09-28,Monaco,Montpellier,45,0.0257535614073276,NO_GOAL,BlockedShot
+Akor Adams,Ligue_1,2024,2024-09-28,Monaco,Montpellier,54,0.0586303956806659,NO_GOAL,MissedShots
+Akor Adams,La_liga,2024,2025-04-06,Sevilla,Atletico Madrid,48,0.0182837098836898,NO_GOAL,SavedShot

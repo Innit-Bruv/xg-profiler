@@ -1,0 +1,21 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Benedict Hollerbach,Bundesliga,2023,2023-12-09,Union Berlin,Borussia M.Gladbach,36,0.0479460954666137,NO_GOAL,BlockedShot
+Benedict Hollerbach,Bundesliga,2023,2023-12-09,Union Berlin,Borussia M.Gladbach,49,0.0145576773211359,GOAL,Goal
+Benedict Hollerbach,Bundesliga,2023,2024-02-04,RasenBallsport Leipzig,Union Berlin,21,0.0280950535088777,NO_GOAL,BlockedShot
+Benedict Hollerbach,Bundesliga,2023,2024-02-04,RasenBallsport Leipzig,Union Berlin,61,0.0227696932852268,NO_GOAL,MissedShots
+Benedict Hollerbach,Bundesliga,2023,2024-02-07,Mainz 05,Union Berlin,2,0.0324909277260303,NO_GOAL,SavedShot
+Benedict Hollerbach,Bundesliga,2023,2024-03-02,Union Berlin,Borussia Dortmund,7,0.0417242422699928,NO_GOAL,BlockedShot
+Benedict Hollerbach,Bundesliga,2023,2024-05-18,Union Berlin,Freiburg,67,0.0529523231089115,GOAL,Goal
+Benedict Hollerbach,Bundesliga,2024,2024-08-30,Union Berlin,St. Pauli,33,0.0358565561473369,GOAL,Goal
+Benedict Hollerbach,Bundesliga,2024,2024-11-08,Union Berlin,Freiburg,14,0.0591842159628868,NO_GOAL,BlockedShot
+Benedict Hollerbach,Bundesliga,2024,2025-01-11,FC Heidenheim,Union Berlin,5,0.0170085653662681,NO_GOAL,SavedShot
+Benedict Hollerbach,Bundesliga,2024,2025-01-15,Union Berlin,Augsburg,10,0.022265788167715,NO_GOAL,MissedShots
+Benedict Hollerbach,Bundesliga,2024,2025-01-26,St. Pauli,Union Berlin,84,0.0174230355769395,NO_GOAL,MissedShots
+Benedict Hollerbach,Bundesliga,2024,2025-02-01,Union Berlin,RasenBallsport Leipzig,11,0.0505850687623024,NO_GOAL,MissedShots
+Benedict Hollerbach,Bundesliga,2024,2025-02-01,Union Berlin,RasenBallsport Leipzig,23,0.02386274933815,NO_GOAL,MissedShots
+Benedict Hollerbach,Bundesliga,2024,2025-02-01,Union Berlin,RasenBallsport Leipzig,52,0.0163116361945867,NO_GOAL,BlockedShot
+Benedict Hollerbach,Bundesliga,2024,2025-02-08,Hoffenheim,Union Berlin,42,0.0729044824838638,NO_GOAL,BlockedShot
+Benedict Hollerbach,Bundesliga,2024,2025-02-08,Hoffenheim,Union Berlin,43,0.022800263017416,NO_GOAL,BlockedShot
+Benedict Hollerbach,Bundesliga,2024,2025-04-19,Union Berlin,VfB Stuttgart,55,0.0558579452335834,NO_GOAL,MissedShots
+Benedict Hollerbach,Bundesliga,2024,2025-04-27,Bochum,Union Berlin,16,0.0187259092926979,GOAL,Goal
+Benedict Hollerbach,Bundesliga,2024,2025-05-03,Union Berlin,Werder Bremen,50,0.0295460596680641,NO_GOAL,MissedShots

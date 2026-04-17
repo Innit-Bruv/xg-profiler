@@ -1,0 +1,33 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Douglas Costa,Bundesliga,2015,2015-08-14,Bayern Munich,Hamburger SV,86,0.0345446988940238,GOAL,Goal
+Douglas Costa,Bundesliga,2015,2015-09-12,Bayern Munich,Augsburg,17,0.0141166001558303,NO_GOAL,MissedShots
+Douglas Costa,Bundesliga,2015,2015-09-12,Bayern Munich,Augsburg,61,0.0222583003342151,NO_GOAL,BlockedShot
+Douglas Costa,Bundesliga,2015,2015-09-19,Darmstadt,Bayern Munich,29,0.0178446993231773,NO_GOAL,BlockedShot
+Douglas Costa,Bundesliga,2015,2015-09-19,Darmstadt,Bayern Munich,34,0.0193415004760026,NO_GOAL,SavedShot
+Douglas Costa,Bundesliga,2015,2016-02-14,Augsburg,Bayern Munich,45,0.0507520996034145,NO_GOAL,SavedShot
+Douglas Costa,Bundesliga,2015,2016-02-20,Bayern Munich,Darmstadt,65,0.0172757003456354,NO_GOAL,BlockedShot
+Douglas Costa,Bundesliga,2015,2016-03-19,FC Cologne,Bayern Munich,22,0.0351244993507862,NO_GOAL,MissedShots
+Douglas Costa,Bundesliga,2015,2016-04-02,Bayern Munich,Eintracht Frankfurt,78,0.0332796014845371,NO_GOAL,SavedShot
+Douglas Costa,Bundesliga,2015,2016-04-23,Hertha Berlin,Bayern Munich,30,0.024126099422574,NO_GOAL,SavedShot
+Douglas Costa,Bundesliga,2015,2016-04-23,Hertha Berlin,Bayern Munich,78,0.0120601002126932,GOAL,Goal
+Douglas Costa,Bundesliga,2015,2016-04-30,Bayern Munich,Borussia M.Gladbach,79,0.0155568998306989,NO_GOAL,SavedShot
+Douglas Costa,Bundesliga,2016,2016-11-05,Bayern Munich,Hoffenheim,56,0.0109583996236324,NO_GOAL,MissedShots
+Douglas Costa,Bundesliga,2016,2016-11-19,Borussia Dortmund,Bayern Munich,66,0.0193671006709337,NO_GOAL,MissedShots
+Douglas Costa,Bundesliga,2016,2016-11-26,Bayern Munich,Bayer Leverkusen,72,0.0079335495829582,NO_GOAL,SavedShot
+Douglas Costa,Bundesliga,2016,2017-02-18,Hertha Berlin,Bayern Munich,84,0.0223871003836393,NO_GOAL,BlockedShot
+Douglas Costa,Bundesliga,2016,2017-03-11,Bayern Munich,Eintracht Frankfurt,81,0.0093777403235435,NO_GOAL,MissedShots
+Douglas Costa,Bundesliga,2016,2017-04-15,Bayer Leverkusen,Bayern Munich,31,0.0182952005416154,NO_GOAL,BlockedShot
+Douglas Costa,Serie_A,2017,2017-12-01,Napoli,Juventus,25,0.0191230997443199,NO_GOAL,SavedShot
+Douglas Costa,Serie_A,2017,2018-01-06,Cagliari,Juventus,53,0.021280899643898,NO_GOAL,MissedShots
+Douglas Costa,Serie_A,2017,2018-01-28,Chievo,Juventus,9,0.0279274005442857,NO_GOAL,MissedShots
+Douglas Costa,Serie_A,2017,2018-04-07,Benevento,Juventus,81,0.0212294999510049,GOAL,Goal
+Douglas Costa,Serie_A,2017,2018-04-28,Inter,Juventus,23,0.0307638999074697,NO_GOAL,MissedShots
+Douglas Costa,Serie_A,2017,2018-05-13,Roma,Juventus,80,0.0086613995954394,NO_GOAL,MissedShots
+Douglas Costa,Serie_A,2018,2018-11-03,Juventus,Cagliari,10,0.0169818997383117,NO_GOAL,SavedShot
+Douglas Costa,Serie_A,2018,2018-11-24,Juventus,SPAL 2013,24,0.0158910993486642,NO_GOAL,SavedShot
+Douglas Costa,Serie_A,2018,2019-01-21,Juventus,Chievo,15,0.036761101335287,NO_GOAL,MissedShots
+Douglas Costa,Serie_A,2019,2019-08-24,Parma Calcio 1913,Juventus,3,0.0216834004968404,NO_GOAL,MissedShots
+Douglas Costa,Serie_A,2019,2019-08-31,Juventus,Napoli,67,0.0137633001431822,NO_GOAL,SavedShot
+Douglas Costa,Serie_A,2019,2020-06-30,Genoa,Juventus,72,0.023514999076724,GOAL,Goal
+Douglas Costa,Bundesliga,2020,2020-11-21,Bayern Munich,Werder Bremen,43,0.0213197991251945,NO_GOAL,BlockedShot
+Douglas Costa,Bundesliga,2020,2020-11-21,Bayern Munich,Werder Bremen,51,0.0105255004018545,NO_GOAL,ShotOnPost

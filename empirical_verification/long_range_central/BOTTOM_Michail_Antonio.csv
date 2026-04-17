@@ -1,0 +1,26 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Michail Antonio,EPL,2015,2015-12-20,Swansea,West Ham,56,0.0174563992768526,NO_GOAL,MissedShots
+Michail Antonio,EPL,2015,2016-01-12,Bournemouth,West Ham,47,0.0266705006361007,NO_GOAL,MissedShots
+Michail Antonio,EPL,2016,2017-01-21,Middlesbrough,West Ham,42,0.0144282002002,NO_GOAL,SavedShot
+Michail Antonio,EPL,2016,2017-02-01,West Ham,Manchester City,3,0.0210776999592781,NO_GOAL,SavedShot
+Michail Antonio,EPL,2016,2017-03-18,West Ham,Leicester,0,0.0127149997279047,NO_GOAL,MissedShots
+Michail Antonio,EPL,2017,2017-12-03,Manchester City,West Ham,80,0.0384613014757633,NO_GOAL,SavedShot
+Michail Antonio,EPL,2017,2017-12-16,Stoke,West Ham,8,0.0135220997035503,NO_GOAL,SavedShot
+Michail Antonio,EPL,2017,2018-02-10,West Ham,Watford,24,0.0196810998022556,NO_GOAL,BlockedShot
+Michail Antonio,EPL,2017,2018-03-10,West Ham,Burnley,20,0.0118840001523494,NO_GOAL,SavedShot
+Michail Antonio,EPL,2018,2018-08-25,Arsenal,West Ham,38,0.0207816995680332,NO_GOAL,MissedShots
+Michail Antonio,EPL,2018,2018-11-10,Huddersfield,West Ham,79,0.0186330992728471,NO_GOAL,MissedShots
+Michail Antonio,EPL,2018,2019-03-09,Cardiff,West Ham,61,0.0171166006475687,NO_GOAL,MissedShots
+Michail Antonio,EPL,2018,2019-03-09,Cardiff,West Ham,72,0.0178957004100084,NO_GOAL,BlockedShot
+Michail Antonio,EPL,2018,2019-03-16,West Ham,Huddersfield,41,0.0249474998563528,NO_GOAL,MissedShots
+Michail Antonio,EPL,2018,2019-05-04,West Ham,Southampton,29,0.0440338999032974,NO_GOAL,SavedShot
+Michail Antonio,EPL,2018,2019-05-12,Watford,West Ham,88,0.0330234989523887,NO_GOAL,MissedShots
+Michail Antonio,EPL,2019,2019-12-26,Crystal Palace,West Ham,33,0.020066000521183,NO_GOAL,SavedShot
+Michail Antonio,EPL,2019,2020-02-01,West Ham,Brighton,39,0.0237146001309156,NO_GOAL,SavedShot
+Michail Antonio,EPL,2019,2020-03-07,Arsenal,West Ham,80,0.0189859997481107,NO_GOAL,MissedShots
+Michail Antonio,EPL,2020,2021-04-05,Wolverhampton Wanderers,West Ham,3,0.0177795998752117,NO_GOAL,SavedShot
+Michail Antonio,EPL,2020,2021-05-03,Burnley,West Ham,5,0.0187020003795623,NO_GOAL,MissedShots
+Michail Antonio,EPL,2020,2021-05-15,Brighton,West Ham,64,0.0136390998959541,NO_GOAL,BlockedShot
+Michail Antonio,EPL,2021,2021-12-12,Burnley,West Ham,58,0.0215144008398056,NO_GOAL,MissedShots
+Michail Antonio,EPL,2021,2022-03-05,Liverpool,West Ham,21,0.0237268004566431,NO_GOAL,SavedShot
+Michail Antonio,EPL,2021,2022-05-15,West Ham,Manchester City,64,0.2621890008449554,NO_GOAL,MissedShots

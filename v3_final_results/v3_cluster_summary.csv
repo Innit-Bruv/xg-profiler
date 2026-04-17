@@ -1,0 +1,15 @@
+v3_cluster_id,v3_cluster_name,n_shots,goals,mean_xg,goal_rate_pct
+0,edge_of_box_speculative,3944,223,0.0533,5.7
+1,inside_box_central,99826,17568,0.1843,17.6
+2,zone14_central_strike,111316,4028,0.0296,3.6
+3,header_from_cross_corner,61392,8348,0.1534,13.6
+4,wide_left_box,26611,1145,0.0557,4.3
+5,long_range_central,23334,507,0.0204,2.2
+6,wide_right_box,29186,1251,0.0556,4.3
+7,set_piece_header,27391,1613,0.0627,5.9
+8,long_range_left,22586,558,0.0245,2.5
+9,direct_free_kick,17369,1043,0.062,6.0
+10,through_ball_one_on_one,10027,2813,0.2941,28.1
+11,top_of_box_edge,17150,2426,0.1398,14.1
+12,box_scramble_header,20213,2176,0.1295,10.8
+13,rebound_shot,19859,4580,0.2435,23.1

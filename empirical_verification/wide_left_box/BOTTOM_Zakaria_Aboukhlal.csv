@@ -1,0 +1,18 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Zakaria Aboukhlal,Ligue_1,2022,2022-10-28,Lens,Toulouse,24,0.0135760996490716,NO_GOAL,BlockedShot
+Zakaria Aboukhlal,Ligue_1,2022,2023-01-29,Strasbourg,Toulouse,22,0.0281221996992826,NO_GOAL,MissedShots
+Zakaria Aboukhlal,Ligue_1,2022,2023-01-29,Strasbourg,Toulouse,64,0.0518440008163452,NO_GOAL,BlockedShot
+Zakaria Aboukhlal,Ligue_1,2022,2023-02-01,Toulouse,Troyes,86,0.0750477984547615,NO_GOAL,SavedShot
+Zakaria Aboukhlal,Ligue_1,2022,2023-02-12,Toulouse,Rennes,17,0.043443601578474,NO_GOAL,MissedShots
+Zakaria Aboukhlal,Ligue_1,2022,2023-02-26,Reims,Toulouse,8,0.027217399328947,NO_GOAL,MissedShots
+Zakaria Aboukhlal,Ligue_1,2022,2023-03-12,Angers,Toulouse,61,0.2515830099582672,NO_GOAL,SavedShot
+Zakaria Aboukhlal,Ligue_1,2022,2023-04-02,Brest,Toulouse,6,0.0746769979596138,NO_GOAL,BlockedShot
+Zakaria Aboukhlal,Ligue_1,2023,2023-09-03,Toulouse,Clermont Foot,10,0.0904129818081855,NO_GOAL,BlockedShot
+Zakaria Aboukhlal,Ligue_1,2023,2024-05-12,Paris Saint Germain,Toulouse,43,0.0534738786518573,NO_GOAL,MissedShots
+Zakaria Aboukhlal,Ligue_1,2024,2024-08-25,Nice,Toulouse,21,0.0372781231999397,NO_GOAL,MissedShots
+Zakaria Aboukhlal,Ligue_1,2024,2024-09-15,Toulouse,Le Havre,27,0.079728752374649,NO_GOAL,MissedShots
+Zakaria Aboukhlal,Ligue_1,2024,2024-09-22,Brest,Toulouse,60,0.0553984008729457,NO_GOAL,MissedShots
+Zakaria Aboukhlal,Ligue_1,2024,2024-10-20,Toulouse,Angers,12,0.5722879767417908,NO_GOAL,BlockedShot
+Zakaria Aboukhlal,Ligue_1,2024,2024-11-03,Toulouse,Reims,48,0.0273340363055467,NO_GOAL,MissedShots
+Zakaria Aboukhlal,Ligue_1,2024,2024-11-10,Rennes,Toulouse,72,0.1330441683530807,NO_GOAL,BlockedShot
+Zakaria Aboukhlal,Ligue_1,2024,2025-05-10,Toulouse,Lens,81,0.0415417402982711,NO_GOAL,SavedShot

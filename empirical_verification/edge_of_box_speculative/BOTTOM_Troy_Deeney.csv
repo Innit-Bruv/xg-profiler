@@ -1,0 +1,15 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Troy Deeney,EPL,2015,2015-08-08,Everton,Watford,12,0.1245639994740486,NO_GOAL,BlockedShot
+Troy Deeney,EPL,2015,2015-09-12,Watford,Swansea,22,0.0652239993214607,NO_GOAL,MissedShots
+Troy Deeney,EPL,2015,2015-10-17,Watford,Arsenal,88,0.036669198423624,NO_GOAL,MissedShots
+Troy Deeney,EPL,2015,2015-11-21,Watford,Manchester United,55,0.0846135020256042,NO_GOAL,SavedShot
+Troy Deeney,EPL,2015,2015-11-28,Aston Villa,Watford,2,0.0640614032745361,NO_GOAL,MissedShots
+Troy Deeney,EPL,2015,2016-01-19,Swansea,Watford,20,0.0704716965556144,NO_GOAL,BlockedShot
+Troy Deeney,EPL,2015,2016-02-03,Watford,Chelsea,9,0.0141070997342467,NO_GOAL,BlockedShot
+Troy Deeney,EPL,2015,2016-02-13,Crystal Palace,Watford,74,0.0299248993396759,NO_GOAL,BlockedShot
+Troy Deeney,EPL,2015,2016-03-05,Watford,Leicester,56,0.0502366982400417,NO_GOAL,BlockedShot
+Troy Deeney,EPL,2016,2016-10-29,Watford,Hull,31,0.0370296984910965,NO_GOAL,MissedShots
+Troy Deeney,EPL,2016,2017-04-22,Hull,Watford,90,0.0489526018500328,NO_GOAL,MissedShots
+Troy Deeney,EPL,2017,2017-09-23,Swansea,Watford,86,0.1003969982266426,NO_GOAL,SavedShot
+Troy Deeney,EPL,2017,2018-04-21,Watford,Crystal Palace,79,0.0580913014709949,NO_GOAL,MissedShots
+Troy Deeney,EPL,2019,2019-08-17,Everton,Watford,83,0.0492976009845733,NO_GOAL,BlockedShot

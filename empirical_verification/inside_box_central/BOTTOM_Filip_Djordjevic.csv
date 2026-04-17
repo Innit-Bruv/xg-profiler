@@ -1,0 +1,20 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Filip Djordjevic,Serie_A,2014,2014-08-31,AC Milan,Lazio,88,0.0680446997284889,NO_GOAL,MissedShots
+Filip Djordjevic,Serie_A,2014,2014-09-21,Genoa,Lazio,3,0.1530240029096603,NO_GOAL,MissedShots
+Filip Djordjevic,Serie_A,2014,2014-09-25,Lazio,Udinese,77,0.0697043016552925,NO_GOAL,BlockedShot
+Filip Djordjevic,Serie_A,2014,2014-09-29,Palermo,Lazio,70,0.7839210033416748,NO_GOAL,SavedShot
+Filip Djordjevic,Serie_A,2014,2014-10-19,Fiorentina,Lazio,34,0.5764679908752441,GOAL,Goal
+Filip Djordjevic,Serie_A,2014,2014-10-19,Fiorentina,Lazio,73,0.0917605012655258,NO_GOAL,BlockedShot
+Filip Djordjevic,Serie_A,2014,2014-12-13,Lazio,Atalanta,19,0.0599758997559547,NO_GOAL,SavedShot
+Filip Djordjevic,Serie_A,2014,2015-01-05,Lazio,Sampdoria,65,0.9785540103912354,GOAL,Goal
+Filip Djordjevic,Serie_A,2014,2015-05-03,Atalanta,Lazio,83,0.1300289928913116,NO_GOAL,BlockedShot
+Filip Djordjevic,Serie_A,2014,2015-05-16,Sampdoria,Lazio,73,0.1455599963665008,NO_GOAL,BlockedShot
+Filip Djordjevic,Serie_A,2015,2015-09-27,Verona,Lazio,58,0.6206499934196472,NO_GOAL,BlockedShot
+Filip Djordjevic,Serie_A,2015,2015-11-08,Roma,Lazio,31,0.503350019454956,NO_GOAL,BlockedShot
+Filip Djordjevic,Serie_A,2015,2015-11-29,Empoli,Lazio,58,0.0744882971048355,NO_GOAL,SavedShot
+Filip Djordjevic,Serie_A,2015,2016-02-21,Frosinone,Lazio,33,0.05762530118227,NO_GOAL,MissedShots
+Filip Djordjevic,Serie_A,2015,2016-04-24,Sampdoria,Lazio,68,0.5085560083389282,NO_GOAL,MissedShots
+Filip Djordjevic,Serie_A,2018,2018-09-02,Chievo,Empoli,77,0.4110420048236847,NO_GOAL,SavedShot
+Filip Djordjevic,Serie_A,2018,2018-12-29,Chievo,Frosinone,11,0.2893649935722351,NO_GOAL,MissedShots
+Filip Djordjevic,Serie_A,2018,2019-02-17,Udinese,Chievo,53,0.1357530057430267,NO_GOAL,BlockedShot
+Filip Djordjevic,Serie_A,2018,2019-03-03,Torino,Chievo,47,0.6279860138893127,NO_GOAL,SavedShot

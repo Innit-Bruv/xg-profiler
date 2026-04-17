@@ -1,0 +1,20 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Fabián Orellana,La_liga,2014,2014-09-23,Celta Vigo,Deportivo La Coruna,23,0.1080899983644485,NO_GOAL,MissedShots
+Fabián Orellana,La_liga,2014,2014-11-08,Celta Vigo,Granada,35,0.2142480015754699,NO_GOAL,BlockedShot
+Fabián Orellana,La_liga,2014,2014-12-19,Celta Vigo,Almeria,60,0.0610327012836933,NO_GOAL,ShotOnPost
+Fabián Orellana,La_liga,2014,2015-01-03,Sevilla,Celta Vigo,45,0.0492378994822502,NO_GOAL,BlockedShot
+Fabián Orellana,La_liga,2014,2015-01-03,Sevilla,Celta Vigo,73,0.0548902004957199,NO_GOAL,MissedShots
+Fabián Orellana,La_liga,2014,2015-03-21,Levante,Celta Vigo,12,0.0822926983237266,NO_GOAL,BlockedShot
+Fabián Orellana,La_liga,2014,2015-04-19,Eibar,Celta Vigo,83,0.1078609973192215,NO_GOAL,BlockedShot
+Fabián Orellana,La_liga,2014,2015-05-10,Celta Vigo,Sevilla,36,0.0689487010240554,NO_GOAL,BlockedShot
+Fabián Orellana,La_liga,2015,2015-11-07,Celta Vigo,Valencia,57,0.167043998837471,NO_GOAL,BlockedShot
+Fabián Orellana,La_liga,2015,2016-03-05,Real Madrid,Celta Vigo,43,0.0857727006077766,NO_GOAL,BlockedShot
+Fabián Orellana,La_liga,2015,2016-05-08,Celta Vigo,Malaga,46,0.0606697015464305,NO_GOAL,MissedShots
+Fabián Orellana,La_liga,2016,2016-10-23,Celta Vigo,Deportivo La Coruna,75,0.0731109976768493,NO_GOAL,SavedShot
+Fabián Orellana,La_liga,2016,2017-04-26,Valencia,Real Sociedad,77,0.1643269956111908,NO_GOAL,BlockedShot
+Fabián Orellana,La_liga,2017,2018-05-05,Girona,Eibar,47,0.0505950003862381,NO_GOAL,MissedShots
+Fabián Orellana,La_liga,2018,2018-11-04,Eibar,Alaves,25,0.0845281034708023,NO_GOAL,ShotOnPost
+Fabián Orellana,La_liga,2018,2018-12-22,Real Betis,Eibar,59,0.1548220068216323,NO_GOAL,BlockedShot
+Fabián Orellana,La_liga,2018,2019-05-05,Eibar,Real Betis,84,0.0888091996312141,NO_GOAL,BlockedShot
+Fabián Orellana,La_liga,2019,2019-09-26,Eibar,Sevilla,76,0.1304550021886825,NO_GOAL,BlockedShot
+Fabián Orellana,La_liga,2020,2021-01-19,Real Valladolid,Elche,27,0.1419200003147125,NO_GOAL,BlockedShot

@@ -1,0 +1,22 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Isco,La_liga,2014,2014-12-12,Almeria,Real Madrid,33,0.016746899113059,GOAL,Goal
+Isco,La_liga,2014,2015-02-14,Real Madrid,Deportivo La Coruna,22,0.0437342002987861,GOAL,Goal
+Isco,La_liga,2014,2015-03-22,Barcelona,Real Madrid,12,0.0322060994803905,NO_GOAL,BlockedShot
+Isco,La_liga,2015,2015-09-19,Real Madrid,Granada,47,0.0380197986960411,NO_GOAL,BlockedShot
+Isco,La_liga,2015,2015-09-26,Real Madrid,Malaga,12,0.0728899016976356,NO_GOAL,MissedShots
+Isco,La_liga,2015,2016-02-21,Malaga,Real Madrid,17,0.0233549997210502,NO_GOAL,MissedShots
+Isco,La_liga,2016,2016-09-18,Espanyol,Real Madrid,83,0.0478259995579719,NO_GOAL,SavedShot
+Isco,La_liga,2016,2016-10-15,Real Betis,Real Madrid,61,0.0745093002915382,GOAL,Goal
+Isco,La_liga,2016,2017-04-02,Real Madrid,Alaves,24,0.0692510977387428,NO_GOAL,MissedShots
+Isco,La_liga,2016,2017-05-17,Celta Vigo,Real Madrid,26,0.0358427017927169,NO_GOAL,BlockedShot
+Isco,La_liga,2017,2017-09-20,Real Madrid,Real Betis,54,0.0293956007808446,NO_GOAL,BlockedShot
+Isco,La_liga,2017,2018-01-07,Celta Vigo,Real Madrid,13,0.028321299701929,NO_GOAL,MissedShots
+Isco,La_liga,2017,2018-02-21,Leganes,Real Madrid,32,0.0679652988910675,NO_GOAL,MissedShots
+Isco,La_liga,2017,2018-03-03,Real Madrid,Getafe,59,0.095517598092556,NO_GOAL,BlockedShot
+Isco,La_liga,2017,2018-05-12,Real Madrid,Celta Vigo,31,0.0431295000016689,GOAL,Goal
+Isco,La_liga,2019,2020-02-22,Levante,Real Madrid,62,0.0524078011512756,NO_GOAL,MissedShots
+Isco,La_liga,2019,2020-07-13,Granada,Real Madrid,4,0.0325870998203754,NO_GOAL,SavedShot
+Isco,La_liga,2023,2023-08-20,Real Betis,Atletico Madrid,55,0.0435464605689048,NO_GOAL,BlockedShot
+Isco,La_liga,2023,2023-10-21,Getafe,Real Betis,58,0.0368979312479496,NO_GOAL,MissedShots
+Isco,La_liga,2023,2023-10-29,Real Betis,Osasuna,93,0.0379073806107044,GOAL,Goal
+Isco,La_liga,2023,2024-04-20,Valencia,Real Betis,32,0.0669980198144912,NO_GOAL,BlockedShot

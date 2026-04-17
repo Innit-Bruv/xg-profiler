@@ -1,0 +1,21 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Alassane Pléa,Ligue_1,2015,2015-08-22,Nice,Caen,37,0.317900002002716,NO_GOAL,MissedShots
+Alassane Pléa,Ligue_1,2016,2016-08-20,Angers,Nice,39,0.4043439924716949,NO_GOAL,MissedShots
+Alassane Pléa,Ligue_1,2016,2016-08-27,Nice,Lille,77,0.4391739964485168,NO_GOAL,SavedShot
+Alassane Pléa,Ligue_1,2016,2016-09-11,Nice,Marseille,16,0.4205000102519989,NO_GOAL,MissedShots
+Alassane Pléa,Ligue_1,2016,2016-11-27,Nice,SC Bastia,72,0.6427050232887268,NO_GOAL,SavedShot
+Alassane Pléa,Ligue_1,2016,2016-12-21,Bordeaux,Nice,21,0.103423997759819,NO_GOAL,BlockedShot
+Alassane Pléa,Ligue_1,2016,2016-12-21,Bordeaux,Nice,75,0.0251902993768453,NO_GOAL,MissedShots
+Alassane Pléa,Ligue_1,2017,2017-08-11,Nice,Troyes,4,0.0698603019118309,NO_GOAL,BlockedShot
+Alassane Pléa,Ligue_1,2017,2017-10-22,Nice,Strasbourg,59,0.3531239926815033,NO_GOAL,SavedShot
+Alassane Pléa,Ligue_1,2017,2017-12-17,Nice,Bordeaux,57,0.4692539870738983,NO_GOAL,MissedShots
+Alassane Pléa,Ligue_1,2017,2018-04-08,Nice,Rennes,35,0.0759733989834785,NO_GOAL,BlockedShot
+Alassane Pléa,Bundesliga,2018,2019-01-26,Borussia M.Gladbach,Augsburg,43,0.4222039878368377,NO_GOAL,MissedShots
+Alassane Pléa,Bundesliga,2019,2019-09-22,Borussia M.Gladbach,Fortuna Duesseldorf,49,0.0198142006993293,NO_GOAL,BlockedShot
+Alassane Pléa,Bundesliga,2020,2021-04-25,Borussia M.Gladbach,Arminia Bielefeld,86,0.0690921023488044,NO_GOAL,SavedShot
+Alassane Pléa,Bundesliga,2021,2022-02-26,Borussia M.Gladbach,Wolfsburg,76,0.6239179968833923,NO_GOAL,MissedShots
+Alassane Pléa,Bundesliga,2023,2023-09-30,Bochum,Borussia M.Gladbach,36,0.3975738883018493,GOAL,Goal
+Alassane Pléa,Bundesliga,2023,2023-12-15,Borussia M.Gladbach,Werder Bremen,46,0.0904194563627243,NO_GOAL,SavedShot
+Alassane Pléa,Bundesliga,2024,2024-09-14,Borussia M.Gladbach,VfB Stuttgart,25,0.5315675735473633,NO_GOAL,SavedShot
+Alassane Pléa,Bundesliga,2024,2024-11-09,RasenBallsport Leipzig,Borussia M.Gladbach,47,0.0445680730044841,NO_GOAL,BlockedShot
+Alassane Pléa,Bundesliga,2024,2024-11-24,Borussia M.Gladbach,St. Pauli,12,0.6126546263694763,GOAL,Goal

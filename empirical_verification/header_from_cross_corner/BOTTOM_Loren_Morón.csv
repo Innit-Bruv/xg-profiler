@@ -1,0 +1,28 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Loren Morón,La_liga,2017,2018-02-18,Real Betis,Real Madrid,17,0.065478503704071,NO_GOAL,MissedShots
+Loren Morón,La_liga,2017,2018-02-18,Real Betis,Real Madrid,66,0.3112230002880096,NO_GOAL,MissedShots
+Loren Morón,La_liga,2017,2018-03-04,Valencia,Real Betis,89,0.0305464006960392,NO_GOAL,SavedShot
+Loren Morón,La_liga,2017,2018-04-02,Getafe,Real Betis,31,0.1034530028700828,NO_GOAL,MissedShots
+Loren Morón,La_liga,2018,2018-08-25,Alaves,Real Betis,2,0.0315773002803325,NO_GOAL,MissedShots
+Loren Morón,La_liga,2018,2018-09-27,Girona,Real Betis,63,0.627938985824585,GOAL,Goal
+Loren Morón,La_liga,2018,2018-09-30,Real Betis,Leganes,85,0.4422940015792846,NO_GOAL,MissedShots
+Loren Morón,La_liga,2018,2018-10-28,Getafe,Real Betis,56,0.0584588982164859,NO_GOAL,MissedShots
+Loren Morón,La_liga,2018,2018-10-28,Getafe,Real Betis,73,0.0791015997529029,NO_GOAL,SavedShot
+Loren Morón,La_liga,2018,2018-11-11,Barcelona,Real Betis,4,0.0432099997997283,NO_GOAL,MissedShots
+Loren Morón,La_liga,2018,2019-02-17,Real Betis,Alaves,89,0.597000002861023,NO_GOAL,SavedShot
+Loren Morón,La_liga,2018,2019-04-24,Levante,Real Betis,93,0.0484926998615264,NO_GOAL,MissedShots
+Loren Morón,La_liga,2018,2019-05-12,Real Betis,SD Huesca,16,0.5661749839782715,NO_GOAL,MissedShots
+Loren Morón,La_liga,2018,2019-05-12,Real Betis,SD Huesca,67,0.5566310286521912,NO_GOAL,SavedShot
+Loren Morón,La_liga,2019,2019-09-24,Real Betis,Levante,47,0.4169540107250213,NO_GOAL,ShotOnPost
+Loren Morón,La_liga,2019,2019-10-30,Real Betis,Celta Vigo,72,0.3274160027503967,NO_GOAL,MissedShots
+Loren Morón,La_liga,2019,2019-11-10,Real Betis,Sevilla,46,0.1192499995231628,NO_GOAL,MissedShots
+Loren Morón,La_liga,2019,2019-11-30,Mallorca,Real Betis,17,0.0621947012841701,NO_GOAL,MissedShots
+Loren Morón,La_liga,2019,2019-11-30,Mallorca,Real Betis,63,0.2798160016536712,NO_GOAL,MissedShots
+Loren Morón,La_liga,2019,2019-12-08,Real Betis,Athletic Club,65,0.0321701988577842,NO_GOAL,MissedShots
+Loren Morón,La_liga,2019,2019-12-22,Real Betis,Atletico Madrid,14,0.0159061998128891,NO_GOAL,BlockedShot
+Loren Morón,La_liga,2019,2020-07-11,Atletico Madrid,Real Betis,47,0.0302114002406597,NO_GOAL,MissedShots
+Loren Morón,La_liga,2019,2020-07-19,Real Valladolid,Real Betis,21,0.0998686030507087,NO_GOAL,SavedShot
+Loren Morón,La_liga,2020,2020-11-07,Barcelona,Real Betis,93,0.0306446999311447,NO_GOAL,SavedShot
+Loren Morón,La_liga,2020,2021-01-11,SD Huesca,Real Betis,37,0.5549259781837463,NO_GOAL,MissedShots
+Loren Morón,La_liga,2020,2021-02-01,Real Betis,Osasuna,10,0.400750994682312,NO_GOAL,ShotOnPost
+Loren Morón,La_liga,2021,2021-10-31,Getafe,Espanyol,83,0.0592872984707355,NO_GOAL,BlockedShot

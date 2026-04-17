@@ -1,0 +1,27 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Serge Gnabry,Bundesliga,2016,2016-09-21,Werder Bremen,Mainz 05,4,0.0187059994786977,NO_GOAL,MissedShots
+Serge Gnabry,Bundesliga,2016,2017-02-24,Wolfsburg,Werder Bremen,9,0.109433002769947,GOAL,Goal
+Serge Gnabry,Bundesliga,2016,2017-05-05,FC Cologne,Werder Bremen,69,0.042842399328947,NO_GOAL,MissedShots
+Serge Gnabry,Bundesliga,2017,2017-12-13,Hoffenheim,VfB Stuttgart,30,0.0327995009720325,NO_GOAL,MissedShots
+Serge Gnabry,Bundesliga,2017,2018-02-10,Hoffenheim,Mainz 05,58,0.0252512004226446,NO_GOAL,BlockedShot
+Serge Gnabry,Bundesliga,2017,2018-03-31,Hoffenheim,FC Cologne,21,0.1835040003061294,GOAL,Goal
+Serge Gnabry,Bundesliga,2017,2018-04-14,Hoffenheim,Hamburger SV,17,0.568120002746582,GOAL,Goal
+Serge Gnabry,Bundesliga,2019,2020-02-16,FC Cologne,Bayern Munich,11,0.0530358999967575,GOAL,Goal
+Serge Gnabry,Bundesliga,2019,2020-02-16,FC Cologne,Bayern Munich,28,0.7007489800453186,NO_GOAL,ShotOnPost
+Serge Gnabry,Bundesliga,2019,2020-02-16,FC Cologne,Bayern Munich,65,0.0596023015677928,GOAL,Goal
+Serge Gnabry,Bundesliga,2019,2020-02-21,Bayern Munich,Paderborn,24,0.1856410056352615,GOAL,Goal
+Serge Gnabry,Bundesliga,2019,2020-05-30,Bayern Munich,Fortuna Duesseldorf,37,0.0548996999859809,NO_GOAL,MissedShots
+Serge Gnabry,Bundesliga,2019,2020-05-30,Bayern Munich,Fortuna Duesseldorf,69,0.1672589927911758,NO_GOAL,SavedShot
+Serge Gnabry,Bundesliga,2020,2021-05-08,Bayern Munich,Borussia M.Gladbach,78,0.0282147005200386,NO_GOAL,MissedShots
+Serge Gnabry,Bundesliga,2021,2021-12-14,VfB Stuttgart,Bayern Munich,52,0.4876680076122284,GOAL,Goal
+Serge Gnabry,Bundesliga,2021,2022-01-07,Bayern Munich,Borussia M.Gladbach,53,0.0375047996640205,NO_GOAL,BlockedShot
+Serge Gnabry,Bundesliga,2022,2022-11-05,Hertha Berlin,Bayern Munich,59,0.0793567970395088,NO_GOAL,MissedShots
+Serge Gnabry,Bundesliga,2022,2022-11-08,Bayern Munich,Werder Bremen,81,0.7171040177345276,GOAL,Goal
+Serge Gnabry,Bundesliga,2022,2022-11-12,Schalke 04,Bayern Munich,92,0.0402197018265724,NO_GOAL,MissedShots
+Serge Gnabry,Bundesliga,2022,2023-01-20,RasenBallsport Leipzig,Bayern Munich,58,0.0642749965190887,NO_GOAL,BlockedShot
+Serge Gnabry,Bundesliga,2022,2023-04-08,Freiburg,Bayern Munich,52,0.1316740065813064,NO_GOAL,BlockedShot
+Serge Gnabry,Bundesliga,2022,2023-05-13,Bayern Munich,Schalke 04,64,0.7905024886131287,GOAL,Goal
+Serge Gnabry,Bundesliga,2024,2024-08-25,Wolfsburg,Bayern Munich,63,0.0921997353434562,NO_GOAL,BlockedShot
+Serge Gnabry,Bundesliga,2024,2024-09-21,Werder Bremen,Bayern Munich,64,0.1409496366977691,GOAL,Goal
+Serge Gnabry,Bundesliga,2024,2025-02-01,Bayern Munich,Holstein Kiel,53,0.4262347221374511,GOAL,Goal
+Serge Gnabry,Bundesliga,2024,2025-04-12,Bayern Munich,Borussia Dortmund,68,0.1192034184932708,GOAL,Goal

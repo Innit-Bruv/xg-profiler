@@ -1,0 +1,20 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Aytac Sulu,Bundesliga,2015,2015-08-22,Schalke 04,Darmstadt,62,0.1016639992594719,NO_GOAL,MissedShots
+Aytac Sulu,Bundesliga,2015,2015-09-12,Bayer Leverkusen,Darmstadt,7,0.0698598995804786,GOAL,Goal
+Aytac Sulu,Bundesliga,2015,2015-09-27,Borussia Dortmund,Darmstadt,89,0.0757701024413108,GOAL,Goal
+Aytac Sulu,Bundesliga,2015,2015-11-01,VfB Stuttgart,Darmstadt,33,0.0256149005144834,NO_GOAL,MissedShots
+Aytac Sulu,Bundesliga,2015,2015-11-01,VfB Stuttgart,Darmstadt,83,0.0560688003897666,NO_GOAL,MissedShots
+Aytac Sulu,Bundesliga,2015,2015-12-06,Eintracht Frankfurt,Darmstadt,29,0.2730279862880707,GOAL,Goal
+Aytac Sulu,Bundesliga,2015,2015-12-06,Eintracht Frankfurt,Darmstadt,35,0.0344811007380485,NO_GOAL,ShotOnPost
+Aytac Sulu,Bundesliga,2015,2015-12-06,Eintracht Frankfurt,Darmstadt,62,0.0863213017582893,NO_GOAL,SavedShot
+Aytac Sulu,Bundesliga,2015,2016-02-13,Darmstadt,Bayer Leverkusen,82,0.0653316006064415,NO_GOAL,MissedShots
+Aytac Sulu,Bundesliga,2015,2016-02-27,Werder Bremen,Darmstadt,81,0.1018999963998794,GOAL,Goal
+Aytac Sulu,Bundesliga,2015,2016-03-19,Wolfsburg,Darmstadt,75,0.0603484995663166,NO_GOAL,MissedShots
+Aytac Sulu,Bundesliga,2015,2016-04-09,Hamburger SV,Darmstadt,37,0.0379210002720356,GOAL,Goal
+Aytac Sulu,Bundesliga,2016,2016-12-21,Hertha Berlin,Darmstadt,42,0.5279189944267273,NO_GOAL,MissedShots
+Aytac Sulu,Bundesliga,2016,2017-03-11,Darmstadt,Mainz 05,30,0.0579079017043113,NO_GOAL,BlockedShot
+Aytac Sulu,Bundesliga,2016,2017-04-05,Darmstadt,Bayer Leverkusen,85,0.0431559011340141,NO_GOAL,MissedShots
+Aytac Sulu,Bundesliga,2016,2017-04-16,Darmstadt,Schalke 04,81,0.0369447991251945,NO_GOAL,MissedShots
+Aytac Sulu,Bundesliga,2016,2017-04-16,Darmstadt,Schalke 04,92,0.052165899425745,NO_GOAL,BlockedShot
+Aytac Sulu,Bundesliga,2016,2017-04-22,Hamburger SV,Darmstadt,23,0.0332963988184928,NO_GOAL,SavedShot
+Aytac Sulu,Bundesliga,2016,2017-04-29,Darmstadt,Freiburg,62,0.0262291003018617,NO_GOAL,MissedShots

@@ -1,0 +1,13 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Henrikh Mkhitaryan,Bundesliga,2014,2014-08-23,Borussia Dortmund,Bayer Leverkusen,93,0.0100988997146487,NO_GOAL,MissedShots
+Henrikh Mkhitaryan,Bundesliga,2014,2014-11-09,Borussia Dortmund,Borussia M.Gladbach,68,0.0430389009416103,NO_GOAL,BlockedShot
+Henrikh Mkhitaryan,Bundesliga,2014,2014-11-30,Eintracht Frankfurt,Borussia Dortmund,88,0.0119220996275544,NO_GOAL,MissedShots
+Henrikh Mkhitaryan,Bundesliga,2014,2014-12-13,Hertha Berlin,Borussia Dortmund,32,0.0216637998819351,NO_GOAL,MissedShots
+Henrikh Mkhitaryan,Bundesliga,2015,2016-03-20,Augsburg,Borussia Dortmund,44,0.1091350018978118,GOAL,Goal
+Henrikh Mkhitaryan,EPL,2016,2016-12-11,Manchester United,Tottenham,21,0.0947343036532402,NO_GOAL,BlockedShot
+Henrikh Mkhitaryan,EPL,2017,2017-08-26,Manchester United,Leicester,11,0.0294399000704288,NO_GOAL,BlockedShot
+Henrikh Mkhitaryan,Serie_A,2019,2020-07-08,Roma,Parma Calcio 1913,33,0.031980000436306,NO_GOAL,MissedShots
+Henrikh Mkhitaryan,Serie_A,2022,2023-02-18,Inter,Udinese,64,0.1007319986820221,NO_GOAL,SavedShot
+Henrikh Mkhitaryan,Serie_A,2023,2023-12-03,Napoli,Inter,59,0.0195732712745666,NO_GOAL,MissedShots
+Henrikh Mkhitaryan,Serie_A,2024,2024-10-27,Inter,Juventus,34,0.0892266854643821,GOAL,Goal
+Henrikh Mkhitaryan,Serie_A,2024,2025-02-02,AC Milan,Inter,24,0.0135563602671027,NO_GOAL,BlockedShot

@@ -1,0 +1,53 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Kingsley Coman,Serie_A,2014,2014-08-30,Chievo,Juventus,34,0.0399367995560169,NO_GOAL,SavedShot
+Kingsley Coman,Serie_A,2014,2015-04-11,Parma,Juventus,70,0.0177691001445055,NO_GOAL,BlockedShot
+Kingsley Coman,Serie_A,2014,2015-05-09,Juventus,Cagliari,10,0.0192814990878105,NO_GOAL,MissedShots
+Kingsley Coman,Serie_A,2015,2015-08-23,Juventus,Udinese,4,0.0380804017186164,NO_GOAL,SavedShot
+Kingsley Coman,Bundesliga,2015,2015-09-19,Darmstadt,Bayern Munich,35,0.0240107998251914,NO_GOAL,BlockedShot
+Kingsley Coman,Bundesliga,2015,2015-09-26,Mainz 05,Bayern Munich,44,0.0211734995245933,NO_GOAL,MissedShots
+Kingsley Coman,Bundesliga,2015,2015-10-24,Bayern Munich,FC Cologne,51,0.0246954001486301,NO_GOAL,MissedShots
+Kingsley Coman,Bundesliga,2015,2016-03-02,Bayern Munich,Mainz 05,28,0.0172616001218557,NO_GOAL,MissedShots
+Kingsley Coman,Bundesliga,2016,2016-10-01,Bayern Munich,FC Cologne,59,0.0195662006735801,NO_GOAL,MissedShots
+Kingsley Coman,Bundesliga,2016,2017-04-22,Bayern Munich,Mainz 05,65,0.0194636993110179,NO_GOAL,BlockedShot
+Kingsley Coman,Bundesliga,2017,2017-08-18,Bayern Munich,Bayer Leverkusen,84,0.0497110001742839,NO_GOAL,BlockedShot
+Kingsley Coman,Bundesliga,2017,2017-09-09,Hoffenheim,Bayern Munich,61,0.0232586003839969,NO_GOAL,MissedShots
+Kingsley Coman,Bundesliga,2017,2017-10-14,Bayern Munich,Freiburg,9,0.0361215993762016,NO_GOAL,BlockedShot
+Kingsley Coman,Bundesliga,2017,2017-12-02,Bayern Munich,Hannover 96,49,0.0223906002938747,NO_GOAL,BlockedShot
+Kingsley Coman,Bundesliga,2018,2019-01-18,Hoffenheim,Bayern Munich,48,0.0364344008266925,NO_GOAL,SavedShot
+Kingsley Coman,Bundesliga,2018,2019-02-02,Bayer Leverkusen,Bayern Munich,31,0.0288727991282939,NO_GOAL,SavedShot
+Kingsley Coman,Bundesliga,2018,2019-02-02,Bayer Leverkusen,Bayern Munich,39,0.0519969016313552,NO_GOAL,SavedShot
+Kingsley Coman,Bundesliga,2018,2019-04-06,Bayern Munich,Borussia Dortmund,12,0.0193428006023168,NO_GOAL,MissedShots
+Kingsley Coman,Bundesliga,2018,2019-04-14,Fortuna Duesseldorf,Bayern Munich,14,0.0169794000685215,GOAL,Goal
+Kingsley Coman,Bundesliga,2018,2019-05-04,Bayern Munich,Hannover 96,43,0.0222608000040054,NO_GOAL,MissedShots
+Kingsley Coman,Bundesliga,2019,2019-10-26,Bayern Munich,Union Berlin,48,0.0440921001136302,NO_GOAL,MissedShots
+Kingsley Coman,Bundesliga,2019,2019-11-09,Bayern Munich,Borussia Dortmund,25,0.0206151008605957,NO_GOAL,MissedShots
+Kingsley Coman,Bundesliga,2019,2019-11-09,Bayern Munich,Borussia Dortmund,72,0.0413361005485057,NO_GOAL,MissedShots
+Kingsley Coman,Bundesliga,2019,2020-06-06,Bayer Leverkusen,Bayern Munich,15,0.0168536994606256,NO_GOAL,MissedShots
+Kingsley Coman,Bundesliga,2019,2020-06-20,Bayern Munich,Freiburg,84,0.0227867998182773,NO_GOAL,SavedShot
+Kingsley Coman,Bundesliga,2020,2020-09-27,Hoffenheim,Bayern Munich,81,0.0173557996749877,NO_GOAL,MissedShots
+Kingsley Coman,Bundesliga,2020,2020-12-12,Union Berlin,Bayern Munich,50,0.0210132002830505,NO_GOAL,MissedShots
+Kingsley Coman,Bundesliga,2020,2021-01-30,Bayern Munich,Hoffenheim,58,0.0188391003757715,NO_GOAL,MissedShots
+Kingsley Coman,Bundesliga,2020,2021-02-05,Hertha Berlin,Bayern Munich,20,0.0274758990854024,GOAL,Goal
+Kingsley Coman,Bundesliga,2020,2021-04-20,Bayern Munich,Bayer Leverkusen,53,0.0160118006169796,NO_GOAL,BlockedShot
+Kingsley Coman,Bundesliga,2020,2021-04-24,Mainz 05,Bayern Munich,23,0.0168481990694999,NO_GOAL,BlockedShot
+Kingsley Coman,Bundesliga,2020,2021-05-22,Bayern Munich,Augsburg,42,0.0201568994671106,GOAL,Goal
+Kingsley Coman,Bundesliga,2021,2022-02-05,Bayern Munich,RasenBallsport Leipzig,68,0.0180134996771812,NO_GOAL,MissedShots
+Kingsley Coman,Bundesliga,2021,2022-02-12,Bochum,Bayern Munich,25,0.0209426991641521,NO_GOAL,MissedShots
+Kingsley Coman,Bundesliga,2021,2022-02-26,Eintracht Frankfurt,Bayern Munich,23,0.0123752998188138,NO_GOAL,SavedShot
+Kingsley Coman,Bundesliga,2021,2022-03-12,Hoffenheim,Bayern Munich,64,0.0226118005812168,NO_GOAL,SavedShot
+Kingsley Coman,Bundesliga,2021,2022-03-19,Bayern Munich,Union Berlin,15,0.0196950994431972,GOAL,Goal
+Kingsley Coman,Bundesliga,2021,2022-04-02,Freiburg,Bayern Munich,81,0.0398756004869937,GOAL,Goal
+Kingsley Coman,Bundesliga,2022,2022-10-08,Borussia Dortmund,Bayern Munich,84,0.0295007992535829,NO_GOAL,BlockedShot
+Kingsley Coman,Bundesliga,2022,2022-11-12,Schalke 04,Bayern Munich,9,0.0115796001628041,NO_GOAL,MissedShots
+Kingsley Coman,Bundesliga,2022,2022-11-12,Schalke 04,Bayern Munich,57,0.0220484994351863,NO_GOAL,MissedShots
+Kingsley Coman,Bundesliga,2022,2023-02-05,Wolfsburg,Bayern Munich,8,0.0169975999742746,GOAL,Goal
+Kingsley Coman,Bundesliga,2022,2023-05-13,Bayern Munich,Schalke 04,47,0.0171927399933338,NO_GOAL,MissedShots
+Kingsley Coman,Bundesliga,2022,2023-05-13,Bayern Munich,Schalke 04,53,0.0230249688029289,NO_GOAL,MissedShots
+Kingsley Coman,Bundesliga,2023,2023-09-30,RasenBallsport Leipzig,Bayern Munich,22,0.0129587724804878,NO_GOAL,MissedShots
+Kingsley Coman,Bundesliga,2023,2024-01-24,Bayern Munich,Union Berlin,10,0.0243937950581312,NO_GOAL,SavedShot
+Kingsley Coman,Bundesliga,2023,2024-01-24,Bayern Munich,Union Berlin,64,0.0237326361238956,NO_GOAL,BlockedShot
+Kingsley Coman,Bundesliga,2024,2024-10-19,Bayern Munich,VfB Stuttgart,71,0.0135918846353888,NO_GOAL,MissedShots
+Kingsley Coman,Bundesliga,2024,2024-10-27,Bochum,Bayern Munich,70,0.0385971814393997,GOAL,Goal
+Kingsley Coman,Bundesliga,2024,2025-01-15,Bayern Munich,Hoffenheim,35,0.0264175087213516,NO_GOAL,MissedShots
+Kingsley Coman,Bundesliga,2024,2025-01-25,Freiburg,Bayern Munich,81,0.0292935352772474,NO_GOAL,SavedShot
+Kingsley Coman,Bundesliga,2024,2025-02-07,Bayern Munich,Werder Bremen,10,0.0254809223115444,NO_GOAL,MissedShots

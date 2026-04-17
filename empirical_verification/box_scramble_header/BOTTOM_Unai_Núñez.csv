@@ -1,0 +1,33 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Unai Núñez,La_liga,2017,2017-08-20,Athletic Club,Getafe,91,0.1355549991130828,NO_GOAL,MissedShots
+Unai Núñez,La_liga,2017,2017-09-10,Athletic Club,Girona,48,0.0559896007180213,NO_GOAL,MissedShots
+Unai Núñez,La_liga,2017,2017-09-17,Las Palmas,Athletic Club,39,0.1016160026192665,NO_GOAL,MissedShots
+Unai Núñez,La_liga,2017,2017-09-23,Malaga,Athletic Club,54,0.074041299521923,NO_GOAL,SavedShot
+Unai Núñez,La_liga,2017,2017-10-01,Valencia,Athletic Club,8,0.0786337032914161,NO_GOAL,BlockedShot
+Unai Núñez,La_liga,2017,2017-11-05,Celta Vigo,Athletic Club,68,0.4207830131053924,NO_GOAL,MissedShots
+Unai Núñez,La_liga,2017,2018-01-26,Athletic Club,Eibar,80,0.4684489965438843,NO_GOAL,MissedShots
+Unai Núñez,La_liga,2018,2018-11-25,Athletic Club,Getafe,10,0.0129546001553535,NO_GOAL,SavedShot
+Unai Núñez,La_liga,2018,2019-01-07,Celta Vigo,Athletic Club,10,0.4986239969730377,NO_GOAL,SavedShot
+Unai Núñez,La_liga,2018,2019-01-07,Celta Vigo,Athletic Club,17,0.3438040018081665,NO_GOAL,MissedShots
+Unai Núñez,La_liga,2018,2019-05-05,Real Valladolid,Athletic Club,76,0.0597762987017631,NO_GOAL,MissedShots
+Unai Núñez,La_liga,2019,2019-08-24,Getafe,Athletic Club,48,0.0320829004049301,NO_GOAL,SavedShot
+Unai Núñez,La_liga,2019,2020-02-23,Alaves,Athletic Club,15,0.0088073899969458,NO_GOAL,SavedShot
+Unai Núñez,La_liga,2019,2020-06-14,Athletic Club,Atletico Madrid,90,0.015727300196886,NO_GOAL,MissedShots
+Unai Núñez,La_liga,2019,2020-06-23,Barcelona,Athletic Club,91,0.0947604030370712,NO_GOAL,MissedShots
+Unai Núñez,La_liga,2020,2020-10-01,Athletic Club,Cadiz,38,0.0491034016013145,NO_GOAL,SavedShot
+Unai Núñez,La_liga,2020,2020-10-01,Athletic Club,Cadiz,84,0.0465604998171329,NO_GOAL,MissedShots
+Unai Núñez,La_liga,2020,2021-04-10,Athletic Club,Alaves,82,0.719763994216919,NO_GOAL,SavedShot
+Unai Núñez,La_liga,2020,2021-05-22,Elche,Athletic Club,33,0.0646151006221771,NO_GOAL,MissedShots
+Unai Núñez,La_liga,2021,2021-12-01,Real Madrid,Athletic Club,68,0.3924030065536499,NO_GOAL,MissedShots
+Unai Núñez,La_liga,2022,2022-08-26,Girona,Celta Vigo,45,0.0633758008480072,NO_GOAL,BlockedShot
+Unai Núñez,La_liga,2022,2022-10-09,Barcelona,Celta Vigo,93,0.044853001832962,NO_GOAL,SavedShot
+Unai Núñez,La_liga,2022,2022-11-10,Rayo Vallecano,Celta Vigo,87,0.1406670063734054,NO_GOAL,MissedShots
+Unai Núñez,La_liga,2022,2023-03-18,Espanyol,Celta Vigo,60,0.081520602107048,NO_GOAL,SavedShot
+Unai Núñez,La_liga,2022,2023-04-22,Real Madrid,Celta Vigo,92,0.0341286547482013,NO_GOAL,MissedShots
+Unai Núñez,La_liga,2023,2023-09-01,Almeria,Celta Vigo,23,0.5797997117042542,GOAL,Goal
+Unai Núñez,La_liga,2023,2023-09-16,Celta Vigo,Mallorca,11,0.1220023483037948,NO_GOAL,MissedShots
+Unai Núñez,La_liga,2023,2023-09-16,Celta Vigo,Mallorca,35,0.04073953256011,NO_GOAL,MissedShots
+Unai Núñez,La_liga,2023,2023-09-28,Celta Vigo,Alaves,92,0.0429790578782558,NO_GOAL,MissedShots
+Unai Núñez,La_liga,2023,2023-11-04,Celta Vigo,Sevilla,20,0.133056953549385,NO_GOAL,MissedShots
+Unai Núñez,La_liga,2023,2023-12-16,Celta Vigo,Granada,13,0.3564285933971405,NO_GOAL,MissedShots
+Unai Núñez,La_liga,2024,2024-09-19,Leganes,Athletic Club,90,0.494532972574234,NO_GOAL,ShotOnPost

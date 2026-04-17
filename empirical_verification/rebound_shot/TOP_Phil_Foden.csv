@@ -1,0 +1,16 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Phil Foden,EPL,2019,2020-06-17,Manchester City,Arsenal,90,0.1436419934034347,GOAL,Goal
+Phil Foden,EPL,2019,2020-06-22,Manchester City,Burnley,62,0.059901900589466,GOAL,Goal
+Phil Foden,EPL,2019,2020-07-21,Watford,Manchester City,21,0.0795506983995437,NO_GOAL,BlockedShot
+Phil Foden,EPL,2019,2020-07-21,Watford,Manchester City,62,0.6558529734611511,GOAL,Goal
+Phil Foden,EPL,2019,2020-07-21,Watford,Manchester City,74,0.1230480000376701,NO_GOAL,BlockedShot
+Phil Foden,EPL,2021,2021-10-23,Brighton,Manchester City,30,0.1206479966640472,GOAL,Goal
+Phil Foden,EPL,2021,2022-02-12,Norwich,Manchester City,47,0.1969310045242309,GOAL,Goal
+Phil Foden,EPL,2021,2022-05-08,Manchester City,Newcastle United,89,0.5799189805984497,GOAL,Goal
+Phil Foden,EPL,2022,2022-08-13,Manchester City,Bournemouth,8,0.3483920097351074,NO_GOAL,SavedShot
+Phil Foden,EPL,2022,2022-09-17,Wolverhampton Wanderers,Manchester City,66,0.142765998840332,NO_GOAL,MissedShots
+Phil Foden,EPL,2022,2022-10-08,Manchester City,Southampton,1,0.1449279934167862,NO_GOAL,SavedShot
+Phil Foden,EPL,2023,2024-02-24,Bournemouth,Manchester City,23,0.63483726978302,GOAL,Goal
+Phil Foden,EPL,2023,2024-05-04,Manchester City,Wolverhampton Wanderers,72,0.0767710953950882,NO_GOAL,BlockedShot
+Phil Foden,EPL,2024,2024-12-21,Aston Villa,Manchester City,92,0.3123662173748016,GOAL,Goal
+Phil Foden,EPL,2024,2025-01-14,Brentford,Manchester City,77,0.3996332883834839,GOAL,Goal

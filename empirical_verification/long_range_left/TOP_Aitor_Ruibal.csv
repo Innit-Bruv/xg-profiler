@@ -1,0 +1,16 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Aitor Ruibal,La_liga,2019,2020-06-30,Leganes,Sevilla,66,0.0204277001321315,NO_GOAL,MissedShots
+Aitor Ruibal,La_liga,2020,2020-09-13,Alaves,Real Betis,75,0.0136307002976536,NO_GOAL,SavedShot
+Aitor Ruibal,La_liga,2020,2021-04-04,Elche,Real Betis,30,0.0278163999319076,NO_GOAL,BlockedShot
+Aitor Ruibal,La_liga,2021,2022-04-03,Real Betis,Osasuna,8,0.01310779992491,NO_GOAL,MissedShots
+Aitor Ruibal,La_liga,2022,2022-08-15,Real Betis,Elche,61,0.0190817005932331,NO_GOAL,MissedShots
+Aitor Ruibal,La_liga,2022,2022-08-26,Real Betis,Osasuna,18,0.0101586002856493,NO_GOAL,MissedShots
+Aitor Ruibal,La_liga,2022,2022-09-11,Real Betis,Villarreal,93,0.0504211001098156,NO_GOAL,BlockedShot
+Aitor Ruibal,La_liga,2022,2023-01-21,Espanyol,Real Betis,23,0.0218279007822275,NO_GOAL,SavedShot
+Aitor Ruibal,La_liga,2022,2023-03-05,Real Betis,Real Madrid,37,0.0191925000399351,NO_GOAL,SavedShot
+Aitor Ruibal,La_liga,2022,2023-03-05,Real Betis,Real Madrid,45,0.0194645002484321,NO_GOAL,SavedShot
+Aitor Ruibal,La_liga,2023,2023-12-09,Real Betis,Real Madrid,65,0.0198488999158144,GOAL,Goal
+Aitor Ruibal,La_liga,2023,2024-01-13,Real Betis,Granada,42,0.0086167734116315,NO_GOAL,MissedShots
+Aitor Ruibal,La_liga,2023,2024-04-12,Real Betis,Celta Vigo,77,0.0258146226406097,NO_GOAL,MissedShots
+Aitor Ruibal,La_liga,2024,2025-04-13,Real Betis,Villarreal,2,0.0148213990032672,GOAL,Goal
+Aitor Ruibal,La_liga,2024,2025-05-11,Real Betis,Osasuna,53,0.0242416989058256,NO_GOAL,SavedShot

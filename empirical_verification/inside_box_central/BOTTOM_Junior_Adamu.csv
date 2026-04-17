@@ -1,0 +1,17 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Junior Adamu,Bundesliga,2024,2024-08-24,Freiburg,VfB Stuttgart,57,0.1235995665192604,NO_GOAL,MissedShots
+Junior Adamu,Bundesliga,2024,2024-09-14,Freiburg,Bochum,26,0.0672309920191764,NO_GOAL,MissedShots
+Junior Adamu,Bundesliga,2024,2024-09-14,Freiburg,Bochum,85,0.4955017864704132,NO_GOAL,SavedShot
+Junior Adamu,Bundesliga,2024,2024-09-14,Freiburg,Bochum,85,0.493996649980545,NO_GOAL,MissedShots
+Junior Adamu,Bundesliga,2024,2024-10-19,Freiburg,Augsburg,17,0.053848847746849,NO_GOAL,SavedShot
+Junior Adamu,Bundesliga,2024,2024-10-19,Freiburg,Augsburg,27,0.1023776531219482,NO_GOAL,BlockedShot
+Junior Adamu,Bundesliga,2024,2024-10-26,RasenBallsport Leipzig,Freiburg,10,0.420171320438385,NO_GOAL,MissedShots
+Junior Adamu,Bundesliga,2024,2024-11-03,Freiburg,Mainz 05,33,0.1257788240909576,NO_GOAL,SavedShot
+Junior Adamu,Bundesliga,2024,2024-11-08,Union Berlin,Freiburg,33,0.6411063075065613,NO_GOAL,MissedShots
+Junior Adamu,Bundesliga,2024,2025-01-18,VfB Stuttgart,Freiburg,5,0.0841614156961441,NO_GOAL,MissedShots
+Junior Adamu,Bundesliga,2024,2025-03-15,Mainz 05,Freiburg,8,0.0975250825285911,NO_GOAL,MissedShots
+Junior Adamu,Bundesliga,2024,2025-04-05,Freiburg,Borussia Dortmund,53,0.4850429892539978,NO_GOAL,SavedShot
+Junior Adamu,Bundesliga,2024,2025-04-12,Borussia M.Gladbach,Freiburg,50,0.1148486286401748,NO_GOAL,SavedShot
+Junior Adamu,Bundesliga,2024,2025-04-12,Borussia M.Gladbach,Freiburg,74,0.1271386295557022,NO_GOAL,BlockedShot
+Junior Adamu,Bundesliga,2024,2025-04-26,Wolfsburg,Freiburg,21,0.074012741446495,NO_GOAL,MissedShots
+Junior Adamu,Bundesliga,2024,2025-05-17,Freiburg,Eintracht Frankfurt,70,0.0761408731341362,NO_GOAL,MissedShots

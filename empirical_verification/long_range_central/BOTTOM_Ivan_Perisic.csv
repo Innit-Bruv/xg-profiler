@@ -1,0 +1,39 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Ivan Perisic,Bundesliga,2014,2014-10-05,Wolfsburg,Augsburg,35,0.0157800000160932,NO_GOAL,SavedShot
+Ivan Perisic,Serie_A,2015,2016-01-24,Inter,Carpi,48,0.0202731005847454,NO_GOAL,SavedShot
+Ivan Perisic,Serie_A,2015,2016-01-31,AC Milan,Inter,5,0.0131109002977609,NO_GOAL,BlockedShot
+Ivan Perisic,Serie_A,2015,2016-05-01,Lazio,Inter,90,0.02061009965837,NO_GOAL,SavedShot
+Ivan Perisic,Serie_A,2016,2016-10-23,Atalanta,Inter,52,0.021230099722743,NO_GOAL,SavedShot
+Ivan Perisic,Serie_A,2016,2016-12-11,Inter,Genoa,72,0.0386684015393257,NO_GOAL,MissedShots
+Ivan Perisic,Serie_A,2016,2017-01-22,Palermo,Inter,58,0.0181996002793312,NO_GOAL,MissedShots
+Ivan Perisic,Serie_A,2016,2017-03-18,Torino,Inter,22,0.0185374002903699,NO_GOAL,MissedShots
+Ivan Perisic,Serie_A,2016,2017-03-18,Torino,Inter,79,0.0147708002477884,NO_GOAL,MissedShots
+Ivan Perisic,Serie_A,2016,2017-04-15,Inter,AC Milan,49,0.0204966999590396,NO_GOAL,MissedShots
+Ivan Perisic,Serie_A,2017,2017-08-20,Inter,Fiorentina,83,0.0096253901720047,NO_GOAL,MissedShots
+Ivan Perisic,Serie_A,2017,2017-10-15,Inter,AC Milan,35,0.0214326996356248,NO_GOAL,MissedShots
+Ivan Perisic,Serie_A,2017,2017-10-24,Inter,Sampdoria,5,0.0095059601590037,NO_GOAL,BlockedShot
+Ivan Perisic,Serie_A,2017,2017-11-25,Cagliari,Inter,48,0.0259559005498886,NO_GOAL,MissedShots
+Ivan Perisic,Serie_A,2017,2017-12-16,Inter,Udinese,28,0.0101586999371647,NO_GOAL,BlockedShot
+Ivan Perisic,Serie_A,2017,2018-01-05,Fiorentina,Inter,24,0.0241266004741191,NO_GOAL,BlockedShot
+Ivan Perisic,Serie_A,2017,2018-01-05,Fiorentina,Inter,82,0.0234047994017601,NO_GOAL,MissedShots
+Ivan Perisic,Serie_A,2017,2018-01-21,Inter,Roma,8,0.0244072005152702,NO_GOAL,SavedShot
+Ivan Perisic,Serie_A,2017,2018-02-11,Inter,Bologna,33,0.0313199982047081,NO_GOAL,SavedShot
+Ivan Perisic,Serie_A,2017,2018-03-18,Sampdoria,Inter,7,0.0202939994633197,NO_GOAL,MissedShots
+Ivan Perisic,Serie_A,2017,2018-04-28,Inter,Juventus,24,0.0186564996838569,NO_GOAL,MissedShots
+Ivan Perisic,Serie_A,2017,2018-05-06,Udinese,Inter,16,0.2496889978647232,NO_GOAL,BlockedShot
+Ivan Perisic,Serie_A,2018,2018-09-01,Bologna,Inter,56,0.0216490998864173,NO_GOAL,BlockedShot
+Ivan Perisic,Serie_A,2018,2018-11-11,Atalanta,Inter,7,0.010555200278759,NO_GOAL,MissedShots
+Ivan Perisic,Serie_A,2018,2018-12-02,Roma,Inter,32,0.0153690995648503,NO_GOAL,SavedShot
+Ivan Perisic,Serie_A,2018,2019-02-09,Parma Calcio 1913,Inter,33,0.0232632998377084,NO_GOAL,MissedShots
+Ivan Perisic,Serie_A,2018,2019-02-17,Inter,Sampdoria,35,0.0224939994513988,NO_GOAL,SavedShot
+Ivan Perisic,Serie_A,2018,2019-03-31,Inter,Lazio,45,0.0372016988694667,NO_GOAL,SavedShot
+Ivan Perisic,Serie_A,2018,2019-04-14,Frosinone,Inter,11,0.0200532991439104,NO_GOAL,MissedShots
+Ivan Perisic,Bundesliga,2019,2019-12-07,Borussia M.Gladbach,Bayern Munich,45,0.0297791007906198,NO_GOAL,BlockedShot
+Ivan Perisic,Bundesliga,2019,2019-12-14,Bayern Munich,Werder Bremen,49,0.0236789006739854,NO_GOAL,SavedShot
+Ivan Perisic,Bundesliga,2019,2020-01-19,Hertha Berlin,Bayern Munich,77,0.0179162006825208,NO_GOAL,MissedShots
+Ivan Perisic,Bundesliga,2019,2020-05-23,Bayern Munich,Eintracht Frankfurt,20,0.0310015007853508,NO_GOAL,SavedShot
+Ivan Perisic,Bundesliga,2019,2020-05-26,Borussia Dortmund,Bayern Munich,75,0.0209852997213602,NO_GOAL,MissedShots
+Ivan Perisic,Serie_A,2021,2021-10-02,Sassuolo,Inter,60,0.0220439992845058,NO_GOAL,MissedShots
+Ivan Perisic,Serie_A,2021,2021-11-21,Inter,Napoli,69,0.0379216000437736,NO_GOAL,SavedShot
+Ivan Perisic,EPL,2022,2023-04-03,Everton,Tottenham,6,0.0090841799974441,NO_GOAL,MissedShots
+Ivan Perisic,EPL,2022,2023-04-23,Newcastle United,Tottenham,50,0.021451286971569,NO_GOAL,MissedShots

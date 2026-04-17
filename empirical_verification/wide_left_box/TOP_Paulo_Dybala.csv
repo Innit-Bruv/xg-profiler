@@ -1,0 +1,39 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Paulo Dybala,Serie_A,2014,2014-10-19,Palermo,Cesena,32,0.0239732004702091,GOAL,Goal
+Paulo Dybala,Serie_A,2014,2014-11-24,Genoa,Palermo,6,0.0336275994777679,GOAL,Goal
+Paulo Dybala,Serie_A,2014,2014-12-13,Palermo,Sassuolo,54,0.0709789991378784,NO_GOAL,BlockedShot
+Paulo Dybala,Serie_A,2014,2015-01-25,Sampdoria,Palermo,27,0.0477728992700576,NO_GOAL,BlockedShot
+Paulo Dybala,Serie_A,2014,2015-02-08,Inter,Palermo,25,0.0299159009009599,NO_GOAL,MissedShots
+Paulo Dybala,Serie_A,2014,2015-03-01,Palermo,Empoli,2,0.0506097003817558,NO_GOAL,BlockedShot
+Paulo Dybala,Serie_A,2014,2015-04-04,Palermo,AC Milan,12,0.0338595993816852,NO_GOAL,MissedShots
+Paulo Dybala,Serie_A,2014,2015-04-19,Palermo,Genoa,63,0.0571924000978469,NO_GOAL,ShotOnPost
+Paulo Dybala,Serie_A,2016,2016-08-20,Juventus,Fiorentina,29,0.0348665006458759,NO_GOAL,MissedShots
+Paulo Dybala,Serie_A,2016,2016-09-10,Juventus,Sassuolo,59,0.0443251989781856,NO_GOAL,SavedShot
+Paulo Dybala,Serie_A,2016,2016-09-18,Inter,Juventus,47,0.0443267002701759,NO_GOAL,BlockedShot
+Paulo Dybala,Serie_A,2017,2017-08-26,Genoa,Juventus,91,0.0467036999762058,GOAL,Goal
+Paulo Dybala,Serie_A,2017,2017-10-01,Atalanta,Juventus,83,0.0525965988636016,NO_GOAL,BlockedShot
+Paulo Dybala,Serie_A,2017,2018-04-07,Benevento,Juventus,15,0.0372414998710155,GOAL,Goal
+Paulo Dybala,Serie_A,2018,2019-01-21,Juventus,Chievo,62,0.0390434004366397,NO_GOAL,SavedShot
+Paulo Dybala,Serie_A,2019,2019-09-28,Juventus,SPAL 2013,33,0.1352829933166504,NO_GOAL,SavedShot
+Paulo Dybala,Serie_A,2019,2019-10-26,Lecce,Juventus,28,0.0221995003521442,NO_GOAL,MissedShots
+Paulo Dybala,Serie_A,2019,2019-11-02,Torino,Juventus,8,0.0228515993803739,NO_GOAL,BlockedShot
+Paulo Dybala,Serie_A,2019,2019-11-23,Atalanta,Juventus,91,0.0516377985477447,GOAL,Goal
+Paulo Dybala,Serie_A,2019,2019-12-07,Lazio,Juventus,9,0.0327983982861042,NO_GOAL,SavedShot
+Paulo Dybala,Serie_A,2019,2019-12-18,Sampdoria,Juventus,18,0.0317663997411727,GOAL,Goal
+Paulo Dybala,Serie_A,2019,2020-06-22,Bologna,Juventus,6,0.0325854010879993,NO_GOAL,MissedShots
+Paulo Dybala,Serie_A,2019,2020-06-26,Juventus,Lecce,50,0.027674600481987,NO_GOAL,MissedShots
+Paulo Dybala,Serie_A,2019,2020-06-30,Genoa,Juventus,49,0.0602186992764472,GOAL,Goal
+Paulo Dybala,Serie_A,2020,2020-10-25,Juventus,Verona,32,0.0522524006664752,NO_GOAL,BlockedShot
+Paulo Dybala,Serie_A,2020,2020-11-21,Juventus,Cagliari,89,0.0380887985229492,NO_GOAL,BlockedShot
+Paulo Dybala,Serie_A,2020,2021-01-03,Juventus,Udinese,6,0.0376992002129554,NO_GOAL,BlockedShot
+Paulo Dybala,Serie_A,2020,2021-05-23,Bologna,Juventus,86,0.0896394997835159,NO_GOAL,ShotOnPost
+Paulo Dybala,Serie_A,2021,2021-11-30,Salernitana,Juventus,46,0.0596450008451938,NO_GOAL,BlockedShot
+Paulo Dybala,Serie_A,2021,2022-01-09,Roma,Juventus,1,0.0473370999097824,NO_GOAL,SavedShot
+Paulo Dybala,Serie_A,2021,2022-01-23,AC Milan,Juventus,23,0.0577087998390197,NO_GOAL,MissedShots
+Paulo Dybala,Serie_A,2022,2022-09-12,Empoli,Roma,34,0.0456888005137443,NO_GOAL,MissedShots
+Paulo Dybala,Serie_A,2022,2022-10-01,Inter,Roma,12,0.0312952995300293,NO_GOAL,MissedShots
+Paulo Dybala,Serie_A,2022,2023-02-04,Roma,Empoli,46,0.037518098950386,NO_GOAL,SavedShot
+Paulo Dybala,Serie_A,2022,2023-05-06,Roma,Inter,81,0.0371386185288429,NO_GOAL,MissedShots
+Paulo Dybala,Serie_A,2024,2024-09-22,Roma,Udinese,40,0.0526724494993686,NO_GOAL,MissedShots
+Paulo Dybala,Serie_A,2024,2024-12-07,Roma,Lecce,9,0.0451455116271972,NO_GOAL,MissedShots
+Paulo Dybala,Serie_A,2024,2025-01-12,Bologna,Roma,34,0.2089947313070297,NO_GOAL,MissedShots

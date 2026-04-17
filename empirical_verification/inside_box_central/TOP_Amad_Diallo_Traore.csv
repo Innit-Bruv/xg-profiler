@@ -1,0 +1,17 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Amad Diallo Traore,EPL,2023,2023-12-30,Nottingham Forest,Manchester United,97,0.0521184392273426,NO_GOAL,SavedShot
+Amad Diallo Traore,EPL,2023,2024-05-15,Manchester United,Newcastle United,26,0.0512316934764385,NO_GOAL,MissedShots
+Amad Diallo Traore,EPL,2023,2024-05-15,Manchester United,Newcastle United,56,0.0505381636321544,GOAL,Goal
+Amad Diallo Traore,EPL,2024,2024-08-24,Brighton,Manchester United,59,0.0644537881016731,GOAL,Goal
+Amad Diallo Traore,EPL,2024,2024-09-21,Crystal Palace,Manchester United,62,0.0595564283430576,NO_GOAL,BlockedShot
+Amad Diallo Traore,EPL,2024,2024-12-01,Manchester United,Everton,13,0.073921762406826,NO_GOAL,MissedShots
+Amad Diallo Traore,EPL,2024,2024-12-07,Manchester United,Nottingham Forest,63,0.0600955188274383,NO_GOAL,MissedShots
+Amad Diallo Traore,EPL,2024,2024-12-07,Manchester United,Nottingham Forest,86,0.0502058640122413,NO_GOAL,BlockedShot
+Amad Diallo Traore,EPL,2024,2024-12-15,Manchester City,Manchester United,34,0.0577969327569007,NO_GOAL,BlockedShot
+Amad Diallo Traore,EPL,2024,2024-12-22,Manchester United,Bournemouth,5,0.082709401845932,NO_GOAL,SavedShot
+Amad Diallo Traore,EPL,2024,2024-12-22,Manchester United,Bournemouth,72,0.0526637732982635,NO_GOAL,MissedShots
+Amad Diallo Traore,EPL,2024,2025-01-05,Liverpool,Manchester United,79,0.4707243740558624,GOAL,Goal
+Amad Diallo Traore,EPL,2024,2025-01-16,Manchester United,Southampton,71,0.0647062808275222,NO_GOAL,BlockedShot
+Amad Diallo Traore,EPL,2024,2025-01-16,Manchester United,Southampton,89,0.329629510641098,GOAL,Goal
+Amad Diallo Traore,EPL,2024,2025-01-16,Manchester United,Southampton,93,0.3926829695701599,GOAL,Goal
+Amad Diallo Traore,EPL,2024,2025-01-19,Manchester United,Brighton,48,0.0616145208477973,NO_GOAL,BlockedShot

@@ -1,0 +1,18 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Munir,La_liga,2014,2014-09-27,Barcelona,Granada,9,0.8791379928588867,NO_GOAL,MissedShots
+Munir,La_liga,2016,2017-01-09,Osasuna,Valencia,13,0.0590483993291854,NO_GOAL,MissedShots
+Munir,La_liga,2016,2017-03-11,Valencia,Sporting Gijon,77,0.0582464002072811,NO_GOAL,MissedShots
+Munir,La_liga,2016,2017-04-02,Valencia,Deportivo La Coruna,9,0.2659670114517212,NO_GOAL,ShotOnPost
+Munir,La_liga,2016,2017-04-06,Valencia,Celta Vigo,30,0.0807972997426986,NO_GOAL,MissedShots
+Munir,La_liga,2016,2017-04-16,Valencia,Sevilla,2,0.1074789986014366,NO_GOAL,MissedShots
+Munir,La_liga,2017,2017-09-30,Levante,Alaves,20,0.4764110147953033,NO_GOAL,SavedShot
+Munir,La_liga,2017,2017-09-30,Levante,Alaves,35,0.1048260033130645,NO_GOAL,MissedShots
+Munir,La_liga,2017,2017-12-16,Atletico Madrid,Alaves,43,0.0694015994668006,NO_GOAL,BlockedShot
+Munir,La_liga,2017,2018-02-03,Alaves,Celta Vigo,3,0.0793839022517204,NO_GOAL,MissedShots
+Munir,La_liga,2017,2018-03-01,Alaves,Levante,72,0.0765393003821373,NO_GOAL,BlockedShot
+Munir,La_liga,2017,2018-03-12,Alaves,Real Betis,68,0.0590814016759395,NO_GOAL,MissedShots
+Munir,La_liga,2018,2019-02-17,Villarreal,Sevilla,71,0.0879947021603584,NO_GOAL,MissedShots
+Munir,La_liga,2019,2019-12-15,Sevilla,Villarreal,64,0.4406180083751678,NO_GOAL,MissedShots
+Munir,La_liga,2020,2020-10-24,Sevilla,Eibar,57,0.1231720000505447,NO_GOAL,MissedShots
+Munir,La_liga,2020,2020-11-21,Sevilla,Celta Vigo,71,0.0088787600398063,NO_GOAL,BlockedShot
+Munir,La_liga,2024,2025-05-18,Las Palmas,Leganes,16,0.0697378739714622,NO_GOAL,BlockedShot

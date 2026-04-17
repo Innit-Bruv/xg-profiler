@@ -1,0 +1,11 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Joaquín Correa,Serie_A,2015,2015-09-20,Torino,Sampdoria,64,0.0234264004975557,NO_GOAL,SavedShot
+Joaquín Correa,Serie_A,2015,2015-09-28,Atalanta,Sampdoria,11,0.0415189005434513,NO_GOAL,MissedShots
+Joaquín Correa,Serie_A,2015,2016-02-07,Roma,Sampdoria,39,0.0170328002423048,NO_GOAL,SavedShot
+Joaquín Correa,La_liga,2016,2017-03-19,Atletico Madrid,Sevilla,75,0.013973300345242,NO_GOAL,BlockedShot
+Joaquín Correa,Serie_A,2018,2018-10-21,Parma Calcio 1913,Lazio,83,0.0294543001800775,NO_GOAL,SavedShot
+Joaquín Correa,Serie_A,2018,2018-12-26,Bologna,Lazio,17,0.0183902997523546,NO_GOAL,BlockedShot
+Joaquín Correa,Serie_A,2018,2019-03-02,Lazio,Roma,1,0.0412767007946968,NO_GOAL,MissedShots
+Joaquín Correa,Serie_A,2022,2023-04-15,Inter,Monza,23,0.2956080138683319,NO_GOAL,SavedShot
+Joaquín Correa,Serie_A,2022,2023-05-06,Roma,Inter,47,0.0530313923954963,NO_GOAL,MissedShots
+Joaquín Correa,Serie_A,2024,2024-11-23,Verona,Inter,90,0.0358748361468315,NO_GOAL,ShotOnPost

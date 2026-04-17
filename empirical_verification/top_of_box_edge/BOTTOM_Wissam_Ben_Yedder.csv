@@ -1,0 +1,19 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Wissam Ben Yedder,Ligue_1,2014,2014-10-05,Saint-Etienne,Toulouse,21,0.4132640063762665,GOAL,Goal
+Wissam Ben Yedder,Ligue_1,2014,2014-11-08,Toulouse,Metz,60,0.3804660141468048,GOAL,Goal
+Wissam Ben Yedder,La_liga,2016,2017-01-07,Real Sociedad,Sevilla,28,0.8973900079727173,GOAL,Goal
+Wissam Ben Yedder,La_liga,2017,2018-02-17,Las Palmas,Sevilla,2,0.5803250074386597,NO_GOAL,BlockedShot
+Wissam Ben Yedder,La_liga,2017,2018-02-17,Las Palmas,Sevilla,43,0.0926200002431869,NO_GOAL,MissedShots
+Wissam Ben Yedder,La_liga,2017,2018-05-19,Sevilla,Alaves,91,0.1633069962263107,NO_GOAL,SavedShot
+Wissam Ben Yedder,La_liga,2018,2019-03-17,Espanyol,Sevilla,40,0.0780147016048431,NO_GOAL,MissedShots
+Wissam Ben Yedder,La_liga,2018,2019-04-28,Girona,Sevilla,12,0.5368660092353821,NO_GOAL,MissedShots
+Wissam Ben Yedder,Ligue_1,2019,2019-11-24,Bordeaux,Monaco,45,0.1158099994063377,NO_GOAL,SavedShot
+Wissam Ben Yedder,Ligue_1,2020,2020-11-29,Monaco,Nimes,78,0.1047570034861564,NO_GOAL,MissedShots
+Wissam Ben Yedder,Ligue_1,2020,2021-01-15,Montpellier,Monaco,30,0.0467447005212307,NO_GOAL,BlockedShot
+Wissam Ben Yedder,Ligue_1,2020,2021-02-03,Monaco,Nice,14,0.8548790216445923,NO_GOAL,MissedShots
+Wissam Ben Yedder,Ligue_1,2021,2021-08-29,Troyes,Monaco,32,0.10691399872303,NO_GOAL,SavedShot
+Wissam Ben Yedder,Ligue_1,2021,2021-09-26,Clermont Foot,Monaco,25,0.6551380157470703,GOAL,Goal
+Wissam Ben Yedder,Ligue_1,2022,2022-08-20,Monaco,Lens,58,0.3186489939689636,NO_GOAL,SavedShot
+Wissam Ben Yedder,Ligue_1,2022,2023-02-19,Brest,Monaco,16,0.1042380034923553,NO_GOAL,SavedShot
+Wissam Ben Yedder,Ligue_1,2022,2023-04-30,Monaco,Montpellier,46,0.4722026288509369,NO_GOAL,SavedShot
+Wissam Ben Yedder,Ligue_1,2023,2023-10-07,Reims,Monaco,64,0.2465673983097076,NO_GOAL,MissedShots

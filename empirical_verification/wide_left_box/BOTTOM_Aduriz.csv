@@ -1,0 +1,20 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Aduriz,La_liga,2014,2015-03-14,Celta Vigo,Athletic Club,18,0.1687850058078766,NO_GOAL,SavedShot
+Aduriz,La_liga,2015,2015-09-13,Athletic Club,Getafe,36,0.0790435001254081,NO_GOAL,SavedShot
+Aduriz,La_liga,2015,2015-09-23,Athletic Club,Real Madrid,74,0.0470740981400013,NO_GOAL,SavedShot
+Aduriz,La_liga,2015,2015-10-26,Athletic Club,Sporting Gijon,45,0.4198960065841675,NO_GOAL,ShotOnPost
+Aduriz,La_liga,2015,2015-12-20,Athletic Club,Levante,75,0.3274799883365631,NO_GOAL,MissedShots
+Aduriz,La_liga,2015,2016-01-09,Sevilla,Athletic Club,46,0.4745469987392425,NO_GOAL,MissedShots
+Aduriz,La_liga,2015,2016-03-02,Athletic Club,Deportivo La Coruna,59,0.0392773002386093,NO_GOAL,BlockedShot
+Aduriz,La_liga,2015,2016-04-03,Athletic Club,Granada,30,0.0584900006651878,NO_GOAL,ShotOnPost
+Aduriz,La_liga,2016,2016-09-24,Athletic Club,Sevilla,20,0.0394404008984565,NO_GOAL,MissedShots
+Aduriz,La_liga,2016,2016-09-24,Athletic Club,Sevilla,51,0.0569957010447979,NO_GOAL,MissedShots
+Aduriz,La_liga,2016,2016-09-24,Athletic Club,Sevilla,52,0.0169143006205558,NO_GOAL,SavedShot
+Aduriz,La_liga,2016,2016-11-28,Las Palmas,Athletic Club,48,0.0355556011199951,NO_GOAL,MissedShots
+Aduriz,La_liga,2016,2017-01-29,Athletic Club,Sporting Gijon,29,0.0415760017931461,NO_GOAL,MissedShots
+Aduriz,La_liga,2016,2017-02-11,Athletic Club,Deportivo La Coruna,39,0.0348600000143051,NO_GOAL,SavedShot
+Aduriz,La_liga,2016,2017-04-07,Villarreal,Athletic Club,66,0.0278242006897926,NO_GOAL,ShotOnPost
+Aduriz,La_liga,2016,2017-05-07,Alaves,Athletic Club,26,0.0590373985469341,NO_GOAL,MissedShots
+Aduriz,La_liga,2016,2017-05-21,Atletico Madrid,Athletic Club,54,0.0380041003227233,NO_GOAL,MissedShots
+Aduriz,La_liga,2017,2017-12-10,Levante,Athletic Club,16,0.0611637011170387,NO_GOAL,BlockedShot
+Aduriz,La_liga,2017,2017-12-22,Real Betis,Athletic Club,75,0.0524893999099731,NO_GOAL,MissedShots

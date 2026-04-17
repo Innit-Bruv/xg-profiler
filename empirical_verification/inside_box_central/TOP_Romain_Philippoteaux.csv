@@ -1,0 +1,18 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Romain Philippoteaux,Ligue_1,2014,2015-05-09,Metz,Lorient,33,0.3194079995155334,GOAL,Goal
+Romain Philippoteaux,Ligue_1,2015,2015-11-21,Lorient,Paris Saint Germain,91,0.0593933016061782,NO_GOAL,BlockedShot
+Romain Philippoteaux,Ligue_1,2015,2015-12-01,Lorient,Nice,83,0.0375316999852657,NO_GOAL,BlockedShot
+Romain Philippoteaux,Ligue_1,2015,2016-01-09,Rennes,Lorient,15,0.1218559965491294,NO_GOAL,BlockedShot
+Romain Philippoteaux,Ligue_1,2016,2016-12-17,Lorient,Saint-Etienne,26,0.0415958017110824,NO_GOAL,SavedShot
+Romain Philippoteaux,Ligue_1,2016,2017-02-04,Lille,Lorient,46,0.1122310012578964,NO_GOAL,BlockedShot
+Romain Philippoteaux,Ligue_1,2016,2017-03-05,Lorient,Marseille,71,0.0612296015024185,NO_GOAL,MissedShots
+Romain Philippoteaux,Ligue_1,2016,2017-04-22,Lorient,Metz,6,0.0571771003305912,NO_GOAL,MissedShots
+Romain Philippoteaux,Ligue_1,2016,2017-05-06,Lorient,Angers,61,0.6007660031318665,GOAL,Goal
+Romain Philippoteaux,Ligue_1,2016,2017-05-20,Lorient,Bordeaux,4,0.1163429990410804,NO_GOAL,MissedShots
+Romain Philippoteaux,Ligue_1,2019,2019-09-21,Nimes,Toulouse,1,0.0670356974005699,NO_GOAL,BlockedShot
+Romain Philippoteaux,Ligue_1,2019,2019-09-21,Nimes,Toulouse,38,0.0673014968633651,GOAL,Goal
+Romain Philippoteaux,Ligue_1,2019,2019-11-09,Strasbourg,Nimes,47,0.26596400141716,GOAL,Goal
+Romain Philippoteaux,Ligue_1,2019,2020-02-08,Nice,Nimes,0,0.3527790009975433,NO_GOAL,SavedShot
+Romain Philippoteaux,Ligue_1,2020,2020-08-23,Nimes,Brest,68,0.4122759997844696,GOAL,Goal
+Romain Philippoteaux,Ligue_1,2020,2020-12-20,Brest,Montpellier,57,0.0927964001893997,GOAL,Goal
+Romain Philippoteaux,Ligue_1,2020,2021-01-17,Brest,Rennes,88,0.0910278037190437,NO_GOAL,MissedShots

@@ -1,0 +1,16 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Rodri,La_liga,2015,2016-05-01,Valencia,Villarreal,46,0.1073129996657371,NO_GOAL,MissedShots
+Rodri,La_liga,2016,2017-04-28,Villarreal,Sporting Gijon,57,0.016831200569868,NO_GOAL,BlockedShot
+Rodri,La_liga,2017,2018-01-20,Villarreal,Levante,58,0.018062699586153,NO_GOAL,BlockedShot
+Rodri,La_liga,2017,2018-02-18,Espanyol,Villarreal,24,0.0731327012181282,GOAL,Goal
+Rodri,La_liga,2018,2018-12-08,Atletico Madrid,Alaves,86,0.707427978515625,GOAL,Goal
+Rodri,EPL,2019,2019-12-03,Burnley,Manchester City,67,0.0280673000961542,GOAL,Goal
+Rodri,EPL,2021,2021-08-28,Manchester City,Arsenal,49,0.0285736992955207,NO_GOAL,BlockedShot
+Rodri,EPL,2021,2022-01-01,Arsenal,Manchester City,92,0.4435720145702362,GOAL,Goal
+Rodri,EPL,2021,2022-02-09,Manchester City,Brentford,79,0.0161371994763612,NO_GOAL,SavedShot
+Rodri,EPL,2022,2022-08-21,Newcastle United,Manchester City,59,0.0951471030712127,NO_GOAL,BlockedShot
+Rodri,EPL,2022,2022-12-28,Leeds,Manchester City,45,0.5624240040779114,GOAL,Goal
+Rodri,EPL,2022,2023-04-15,Manchester City,Leicester,9,0.142318993806839,NO_GOAL,BlockedShot
+Rodri,EPL,2023,2023-08-11,Burnley,Manchester City,74,0.6593173146247864,GOAL,Goal
+Rodri,EPL,2023,2023-11-12,Chelsea,Manchester City,85,0.0211625546216964,GOAL,Goal
+Rodri,EPL,2023,2024-02-17,Manchester City,Chelsea,82,0.0673537924885749,GOAL,Goal

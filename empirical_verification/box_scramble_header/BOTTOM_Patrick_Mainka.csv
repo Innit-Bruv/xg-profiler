@@ -1,0 +1,16 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Patrick Mainka,Bundesliga,2023,2023-11-05,FC Heidenheim,VfB Stuttgart,67,0.0169174913316965,NO_GOAL,BlockedShot
+Patrick Mainka,Bundesliga,2023,2023-11-26,FC Heidenheim,Bochum,91,0.0397407636046409,NO_GOAL,BlockedShot
+Patrick Mainka,Bundesliga,2023,2024-01-20,FC Heidenheim,Wolfsburg,15,0.6451778411865234,NO_GOAL,MissedShots
+Patrick Mainka,Bundesliga,2023,2024-02-02,FC Heidenheim,Borussia Dortmund,80,0.0335766524076461,NO_GOAL,MissedShots
+Patrick Mainka,Bundesliga,2023,2024-03-16,FC Heidenheim,Borussia M.Gladbach,51,0.0425274856388568,NO_GOAL,BlockedShot
+Patrick Mainka,Bundesliga,2023,2024-05-05,FC Heidenheim,Mainz 05,69,0.3999731242656708,NO_GOAL,ShotOnPost
+Patrick Mainka,Bundesliga,2024,2024-10-27,FC Heidenheim,Hoffenheim,11,0.0644719153642654,NO_GOAL,MissedShots
+Patrick Mainka,Bundesliga,2024,2024-11-02,Holstein Kiel,FC Heidenheim,3,0.0123278768733143,NO_GOAL,BlockedShot
+Patrick Mainka,Bundesliga,2024,2024-12-22,Bochum,FC Heidenheim,22,0.0142727382481098,NO_GOAL,MissedShots
+Patrick Mainka,Bundesliga,2024,2025-01-15,Werder Bremen,FC Heidenheim,57,0.011180879548192,NO_GOAL,MissedShots
+Patrick Mainka,Bundesliga,2024,2025-03-01,FC Heidenheim,Borussia M.Gladbach,48,0.8340262174606323,NO_GOAL,BlockedShot
+Patrick Mainka,Bundesliga,2024,2025-03-01,FC Heidenheim,Borussia M.Gladbach,73,0.0806702822446823,NO_GOAL,BlockedShot
+Patrick Mainka,Bundesliga,2024,2025-03-01,FC Heidenheim,Borussia M.Gladbach,84,0.0848401486873626,NO_GOAL,MissedShots
+Patrick Mainka,Bundesliga,2024,2025-03-09,Hoffenheim,FC Heidenheim,93,0.0267290454357862,NO_GOAL,MissedShots
+Patrick Mainka,Bundesliga,2024,2025-05-02,FC Heidenheim,Bochum,45,0.0322132371366024,NO_GOAL,MissedShots

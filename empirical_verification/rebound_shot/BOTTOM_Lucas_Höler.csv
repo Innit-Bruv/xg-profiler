@@ -1,0 +1,23 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Lucas Höler,Bundesliga,2017,2018-02-03,Freiburg,Bayer Leverkusen,49,0.2624320089817047,NO_GOAL,MissedShots
+Lucas Höler,Bundesliga,2017,2018-02-10,Hannover 96,Freiburg,22,0.0353915989398956,NO_GOAL,SavedShot
+Lucas Höler,Bundesliga,2017,2018-04-28,Freiburg,FC Cologne,87,0.3259199857711792,NO_GOAL,BlockedShot
+Lucas Höler,Bundesliga,2018,2019-01-26,Freiburg,Hoffenheim,41,0.7403950095176697,GOAL,Goal
+Lucas Höler,Bundesliga,2018,2019-04-27,RasenBallsport Leipzig,Freiburg,21,0.3263159990310669,NO_GOAL,SavedShot
+Lucas Höler,Bundesliga,2019,2019-10-26,Freiburg,RasenBallsport Leipzig,46,0.0658447965979576,NO_GOAL,BlockedShot
+Lucas Höler,Bundesliga,2019,2020-06-20,Bayern Munich,Freiburg,32,0.6978530287742615,GOAL,Goal
+Lucas Höler,Bundesliga,2020,2020-11-22,Freiburg,Mainz 05,71,0.4669269919395447,NO_GOAL,MissedShots
+Lucas Höler,Bundesliga,2020,2020-12-05,Freiburg,Borussia M.Gladbach,14,0.5915359854698181,NO_GOAL,MissedShots
+Lucas Höler,Bundesliga,2020,2020-12-20,Freiburg,Hertha Berlin,65,0.0469492003321647,NO_GOAL,BlockedShot
+Lucas Höler,Bundesliga,2020,2021-01-09,Freiburg,FC Cologne,85,0.0761393010616302,NO_GOAL,ShotOnPost
+Lucas Höler,Bundesliga,2021,2021-12-05,Borussia M.Gladbach,Freiburg,71,0.0206455998122692,NO_GOAL,MissedShots
+Lucas Höler,Bundesliga,2022,2023-05-06,Freiburg,RasenBallsport Leipzig,90,0.0648900717496872,NO_GOAL,MissedShots
+Lucas Höler,Bundesliga,2023,2023-08-26,Freiburg,Werder Bremen,60,0.6072637438774109,NO_GOAL,SavedShot
+Lucas Höler,Bundesliga,2023,2023-09-24,Eintracht Frankfurt,Freiburg,37,0.0906761810183525,NO_GOAL,BlockedShot
+Lucas Höler,Bundesliga,2023,2023-11-04,Freiburg,Borussia M.Gladbach,5,0.6402488946914673,NO_GOAL,SavedShot
+Lucas Höler,Bundesliga,2024,2024-11-23,Borussia Dortmund,Freiburg,23,0.4524840414524078,NO_GOAL,ShotOnPost
+Lucas Höler,Bundesliga,2024,2024-11-23,Borussia Dortmund,Freiburg,23,0.3901240825653076,NO_GOAL,BlockedShot
+Lucas Höler,Bundesliga,2024,2024-11-30,Freiburg,Borussia M.Gladbach,40,0.5904808640480042,GOAL,Goal
+Lucas Höler,Bundesliga,2024,2024-12-13,Freiburg,Wolfsburg,76,0.580538272857666,NO_GOAL,BlockedShot
+Lucas Höler,Bundesliga,2024,2025-02-21,Freiburg,Werder Bremen,67,0.8650116920471191,NO_GOAL,BlockedShot
+Lucas Höler,Bundesliga,2024,2025-04-12,Borussia M.Gladbach,Freiburg,57,0.1360550671815872,NO_GOAL,BlockedShot

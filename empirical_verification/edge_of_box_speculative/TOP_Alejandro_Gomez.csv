@@ -1,0 +1,17 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Alejandro Gomez,Serie_A,2014,2015-03-15,Atalanta,Udinese,67,0.0723057016730308,NO_GOAL,SavedShot
+Alejandro Gomez,Serie_A,2014,2015-05-03,Atalanta,Lazio,47,0.0204117000102996,NO_GOAL,ShotOnPost
+Alejandro Gomez,Serie_A,2015,2015-08-23,Inter,Atalanta,2,0.1137870028614997,NO_GOAL,MissedShots
+Alejandro Gomez,Serie_A,2015,2015-12-13,Chievo,Atalanta,37,0.0143509004265069,NO_GOAL,SavedShot
+Alejandro Gomez,Serie_A,2015,2015-12-20,Atalanta,Napoli,53,0.0654594004154205,GOAL,Goal
+Alejandro Gomez,Serie_A,2015,2016-01-06,Udinese,Atalanta,58,0.0166848003864288,NO_GOAL,BlockedShot
+Alejandro Gomez,Serie_A,2015,2016-03-20,Atalanta,Bologna,22,0.0396328009665012,NO_GOAL,MissedShots
+Alejandro Gomez,Serie_A,2016,2016-09-21,Atalanta,Palermo,33,0.0207403004169464,NO_GOAL,MissedShots
+Alejandro Gomez,Serie_A,2016,2017-01-22,Atalanta,Sampdoria,60,0.0498063005506992,NO_GOAL,SavedShot
+Alejandro Gomez,Serie_A,2016,2017-05-27,Atalanta,Chievo,26,0.0633269995450973,NO_GOAL,BlockedShot
+Alejandro Gomez,Serie_A,2017,2017-10-25,Atalanta,Verona,9,0.0450901985168457,NO_GOAL,MissedShots
+Alejandro Gomez,Serie_A,2017,2017-12-17,Atalanta,Lazio,91,0.0225172992795705,NO_GOAL,MissedShots
+Alejandro Gomez,Serie_A,2018,2018-12-26,Atalanta,Juventus,80,0.0737802982330322,NO_GOAL,SavedShot
+Alejandro Gomez,Serie_A,2018,2018-12-29,Sassuolo,Atalanta,41,0.0992980971932411,GOAL,Goal
+Alejandro Gomez,Serie_A,2018,2019-05-05,Lazio,Atalanta,6,0.0246641002595424,NO_GOAL,MissedShots
+Alejandro Gomez,Serie_A,2020,2020-10-24,Atalanta,Sampdoria,46,0.0261618997901678,NO_GOAL,BlockedShot

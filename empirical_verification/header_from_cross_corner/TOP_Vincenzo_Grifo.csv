@@ -1,0 +1,20 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Vincenzo Grifo,Bundesliga,2016,2016-11-05,Freiburg,Wolfsburg,1,0.0291393008083105,NO_GOAL,MissedShots
+Vincenzo Grifo,Bundesliga,2016,2017-01-29,Freiburg,Hertha Berlin,58,0.0369990989565849,NO_GOAL,BlockedShot
+Vincenzo Grifo,Bundesliga,2018,2019-03-15,Borussia M.Gladbach,Freiburg,9,0.0554977990686893,GOAL,Goal
+Vincenzo Grifo,Bundesliga,2018,2019-05-18,Freiburg,Nuernberg,60,0.0956709012389183,GOAL,Goal
+Vincenzo Grifo,Bundesliga,2019,2019-10-19,Union Berlin,Freiburg,75,0.0338343009352684,NO_GOAL,BlockedShot
+Vincenzo Grifo,Bundesliga,2019,2019-12-18,Freiburg,Bayern Munich,36,0.3252170085906982,NO_GOAL,MissedShots
+Vincenzo Grifo,Bundesliga,2020,2020-11-28,Augsburg,Freiburg,21,0.0782734975218772,NO_GOAL,MissedShots
+Vincenzo Grifo,Bundesliga,2020,2020-11-28,Augsburg,Freiburg,63,0.0977177992463111,GOAL,Goal
+Vincenzo Grifo,Bundesliga,2020,2020-12-20,Freiburg,Hertha Berlin,6,0.3310959935188293,GOAL,Goal
+Vincenzo Grifo,Bundesliga,2020,2021-01-17,Bayern Munich,Freiburg,71,0.0217294991016387,NO_GOAL,MissedShots
+Vincenzo Grifo,Bundesliga,2020,2021-04-24,Freiburg,Hoffenheim,71,0.0586760006844997,NO_GOAL,SavedShot
+Vincenzo Grifo,Bundesliga,2020,2021-05-22,Eintracht Frankfurt,Freiburg,4,0.0371791012585163,NO_GOAL,MissedShots
+Vincenzo Grifo,Bundesliga,2021,2022-01-22,Freiburg,VfB Stuttgart,28,0.1122189983725547,NO_GOAL,MissedShots
+Vincenzo Grifo,Bundesliga,2021,2022-03-12,Freiburg,Wolfsburg,43,0.1332709938287735,GOAL,Goal
+Vincenzo Grifo,Bundesliga,2021,2022-05-07,Freiburg,Union Berlin,82,0.0351619012653827,NO_GOAL,BlockedShot
+Vincenzo Grifo,Bundesliga,2022,2022-08-20,VfB Stuttgart,Freiburg,10,0.527396023273468,GOAL,Goal
+Vincenzo Grifo,Bundesliga,2022,2022-10-09,Hertha Berlin,Freiburg,24,0.040880300104618,NO_GOAL,MissedShots
+Vincenzo Grifo,Bundesliga,2023,2024-01-13,Freiburg,Union Berlin,15,0.5369840860366821,NO_GOAL,SavedShot
+Vincenzo Grifo,Bundesliga,2024,2025-02-21,Freiburg,Werder Bremen,56,0.4617688357830047,GOAL,Goal

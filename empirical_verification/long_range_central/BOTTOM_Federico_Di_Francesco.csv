@@ -1,0 +1,16 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Federico Di Francesco,Serie_A,2017,2017-09-19,Bologna,Inter,4,0.0236434992402791,NO_GOAL,MissedShots
+Federico Di Francesco,Serie_A,2017,2017-09-19,Bologna,Inter,35,0.021570399403572,NO_GOAL,MissedShots
+Federico Di Francesco,Serie_A,2017,2017-09-19,Bologna,Inter,47,0.0361068993806839,NO_GOAL,BlockedShot
+Federico Di Francesco,Serie_A,2017,2017-12-30,Bologna,Udinese,23,0.0208628997206687,NO_GOAL,BlockedShot
+Federico Di Francesco,Serie_A,2017,2018-03-31,Bologna,Roma,25,0.0264825001358985,NO_GOAL,MissedShots
+Federico Di Francesco,Serie_A,2018,2018-08-19,Sassuolo,Inter,58,0.0173394996672868,NO_GOAL,BlockedShot
+Federico Di Francesco,Serie_A,2021,2022-02-06,Bologna,Empoli,75,0.0185576006770133,NO_GOAL,ShotOnPost
+Federico Di Francesco,Serie_A,2022,2022-08-20,Sassuolo,Lecce,14,0.0245533995330333,NO_GOAL,SavedShot
+Federico Di Francesco,Serie_A,2022,2022-10-09,Roma,Lecce,71,0.0185573995113372,NO_GOAL,SavedShot
+Federico Di Francesco,Serie_A,2022,2022-11-12,Sampdoria,Lecce,25,0.0908954963088035,NO_GOAL,MissedShots
+Federico Di Francesco,Serie_A,2022,2023-01-04,Lecce,Lazio,46,0.0166629999876022,NO_GOAL,SavedShot
+Federico Di Francesco,Serie_A,2022,2023-01-08,Spezia,Lecce,52,0.0118011999875307,NO_GOAL,SavedShot
+Federico Di Francesco,Serie_A,2022,2023-01-14,Lecce,AC Milan,13,0.0459905005991458,NO_GOAL,MissedShots
+Federico Di Francesco,Serie_A,2022,2023-03-12,Lecce,Torino,7,0.0098976697772741,NO_GOAL,BlockedShot
+Federico Di Francesco,Serie_A,2022,2023-04-16,Lecce,Sampdoria,62,0.0383425988256931,NO_GOAL,SavedShot

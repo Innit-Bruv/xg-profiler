@@ -1,0 +1,16 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Lucas Vázquez,La_liga,2014,2015-02-20,Getafe,Espanyol,65,0.018376100808382,NO_GOAL,SavedShot
+Lucas Vázquez,La_liga,2014,2015-04-06,Espanyol,Elche,55,0.0126266004517674,NO_GOAL,SavedShot
+Lucas Vázquez,La_liga,2014,2015-05-03,Espanyol,Rayo Vallecano,82,0.2027630060911178,NO_GOAL,SavedShot
+Lucas Vázquez,La_liga,2014,2015-05-23,Celta Vigo,Espanyol,5,0.0111354999244213,NO_GOAL,MissedShots
+Lucas Vázquez,La_liga,2016,2016-09-18,Espanyol,Real Madrid,39,0.0148783000186085,NO_GOAL,BlockedShot
+Lucas Vázquez,La_liga,2016,2017-04-05,Leganes,Real Madrid,32,0.0438720993697643,NO_GOAL,MissedShots
+Lucas Vázquez,La_liga,2018,2019-01-03,Villarreal,Real Madrid,49,0.0216863993555307,NO_GOAL,BlockedShot
+Lucas Vázquez,La_liga,2020,2020-12-20,Eibar,Real Madrid,45,0.2775759994983673,NO_GOAL,BlockedShot
+Lucas Vázquez,La_liga,2020,2021-02-20,Real Valladolid,Real Madrid,51,0.0202906001359224,NO_GOAL,MissedShots
+Lucas Vázquez,La_liga,2021,2021-12-01,Real Madrid,Athletic Club,66,0.0202075000852346,NO_GOAL,BlockedShot
+Lucas Vázquez,La_liga,2021,2021-12-19,Real Madrid,Cadiz,33,0.0164301991462707,NO_GOAL,MissedShots
+Lucas Vázquez,La_liga,2022,2023-04-22,Real Madrid,Celta Vigo,88,0.0203405655920505,NO_GOAL,MissedShots
+Lucas Vázquez,La_liga,2023,2023-12-02,Real Madrid,Granada,71,0.0271485354751348,NO_GOAL,MissedShots
+Lucas Vázquez,La_liga,2023,2024-03-10,Real Madrid,Celta Vigo,51,0.0358572080731391,NO_GOAL,MissedShots
+Lucas Vázquez,La_liga,2024,2025-02-23,Real Madrid,Girona,51,0.0298605635762214,NO_GOAL,MissedShots

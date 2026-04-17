@@ -1,0 +1,18 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Patrik Schick,Serie_A,2016,2016-12-10,Sampdoria,Lazio,88,0.0341214016079902,GOAL,Goal
+Patrik Schick,Serie_A,2016,2017-01-29,Sampdoria,Roma,70,0.1376309990882873,GOAL,Goal
+Patrik Schick,Serie_A,2016,2017-03-04,Sampdoria,Pescara,64,0.0815538018941879,NO_GOAL,SavedShot
+Patrik Schick,Serie_A,2016,2017-03-11,Genoa,Sampdoria,79,0.1318529993295669,NO_GOAL,SavedShot
+Patrik Schick,Serie_A,2016,2017-04-23,Sampdoria,Crotone,19,0.3947559893131256,GOAL,Goal
+Patrik Schick,Serie_A,2017,2018-05-20,Sassuolo,Roma,11,0.159742996096611,NO_GOAL,ShotOnPost
+Patrik Schick,Serie_A,2018,2018-12-26,Roma,Sassuolo,22,0.6217619776725769,GOAL,Goal
+Patrik Schick,Bundesliga,2019,2019-11-30,Paderborn,RasenBallsport Leipzig,2,0.4794830083847046,GOAL,Goal
+Patrik Schick,Bundesliga,2020,2021-02-06,Bayer Leverkusen,VfB Stuttgart,78,0.1779129952192306,NO_GOAL,BlockedShot
+Patrik Schick,Bundesliga,2020,2021-02-13,Bayer Leverkusen,Mainz 05,83,0.3504579961299896,GOAL,Goal
+Patrik Schick,Bundesliga,2021,2021-08-28,Augsburg,Bayer Leverkusen,74,0.1860570013523101,GOAL,Goal
+Patrik Schick,Bundesliga,2021,2021-09-25,Bayer Leverkusen,Mainz 05,72,0.1406480073928833,NO_GOAL,SavedShot
+Patrik Schick,Bundesliga,2021,2022-01-15,Borussia M.Gladbach,Bayer Leverkusen,62,0.1841800063848495,NO_GOAL,SavedShot
+Patrik Schick,Bundesliga,2021,2022-05-07,Hoffenheim,Bayer Leverkusen,75,0.9349169731140136,GOAL,Goal
+Patrik Schick,Bundesliga,2022,2022-08-20,Bayer Leverkusen,Hoffenheim,13,0.3870620131492615,NO_GOAL,MissedShots
+Patrik Schick,Bundesliga,2024,2024-12-21,Bayer Leverkusen,Freiburg,22,0.1288198679685592,NO_GOAL,SavedShot
+Patrik Schick,Bundesliga,2024,2025-03-01,Eintracht Frankfurt,Bayer Leverkusen,37,0.2770670056343078,NO_GOAL,SavedShot

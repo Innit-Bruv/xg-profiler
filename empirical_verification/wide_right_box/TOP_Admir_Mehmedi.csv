@@ -1,0 +1,18 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Admir Mehmedi,Bundesliga,2014,2014-11-28,Freiburg,VfB Stuttgart,60,0.0347023010253906,NO_GOAL,SavedShot
+Admir Mehmedi,Bundesliga,2014,2014-12-06,Paderborn,Freiburg,76,0.0736308991909027,NO_GOAL,SavedShot
+Admir Mehmedi,Bundesliga,2014,2015-04-18,Freiburg,Mainz 05,80,0.0259555000811815,GOAL,Goal
+Admir Mehmedi,Bundesliga,2014,2015-04-25,VfB Stuttgart,Freiburg,62,0.0399416014552116,NO_GOAL,MissedShots
+Admir Mehmedi,Bundesliga,2015,2015-09-26,Werder Bremen,Bayer Leverkusen,20,0.0806028991937637,NO_GOAL,MissedShots
+Admir Mehmedi,Bundesliga,2015,2015-10-24,Bayer Leverkusen,VfB Stuttgart,17,0.0325064994394779,NO_GOAL,SavedShot
+Admir Mehmedi,Bundesliga,2016,2016-09-17,Eintracht Frankfurt,Bayer Leverkusen,24,0.0846469029784202,NO_GOAL,MissedShots
+Admir Mehmedi,Bundesliga,2016,2016-10-29,Wolfsburg,Bayer Leverkusen,69,0.0411964990198612,NO_GOAL,MissedShots
+Admir Mehmedi,Bundesliga,2016,2016-11-26,Bayern Munich,Bayer Leverkusen,1,0.0404936000704765,NO_GOAL,MissedShots
+Admir Mehmedi,Bundesliga,2016,2017-03-18,Hoffenheim,Bayer Leverkusen,4,0.0539694987237453,NO_GOAL,BlockedShot
+Admir Mehmedi,Bundesliga,2017,2017-11-25,Eintracht Frankfurt,Bayer Leverkusen,20,0.0443651005625724,NO_GOAL,MissedShots
+Admir Mehmedi,Bundesliga,2018,2018-12-02,Eintracht Frankfurt,Wolfsburg,30,0.2672939896583557,GOAL,Goal
+Admir Mehmedi,Bundesliga,2018,2018-12-02,Eintracht Frankfurt,Wolfsburg,56,0.0380383990705013,NO_GOAL,MissedShots
+Admir Mehmedi,Bundesliga,2018,2019-03-16,Wolfsburg,Fortuna Duesseldorf,33,0.0410779006779193,GOAL,Goal
+Admir Mehmedi,Bundesliga,2018,2019-04-22,Wolfsburg,Eintracht Frankfurt,33,0.0234140008687973,NO_GOAL,SavedShot
+Admir Mehmedi,Bundesliga,2019,2019-09-23,Wolfsburg,Hoffenheim,35,0.0439769998192787,GOAL,Goal
+Admir Mehmedi,Bundesliga,2019,2020-03-07,Wolfsburg,RasenBallsport Leipzig,38,0.0379353016614913,NO_GOAL,SavedShot

@@ -1,0 +1,19 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Philipp Max,Bundesliga,2015,2015-12-13,Augsburg,Schalke 04,46,0.0587343983352184,NO_GOAL,MissedShots
+Philipp Max,Bundesliga,2016,2017-02-05,Augsburg,Werder Bremen,82,0.0280847009271383,NO_GOAL,SavedShot
+Philipp Max,Bundesliga,2016,2017-02-05,Augsburg,Werder Bremen,87,0.0362534001469612,NO_GOAL,BlockedShot
+Philipp Max,Bundesliga,2017,2017-09-16,Eintracht Frankfurt,Augsburg,19,0.0405122004449367,GOAL,Goal
+Philipp Max,Bundesliga,2017,2017-09-23,VfB Stuttgart,Augsburg,84,0.0368825010955333,NO_GOAL,SavedShot
+Philipp Max,Bundesliga,2017,2017-11-25,Augsburg,Wolfsburg,11,0.0847382023930549,NO_GOAL,BlockedShot
+Philipp Max,Bundesliga,2018,2018-12-01,VfB Stuttgart,Augsburg,7,0.0322576984763145,NO_GOAL,MissedShots
+Philipp Max,Bundesliga,2019,2019-11-09,Paderborn,Augsburg,40,0.070516400039196,GOAL,Goal
+Philipp Max,Bundesliga,2019,2019-12-17,Augsburg,Fortuna Duesseldorf,71,0.043851800262928,GOAL,Goal
+Philipp Max,Bundesliga,2019,2020-01-18,Augsburg,Borussia Dortmund,44,0.0320293009281158,NO_GOAL,SavedShot
+Philipp Max,Bundesliga,2019,2020-01-25,Union Berlin,Augsburg,12,0.08437480032444,NO_GOAL,MissedShots
+Philipp Max,Bundesliga,2019,2020-01-25,Union Berlin,Augsburg,68,0.0461982004344463,NO_GOAL,SavedShot
+Philipp Max,Bundesliga,2019,2020-02-15,Augsburg,Freiburg,59,0.0537580996751785,NO_GOAL,MissedShots
+Philipp Max,Bundesliga,2019,2020-02-23,Bayer Leverkusen,Augsburg,21,0.0458117015659809,NO_GOAL,MissedShots
+Philipp Max,Bundesliga,2019,2020-06-07,Augsburg,FC Cologne,45,0.0601803995668888,NO_GOAL,MissedShots
+Philipp Max,Bundesliga,2019,2020-06-14,Mainz 05,Augsburg,93,0.0470485985279083,NO_GOAL,BlockedShot
+Philipp Max,Bundesliga,2019,2020-06-27,Augsburg,RasenBallsport Leipzig,70,0.04322300106287,NO_GOAL,BlockedShot
+Philipp Max,Bundesliga,2022,2023-02-25,RasenBallsport Leipzig,Eintracht Frankfurt,34,0.150857999920845,NO_GOAL,BlockedShot

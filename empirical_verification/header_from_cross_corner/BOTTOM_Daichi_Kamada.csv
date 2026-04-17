@@ -1,0 +1,23 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Daichi Kamada,Bundesliga,2019,2019-09-01,Eintracht Frankfurt,Fortuna Duesseldorf,44,0.0738734006881713,NO_GOAL,MissedShots
+Daichi Kamada,Bundesliga,2019,2019-09-01,Eintracht Frankfurt,Fortuna Duesseldorf,83,0.323388010263443,NO_GOAL,SavedShot
+Daichi Kamada,Bundesliga,2019,2019-10-27,Borussia M.Gladbach,Eintracht Frankfurt,65,0.0182769000530242,NO_GOAL,MissedShots
+Daichi Kamada,Bundesliga,2019,2019-10-27,Borussia M.Gladbach,Eintracht Frankfurt,67,0.0755340978503227,NO_GOAL,MissedShots
+Daichi Kamada,Bundesliga,2019,2020-05-26,Eintracht Frankfurt,Freiburg,90,0.0337409004569053,NO_GOAL,SavedShot
+Daichi Kamada,Bundesliga,2020,2021-01-02,Eintracht Frankfurt,Bayer Leverkusen,72,0.341744989156723,NO_GOAL,MissedShots
+Daichi Kamada,Bundesliga,2020,2021-02-14,Eintracht Frankfurt,FC Cologne,22,0.5202530026435852,NO_GOAL,SavedShot
+Daichi Kamada,Bundesliga,2020,2021-03-20,Eintracht Frankfurt,Union Berlin,75,0.0326871015131473,NO_GOAL,SavedShot
+Daichi Kamada,Bundesliga,2020,2021-04-03,Borussia Dortmund,Eintracht Frankfurt,56,0.1066680029034614,NO_GOAL,MissedShots
+Daichi Kamada,Bundesliga,2020,2021-04-24,Bayer Leverkusen,Eintracht Frankfurt,46,0.4856779873371124,NO_GOAL,SavedShot
+Daichi Kamada,Bundesliga,2021,2021-11-21,Freiburg,Eintracht Frankfurt,39,0.1002330034971237,NO_GOAL,MissedShots
+Daichi Kamada,Bundesliga,2021,2021-11-28,Eintracht Frankfurt,Union Berlin,24,0.4472370147705078,NO_GOAL,ShotOnPost
+Daichi Kamada,Bundesliga,2021,2021-12-04,Hoffenheim,Eintracht Frankfurt,4,0.1138390004634857,NO_GOAL,MissedShots
+Daichi Kamada,Bundesliga,2021,2022-03-13,Eintracht Frankfurt,Bochum,1,0.1002169996500015,NO_GOAL,MissedShots
+Daichi Kamada,Bundesliga,2022,2022-08-13,Hertha Berlin,Eintracht Frankfurt,62,0.3202719986438751,NO_GOAL,MissedShots
+Daichi Kamada,Bundesliga,2022,2022-08-28,Werder Bremen,Eintracht Frankfurt,1,0.3406170010566711,NO_GOAL,BlockedShot
+Daichi Kamada,Bundesliga,2022,2022-09-03,Eintracht Frankfurt,RasenBallsport Leipzig,15,0.6405180096626282,GOAL,Goal
+Daichi Kamada,Bundesliga,2022,2023-04-08,Bayer Leverkusen,Eintracht Frankfurt,61,0.0930557027459144,NO_GOAL,MissedShots
+Daichi Kamada,Bundesliga,2022,2023-05-20,Schalke 04,Eintracht Frankfurt,39,0.6105799078941345,NO_GOAL,MissedShots
+Daichi Kamada,Serie_A,2023,2023-08-27,Lazio,Genoa,45,0.1011817157268524,NO_GOAL,BlockedShot
+Daichi Kamada,Serie_A,2023,2024-01-07,Udinese,Lazio,17,0.0775587558746337,NO_GOAL,MissedShots
+Daichi Kamada,EPL,2024,2024-10-21,Nottingham Forest,Crystal Palace,27,0.0868245735764503,NO_GOAL,MissedShots

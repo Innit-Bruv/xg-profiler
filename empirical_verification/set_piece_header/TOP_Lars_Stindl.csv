@@ -1,0 +1,17 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Lars Stindl,Bundesliga,2014,2014-11-29,Hoffenheim,Hannover 96,42,0.0591920986771583,GOAL,Goal
+Lars Stindl,Bundesliga,2014,2014-12-13,Werder Bremen,Hannover 96,33,0.1485349982976913,NO_GOAL,BlockedShot
+Lars Stindl,Bundesliga,2014,2014-12-16,Hannover 96,Augsburg,51,0.0462698005139827,NO_GOAL,BlockedShot
+Lars Stindl,Bundesliga,2016,2016-09-17,Borussia M.Gladbach,Werder Bremen,61,0.0173732992261648,NO_GOAL,MissedShots
+Lars Stindl,Bundesliga,2016,2016-10-15,Borussia M.Gladbach,Hamburger SV,82,0.0419456996023654,NO_GOAL,BlockedShot
+Lars Stindl,Bundesliga,2016,2016-12-03,Borussia Dortmund,Borussia M.Gladbach,72,0.0219235997647047,NO_GOAL,BlockedShot
+Lars Stindl,Bundesliga,2016,2016-12-11,Borussia M.Gladbach,Mainz 05,75,0.0300155002623796,NO_GOAL,BlockedShot
+Lars Stindl,Bundesliga,2017,2018-02-03,Borussia M.Gladbach,RasenBallsport Leipzig,43,0.0321871004998683,NO_GOAL,MissedShots
+Lars Stindl,Bundesliga,2017,2018-02-18,Borussia M.Gladbach,Borussia Dortmund,85,0.052461601793766,NO_GOAL,BlockedShot
+Lars Stindl,Bundesliga,2018,2019-01-26,Borussia M.Gladbach,Augsburg,71,0.0729416981339454,NO_GOAL,MissedShots
+Lars Stindl,Bundesliga,2018,2019-02-17,Eintracht Frankfurt,Borussia M.Gladbach,6,0.0656320974230766,NO_GOAL,MissedShots
+Lars Stindl,Bundesliga,2020,2020-10-17,Borussia M.Gladbach,Wolfsburg,0,0.0443908981978893,NO_GOAL,SavedShot
+Lars Stindl,Bundesliga,2020,2020-12-15,Eintracht Frankfurt,Borussia M.Gladbach,94,0.1281359940767288,GOAL,Goal
+Lars Stindl,Bundesliga,2020,2021-01-02,Arminia Bielefeld,Borussia M.Gladbach,4,0.0124401999637484,NO_GOAL,BlockedShot
+Lars Stindl,Bundesliga,2021,2022-04-23,Freiburg,Borussia M.Gladbach,92,0.0386379994451999,GOAL,Goal
+Lars Stindl,Bundesliga,2021,2022-05-14,Borussia M.Gladbach,Hoffenheim,18,0.0146246999502182,NO_GOAL,SavedShot

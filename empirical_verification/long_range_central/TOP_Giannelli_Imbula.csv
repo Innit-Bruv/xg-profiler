@@ -1,0 +1,20 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Giannelli Imbula,Ligue_1,2014,2014-08-17,Marseille,Montpellier,0,0.0164420008659362,NO_GOAL,MissedShots
+Giannelli Imbula,Ligue_1,2014,2014-09-23,Reims,Marseille,71,0.0649674981832504,NO_GOAL,BlockedShot
+Giannelli Imbula,Ligue_1,2014,2014-09-23,Reims,Marseille,73,0.017731599509716,GOAL,Goal
+Giannelli Imbula,Ligue_1,2014,2014-10-19,Marseille,Toulouse,11,0.0159063003957271,NO_GOAL,MissedShots
+Giannelli Imbula,Ligue_1,2014,2014-11-02,Marseille,Lens,14,0.0205407999455928,NO_GOAL,MissedShots
+Giannelli Imbula,Ligue_1,2014,2014-11-02,Marseille,Lens,77,0.0251081995666027,NO_GOAL,SavedShot
+Giannelli Imbula,Ligue_1,2014,2014-11-09,Paris Saint Germain,Marseille,60,0.0241711996495723,NO_GOAL,MissedShots
+Giannelli Imbula,Ligue_1,2014,2015-01-31,Marseille,Evian Thonon Gaillard,7,0.0199612993746995,NO_GOAL,BlockedShot
+Giannelli Imbula,Ligue_1,2014,2015-02-07,Rennes,Marseille,68,0.0186599995940923,NO_GOAL,SavedShot
+Giannelli Imbula,EPL,2015,2016-02-13,Bournemouth,Stoke,8,0.0208253990858793,GOAL,Goal
+Giannelli Imbula,EPL,2015,2016-04-10,Liverpool,Stoke,41,0.0178420003503561,NO_GOAL,SavedShot
+Giannelli Imbula,EPL,2015,2016-04-23,Manchester City,Stoke,66,0.007787540089339,NO_GOAL,MissedShots
+Giannelli Imbula,Ligue_1,2017,2017-09-30,Guingamp,Toulouse,12,0.0217905007302761,NO_GOAL,MissedShots
+Giannelli Imbula,Ligue_1,2017,2018-02-24,Toulouse,Monaco,9,0.0139172999188303,NO_GOAL,SavedShot
+Giannelli Imbula,Ligue_1,2017,2018-03-11,Toulouse,Marseille,63,0.0384678989648819,NO_GOAL,SavedShot
+Giannelli Imbula,La_liga,2018,2018-09-14,SD Huesca,Rayo Vallecano,28,0.0163000002503395,GOAL,Goal
+Giannelli Imbula,La_liga,2018,2018-09-28,Rayo Vallecano,Espanyol,3,0.0092251300811767,NO_GOAL,MissedShots
+Giannelli Imbula,La_liga,2018,2018-10-27,Girona,Rayo Vallecano,6,0.0175989996641874,NO_GOAL,BlockedShot
+Giannelli Imbula,La_liga,2018,2019-01-11,Rayo Vallecano,Celta Vigo,28,0.0218573994934558,NO_GOAL,SavedShot

@@ -1,0 +1,17 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Ricardo Rodríguez,Bundesliga,2014,2014-12-20,Wolfsburg,FC Cologne,27,0.0550593994557857,NO_GOAL,MissedShots
+Ricardo Rodríguez,Bundesliga,2014,2015-02-14,Bayer Leverkusen,Wolfsburg,11,0.0230666995048522,NO_GOAL,SavedShot
+Ricardo Rodríguez,Bundesliga,2014,2015-03-15,Wolfsburg,Freiburg,24,0.0219314992427825,NO_GOAL,SavedShot
+Ricardo Rodríguez,Bundesliga,2014,2015-04-19,Wolfsburg,Schalke 04,34,0.0513349995017051,NO_GOAL,BlockedShot
+Ricardo Rodríguez,Bundesliga,2015,2015-08-16,Wolfsburg,Eintracht Frankfurt,64,0.0464297011494636,NO_GOAL,MissedShots
+Ricardo Rodríguez,Bundesliga,2015,2015-10-31,Wolfsburg,Bayer Leverkusen,44,0.064256303012371,NO_GOAL,BlockedShot
+Ricardo Rodríguez,Bundesliga,2015,2016-04-09,Wolfsburg,Mainz 05,88,0.0382014997303485,NO_GOAL,MissedShots
+Ricardo Rodríguez,Bundesliga,2016,2016-10-02,Wolfsburg,Mainz 05,3,0.063631497323513,NO_GOAL,SavedShot
+Ricardo Rodríguez,Bundesliga,2016,2016-10-16,Wolfsburg,RasenBallsport Leipzig,69,0.0533867999911308,NO_GOAL,MissedShots
+Ricardo Rodríguez,Serie_A,2017,2017-09-17,AC Milan,Udinese,70,0.0400292016565799,NO_GOAL,SavedShot
+Ricardo Rodríguez,Serie_A,2018,2018-10-28,AC Milan,Sampdoria,58,0.0170082002878189,NO_GOAL,BlockedShot
+Ricardo Rodríguez,Serie_A,2020,2020-11-30,Torino,Sampdoria,59,0.0508451014757156,NO_GOAL,SavedShot
+Ricardo Rodríguez,Serie_A,2020,2020-12-05,Juventus,Torino,51,0.0590922981500625,NO_GOAL,BlockedShot
+Ricardo Rodríguez,Serie_A,2020,2021-03-07,Crotone,Torino,7,0.059238001704216,NO_GOAL,MissedShots
+Ricardo Rodríguez,Serie_A,2021,2021-12-19,Torino,Verona,25,0.0631859004497528,NO_GOAL,BlockedShot
+Ricardo Rodríguez,Serie_A,2021,2022-04-16,Lazio,Torino,48,0.0372910015285015,NO_GOAL,BlockedShot

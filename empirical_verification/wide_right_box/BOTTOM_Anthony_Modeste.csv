@@ -1,0 +1,16 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Anthony Modeste,Bundesliga,2014,2015-02-01,Augsburg,Hoffenheim,3,0.0667572021484375,NO_GOAL,MissedShots
+Anthony Modeste,Bundesliga,2014,2015-05-16,Bayer Leverkusen,Hoffenheim,16,0.0418016016483306,NO_GOAL,SavedShot
+Anthony Modeste,Bundesliga,2014,2015-05-23,Hoffenheim,Hertha Berlin,51,0.0738285034894943,NO_GOAL,BlockedShot
+Anthony Modeste,Bundesliga,2015,2015-10-31,FC Cologne,Hoffenheim,63,0.0547118000686168,NO_GOAL,MissedShots
+Anthony Modeste,Bundesliga,2015,2015-12-12,Werder Bremen,FC Cologne,30,0.0524954982101917,NO_GOAL,MissedShots
+Anthony Modeste,Bundesliga,2015,2016-05-07,FC Cologne,Werder Bremen,46,0.092485100030899,NO_GOAL,SavedShot
+Anthony Modeste,Bundesliga,2016,2016-08-27,FC Cologne,Darmstadt,5,0.0567459017038345,NO_GOAL,MissedShots
+Anthony Modeste,Bundesliga,2016,2016-09-16,FC Cologne,Freiburg,5,0.0470934994518756,NO_GOAL,BlockedShot
+Anthony Modeste,Bundesliga,2016,2016-11-19,Borussia M.Gladbach,FC Cologne,3,0.030138099566102,NO_GOAL,BlockedShot
+Anthony Modeste,Bundesliga,2016,2016-12-21,FC Cologne,Bayer Leverkusen,83,0.0260889995843172,NO_GOAL,BlockedShot
+Anthony Modeste,Bundesliga,2016,2017-03-18,FC Cologne,Hertha Berlin,84,0.0410862006247043,NO_GOAL,SavedShot
+Anthony Modeste,Bundesliga,2019,2019-09-29,FC Cologne,Hertha Berlin,49,0.034756101667881,NO_GOAL,MissedShots
+Anthony Modeste,Bundesliga,2019,2020-03-06,Paderborn,FC Cologne,77,0.4971509873867035,NO_GOAL,MissedShots
+Anthony Modeste,Bundesliga,2021,2022-04-30,Augsburg,FC Cologne,25,0.0725911036133766,NO_GOAL,SavedShot
+Anthony Modeste,Bundesliga,2022,2022-08-12,Freiburg,Borussia Dortmund,21,0.055341500788927,NO_GOAL,SavedShot

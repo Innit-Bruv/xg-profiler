@@ -1,0 +1,33 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Jonathan Ikone,Ligue_1,2016,2017-02-04,Montpellier,SC Bastia,81,0.4067350029945373,NO_GOAL,ShotOnPost
+Jonathan Ikone,Ligue_1,2016,2017-03-11,Montpellier,Nantes,71,0.0740126967430114,NO_GOAL,MissedShots
+Jonathan Ikone,Ligue_1,2016,2017-04-02,Montpellier,Toulouse,84,0.076145201921463,NO_GOAL,MissedShots
+Jonathan Ikone,Ligue_1,2016,2017-04-29,Montpellier,Lille,40,0.0423463992774486,NO_GOAL,BlockedShot
+Jonathan Ikone,Ligue_1,2016,2017-05-14,Montpellier,Lyon,35,0.0813217014074325,NO_GOAL,SavedShot
+Jonathan Ikone,Ligue_1,2017,2017-12-20,Bordeaux,Montpellier,59,0.0134418997913599,NO_GOAL,SavedShot
+Jonathan Ikone,Ligue_1,2017,2018-03-10,Lille,Montpellier,83,0.0729945003986358,NO_GOAL,MissedShots
+Jonathan Ikone,Ligue_1,2017,2018-03-10,Lille,Montpellier,93,0.0202332995831966,NO_GOAL,BlockedShot
+Jonathan Ikone,Ligue_1,2018,2018-10-20,Dijon,Lille,81,0.3185780048370361,NO_GOAL,SavedShot
+Jonathan Ikone,Ligue_1,2018,2018-12-22,Lille,Toulouse,22,0.3543370068073272,NO_GOAL,SavedShot
+Jonathan Ikone,Ligue_1,2018,2019-03-03,Lille,Dijon,58,0.062440101057291,NO_GOAL,MissedShots
+Jonathan Ikone,Ligue_1,2018,2019-04-21,Toulouse,Lille,76,0.0587367005646228,NO_GOAL,MissedShots
+Jonathan Ikone,Ligue_1,2019,2019-10-26,Lille,Bordeaux,6,0.0823187977075576,NO_GOAL,MissedShots
+Jonathan Ikone,Ligue_1,2019,2019-11-02,Marseille,Lille,68,0.0805554017424583,NO_GOAL,MissedShots
+Jonathan Ikone,Ligue_1,2019,2019-11-09,Lille,Metz,7,0.0687452033162117,NO_GOAL,BlockedShot
+Jonathan Ikone,Ligue_1,2019,2019-11-09,Lille,Metz,34,0.1238680034875869,NO_GOAL,MissedShots
+Jonathan Ikone,Ligue_1,2020,2020-12-13,Lille,Bordeaux,44,0.1687529981136322,NO_GOAL,SavedShot
+Jonathan Ikone,Ligue_1,2020,2021-02-07,Nantes,Lille,48,0.0733695030212402,NO_GOAL,MissedShots
+Jonathan Ikone,Ligue_1,2020,2021-02-28,Lille,Strasbourg,32,0.0682777017354965,NO_GOAL,MissedShots
+Jonathan Ikone,Ligue_1,2020,2021-03-03,Lille,Marseille,59,0.0356214009225368,NO_GOAL,BlockedShot
+Jonathan Ikone,Ligue_1,2021,2021-09-18,Lens,Lille,66,0.2215989977121353,NO_GOAL,SavedShot
+Jonathan Ikone,Serie_A,2021,2022-02-26,Sassuolo,Fiorentina,44,0.0233724992722272,NO_GOAL,SavedShot
+Jonathan Ikone,Serie_A,2021,2022-03-19,Inter,Fiorentina,93,0.1859589964151382,NO_GOAL,SavedShot
+Jonathan Ikone,Serie_A,2021,2022-04-16,Fiorentina,Venezia,17,0.0564239993691444,NO_GOAL,MissedShots
+Jonathan Ikone,Serie_A,2022,2022-08-21,Empoli,Fiorentina,34,0.0382361002266407,NO_GOAL,BlockedShot
+Jonathan Ikone,Serie_A,2022,2022-10-30,Spezia,Fiorentina,44,0.0739400014281272,NO_GOAL,BlockedShot
+Jonathan Ikone,Serie_A,2022,2023-05-03,Salernitana,Fiorentina,70,0.6793209910392761,GOAL,Goal
+Jonathan Ikone,Serie_A,2023,2023-12-22,Monza,Fiorentina,8,0.9601497054100036,NO_GOAL,BlockedShot
+Jonathan Ikone,Serie_A,2023,2024-04-15,Fiorentina,Genoa,6,0.0153805967420339,NO_GOAL,SavedShot
+Jonathan Ikone,Serie_A,2023,2024-04-28,Fiorentina,Sassuolo,35,0.4820380806922912,NO_GOAL,SavedShot
+Jonathan Ikone,Serie_A,2024,2025-02-01,Bologna,Como,69,0.0628687366843223,NO_GOAL,MissedShots
+Jonathan Ikone,Serie_A,2024,2025-03-02,Roma,Como,83,0.0199325382709503,NO_GOAL,BlockedShot

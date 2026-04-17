@@ -1,0 +1,38 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Marco Benassi,Serie_A,2014,2015-01-18,Cesena,Torino,19,0.0445250011980533,GOAL,Goal
+Marco Benassi,Serie_A,2014,2015-02-01,Torino,Sampdoria,44,0.0890190973877906,NO_GOAL,SavedShot
+Marco Benassi,Serie_A,2014,2015-02-07,Verona,Torino,55,0.1002629995346069,NO_GOAL,MissedShots
+Marco Benassi,Serie_A,2014,2015-03-08,Udinese,Torino,68,0.03083430044353,GOAL,Goal
+Marco Benassi,Serie_A,2014,2015-05-31,Torino,Cesena,45,0.0852774977684021,NO_GOAL,MissedShots
+Marco Benassi,Serie_A,2015,2015-08-30,Torino,Fiorentina,0,0.0217847004532814,NO_GOAL,BlockedShot
+Marco Benassi,Serie_A,2015,2015-09-27,Torino,Palermo,47,0.0404721982777118,GOAL,Goal
+Marco Benassi,Serie_A,2015,2015-12-20,Torino,Udinese,18,0.0471972003579139,NO_GOAL,BlockedShot
+Marco Benassi,Serie_A,2015,2016-01-16,Torino,Frosinone,40,0.0253819990903139,NO_GOAL,MissedShots
+Marco Benassi,Serie_A,2015,2016-01-31,Torino,Verona,87,0.0391608998179435,NO_GOAL,MissedShots
+Marco Benassi,Serie_A,2015,2016-02-07,Torino,Chievo,57,0.0351355001330375,NO_GOAL,MissedShots
+Marco Benassi,Serie_A,2015,2016-02-14,Palermo,Torino,61,0.0592795982956886,NO_GOAL,SavedShot
+Marco Benassi,Serie_A,2016,2016-10-02,Torino,Fiorentina,25,0.0310350004583597,NO_GOAL,BlockedShot
+Marco Benassi,Serie_A,2016,2016-10-02,Torino,Fiorentina,25,0.0428294017910957,NO_GOAL,MissedShots
+Marco Benassi,Serie_A,2016,2016-11-05,Torino,Cagliari,37,0.0601075999438762,GOAL,Goal
+Marco Benassi,Serie_A,2016,2016-11-05,Torino,Cagliari,46,0.0749069973826408,NO_GOAL,MissedShots
+Marco Benassi,Serie_A,2016,2016-11-26,Torino,Chievo,61,0.0583366006612777,NO_GOAL,SavedShot
+Marco Benassi,Serie_A,2016,2017-02-05,Empoli,Torino,93,0.0307043995708227,NO_GOAL,BlockedShot
+Marco Benassi,Serie_A,2016,2017-02-19,Roma,Torino,20,0.0143945999443531,NO_GOAL,MissedShots
+Marco Benassi,Serie_A,2017,2017-08-27,Fiorentina,Sampdoria,63,0.0607362017035484,NO_GOAL,SavedShot
+Marco Benassi,Serie_A,2017,2017-11-19,SPAL 2013,Fiorentina,50,0.0285548008978366,NO_GOAL,BlockedShot
+Marco Benassi,Serie_A,2017,2018-03-18,Torino,Fiorentina,15,0.0471279993653297,NO_GOAL,BlockedShot
+Marco Benassi,Serie_A,2017,2018-04-29,Fiorentina,Napoli,35,0.0858367979526519,NO_GOAL,MissedShots
+Marco Benassi,Serie_A,2017,2018-04-29,Fiorentina,Napoli,42,0.0670685991644859,NO_GOAL,SavedShot
+Marco Benassi,Serie_A,2017,2018-04-29,Fiorentina,Napoli,84,0.0878364965319633,NO_GOAL,MissedShots
+Marco Benassi,Serie_A,2017,2018-05-06,Genoa,Fiorentina,68,0.0316684991121292,NO_GOAL,SavedShot
+Marco Benassi,Serie_A,2017,2018-05-06,Genoa,Fiorentina,73,0.0371218994259834,NO_GOAL,SavedShot
+Marco Benassi,Serie_A,2017,2018-05-20,AC Milan,Fiorentina,25,0.0210465006530284,NO_GOAL,MissedShots
+Marco Benassi,Serie_A,2018,2018-08-26,Fiorentina,Chievo,7,0.0625338032841682,NO_GOAL,SavedShot
+Marco Benassi,Serie_A,2018,2018-08-26,Fiorentina,Chievo,89,0.0890450030565261,GOAL,Goal
+Marco Benassi,Serie_A,2018,2018-09-02,Fiorentina,Udinese,72,0.0544281005859375,GOAL,Goal
+Marco Benassi,Serie_A,2018,2018-12-26,Fiorentina,Parma Calcio 1913,3,0.0639737993478775,NO_GOAL,SavedShot
+Marco Benassi,Serie_A,2018,2019-01-27,Chievo,Fiorentina,25,0.0461300015449523,GOAL,Goal
+Marco Benassi,Serie_A,2018,2019-05-11,Fiorentina,AC Milan,48,0.0291626006364822,NO_GOAL,BlockedShot
+Marco Benassi,Serie_A,2018,2019-05-11,Fiorentina,AC Milan,62,0.0546430982649326,NO_GOAL,BlockedShot
+Marco Benassi,Serie_A,2018,2019-05-19,Parma Calcio 1913,Fiorentina,48,0.0536888018250465,NO_GOAL,SavedShot
+Marco Benassi,Serie_A,2021,2021-08-22,Roma,Fiorentina,75,0.0370679013431072,NO_GOAL,MissedShots

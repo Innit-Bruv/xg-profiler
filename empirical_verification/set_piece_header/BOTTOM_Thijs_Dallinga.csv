@@ -1,0 +1,18 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Thijs Dallinga,Ligue_1,2022,2022-08-07,Toulouse,Nice,22,0.9159470200538636,NO_GOAL,BlockedShot
+Thijs Dallinga,Ligue_1,2022,2022-08-21,Toulouse,Lorient,55,0.0512146987020969,NO_GOAL,SavedShot
+Thijs Dallinga,Ligue_1,2022,2022-09-04,Clermont Foot,Toulouse,57,0.0435339994728565,NO_GOAL,MissedShots
+Thijs Dallinga,Ligue_1,2022,2022-09-17,Lille,Toulouse,37,0.0148422997444868,NO_GOAL,BlockedShot
+Thijs Dallinga,Ligue_1,2022,2023-02-26,Reims,Toulouse,13,0.0129858003929257,NO_GOAL,MissedShots
+Thijs Dallinga,Ligue_1,2022,2023-03-12,Angers,Toulouse,22,0.1013280004262924,NO_GOAL,MissedShots
+Thijs Dallinga,Ligue_1,2022,2023-05-27,Toulouse,Auxerre,6,0.0733189955353736,NO_GOAL,ShotOnPost
+Thijs Dallinga,Ligue_1,2023,2023-11-05,Toulouse,Le Havre,5,0.0312081575393676,NO_GOAL,BlockedShot
+Thijs Dallinga,Ligue_1,2023,2024-02-11,Toulouse,Nantes,39,0.0218613352626562,NO_GOAL,MissedShots
+Thijs Dallinga,Ligue_1,2023,2024-03-31,Clermont Foot,Toulouse,0,0.0459671318531036,NO_GOAL,SavedShot
+Thijs Dallinga,Ligue_1,2023,2024-04-07,Toulouse,Strasbourg,28,0.0477882176637649,NO_GOAL,MissedShots
+Thijs Dallinga,Ligue_1,2023,2024-04-07,Toulouse,Strasbourg,53,0.017205910757184,NO_GOAL,MissedShots
+Thijs Dallinga,Serie_A,2024,2024-08-31,Bologna,Empoli,89,0.0321273133158683,NO_GOAL,SavedShot
+Thijs Dallinga,Serie_A,2024,2025-01-18,Bologna,Monza,87,0.0182975903153419,NO_GOAL,SavedShot
+Thijs Dallinga,Serie_A,2024,2025-02-09,Lecce,Bologna,94,0.4193412959575653,NO_GOAL,SavedShot
+Thijs Dallinga,Serie_A,2024,2025-04-07,Bologna,Napoli,48,0.0578558444976806,NO_GOAL,SavedShot
+Thijs Dallinga,Serie_A,2024,2025-05-04,Bologna,Juventus,6,0.022921148687601,NO_GOAL,SavedShot

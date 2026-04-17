@@ -1,0 +1,26 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Nils Petersen,Bundesliga,2016,2016-09-16,FC Cologne,Freiburg,85,0.0724762007594108,NO_GOAL,BlockedShot
+Nils Petersen,Bundesliga,2016,2016-10-15,Hoffenheim,Freiburg,91,0.0674801990389823,NO_GOAL,SavedShot
+Nils Petersen,Bundesliga,2016,2017-02-12,Freiburg,FC Cologne,71,0.0132576003670692,NO_GOAL,BlockedShot
+Nils Petersen,Bundesliga,2016,2017-04-01,Freiburg,Werder Bremen,63,0.5989680290222168,GOAL,Goal
+Nils Petersen,Bundesliga,2016,2017-04-08,Freiburg,Mainz 05,69,0.6915460228919983,GOAL,Goal
+Nils Petersen,Bundesliga,2017,2017-12-01,Freiburg,Hamburger SV,63,0.1095139980316162,NO_GOAL,MissedShots
+Nils Petersen,Bundesliga,2017,2017-12-10,FC Cologne,Freiburg,38,0.1480820029973983,GOAL,Goal
+Nils Petersen,Bundesliga,2017,2017-12-12,Freiburg,Borussia M.Gladbach,74,0.063656099140644,NO_GOAL,BlockedShot
+Nils Petersen,Bundesliga,2018,2018-08-25,Freiburg,Eintracht Frankfurt,21,0.1107989996671676,NO_GOAL,MissedShots
+Nils Petersen,Bundesliga,2018,2018-09-16,Freiburg,VfB Stuttgart,75,0.2300159931182861,NO_GOAL,MissedShots
+Nils Petersen,Bundesliga,2018,2018-12-15,Fortuna Duesseldorf,Freiburg,87,0.1097010001540184,NO_GOAL,SavedShot
+Nils Petersen,Bundesliga,2018,2019-01-26,Freiburg,Hoffenheim,51,0.0165878999978303,NO_GOAL,BlockedShot
+Nils Petersen,Bundesliga,2018,2019-02-23,Freiburg,Augsburg,8,0.1783179938793182,GOAL,Goal
+Nils Petersen,Bundesliga,2019,2019-11-02,Werder Bremen,Freiburg,92,0.1256590038537979,GOAL,Goal
+Nils Petersen,Bundesliga,2019,2020-01-25,Freiburg,Paderborn,67,0.043180301785469,NO_GOAL,MissedShots
+Nils Petersen,Bundesliga,2019,2020-03-07,Freiburg,Union Berlin,16,0.137034997344017,NO_GOAL,BlockedShot
+Nils Petersen,Bundesliga,2019,2020-05-26,Eintracht Frankfurt,Freiburg,66,0.0649382025003433,GOAL,Goal
+Nils Petersen,Bundesliga,2019,2020-06-05,Freiburg,Borussia M.Gladbach,57,0.1382520049810409,GOAL,Goal
+Nils Petersen,Bundesliga,2020,2020-09-19,VfB Stuttgart,Freiburg,25,0.0954065024852752,NO_GOAL,SavedShot
+Nils Petersen,Bundesliga,2020,2020-12-20,Freiburg,Hertha Berlin,83,0.0702425017952919,NO_GOAL,MissedShots
+Nils Petersen,Bundesliga,2020,2021-01-20,Freiburg,Eintracht Frankfurt,62,0.0588904991745948,GOAL,Goal
+Nils Petersen,Bundesliga,2020,2021-04-09,Arminia Bielefeld,Freiburg,87,0.0402753017842769,NO_GOAL,MissedShots
+Nils Petersen,Bundesliga,2020,2021-04-17,Freiburg,Schalke 04,87,0.1166080012917518,NO_GOAL,MissedShots
+Nils Petersen,Bundesliga,2021,2022-04-10,Eintracht Frankfurt,Freiburg,68,0.1291519999504089,GOAL,Goal
+Nils Petersen,Bundesliga,2022,2023-04-23,Freiburg,Schalke 04,86,0.0310507137328386,NO_GOAL,BlockedShot

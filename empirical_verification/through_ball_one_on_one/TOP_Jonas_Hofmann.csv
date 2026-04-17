@@ -1,0 +1,19 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Jonas Hofmann,Bundesliga,2014,2014-09-23,Eintracht Frankfurt,Mainz 05,40,0.4415020048618316,GOAL,Goal
+Jonas Hofmann,Bundesliga,2016,2017-05-20,Borussia M.Gladbach,Darmstadt,33,0.3588300049304962,NO_GOAL,SavedShot
+Jonas Hofmann,Bundesliga,2017,2017-09-23,Borussia Dortmund,Borussia M.Gladbach,90,0.3511770069599151,NO_GOAL,MissedShots
+Jonas Hofmann,Bundesliga,2017,2018-01-14,FC Cologne,Borussia M.Gladbach,85,0.12151999771595,NO_GOAL,MissedShots
+Jonas Hofmann,Bundesliga,2018,2018-10-21,Borussia M.Gladbach,Mainz 05,20,0.3338930010795593,GOAL,Goal
+Jonas Hofmann,Bundesliga,2019,2020-02-15,Fortuna Duesseldorf,Borussia M.Gladbach,21,0.1136239990592002,GOAL,Goal
+Jonas Hofmann,Bundesliga,2019,2020-02-29,Augsburg,Borussia M.Gladbach,87,0.3821899890899658,NO_GOAL,SavedShot
+Jonas Hofmann,Bundesliga,2019,2020-06-16,Borussia M.Gladbach,Wolfsburg,9,0.3578900098800659,GOAL,Goal
+Jonas Hofmann,Bundesliga,2019,2020-06-27,Borussia M.Gladbach,Hertha Berlin,45,0.3924739956855774,NO_GOAL,SavedShot
+Jonas Hofmann,Bundesliga,2020,2021-01-08,Borussia M.Gladbach,Bayern Munich,34,0.296097993850708,GOAL,Goal
+Jonas Hofmann,Bundesliga,2020,2021-01-08,Borussia M.Gladbach,Bayern Munich,44,0.3496649861335754,GOAL,Goal
+Jonas Hofmann,Bundesliga,2021,2021-11-20,Borussia M.Gladbach,Greuther Fuerth,56,0.4714109897613525,GOAL,Goal
+Jonas Hofmann,Bundesliga,2021,2021-11-27,FC Cologne,Borussia M.Gladbach,65,0.1291400045156479,NO_GOAL,MissedShots
+Jonas Hofmann,Bundesliga,2021,2022-04-16,Borussia M.Gladbach,FC Cologne,59,0.0880990028381347,NO_GOAL,MissedShots
+Jonas Hofmann,Bundesliga,2021,2022-05-02,Borussia M.Gladbach,RasenBallsport Leipzig,46,0.5118709802627563,GOAL,Goal
+Jonas Hofmann,Bundesliga,2022,2022-11-11,Borussia M.Gladbach,Borussia Dortmund,3,0.3502619862556457,GOAL,Goal
+Jonas Hofmann,Bundesliga,2023,2023-09-24,Bayer Leverkusen,FC Heidenheim,29,0.3463408052921295,NO_GOAL,MissedShots
+Jonas Hofmann,Bundesliga,2023,2023-09-24,Bayer Leverkusen,FC Heidenheim,62,0.3358066380023956,GOAL,Goal

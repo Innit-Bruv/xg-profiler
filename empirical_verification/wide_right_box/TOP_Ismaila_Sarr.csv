@@ -1,0 +1,18 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Ismaila Sarr,Ligue_1,2016,2016-09-21,Metz,Bordeaux,28,0.0290616005659103,NO_GOAL,MissedShots
+Ismaila Sarr,Ligue_1,2016,2016-10-01,Metz,Monaco,32,0.0256105996668338,NO_GOAL,MissedShots
+Ismaila Sarr,Ligue_1,2016,2017-02-11,Monaco,Metz,82,0.0291838999837636,NO_GOAL,BlockedShot
+Ismaila Sarr,Ligue_1,2016,2017-04-22,Lorient,Metz,37,0.0593244992196559,NO_GOAL,BlockedShot
+Ismaila Sarr,Ligue_1,2016,2017-05-14,Metz,Toulouse,19,0.0584485009312629,NO_GOAL,SavedShot
+Ismaila Sarr,Ligue_1,2017,2017-08-19,Rennes,Dijon,37,0.0362994000315666,NO_GOAL,BlockedShot
+Ismaila Sarr,Ligue_1,2017,2018-01-17,Lille,Rennes,62,0.027905199676752,NO_GOAL,ShotOnPost
+Ismaila Sarr,Ligue_1,2017,2018-01-17,Lille,Rennes,80,0.0231538992375135,NO_GOAL,SavedShot
+Ismaila Sarr,Ligue_1,2017,2018-01-26,Dijon,Rennes,50,0.0733740031719207,NO_GOAL,BlockedShot
+Ismaila Sarr,Ligue_1,2018,2018-08-18,Rennes,Angers,80,0.0308158993721008,GOAL,Goal
+Ismaila Sarr,Ligue_1,2018,2018-08-26,Marseille,Rennes,27,0.032473798841238,NO_GOAL,MissedShots
+Ismaila Sarr,Ligue_1,2018,2018-09-14,Nice,Rennes,80,0.0378463007509708,NO_GOAL,BlockedShot
+Ismaila Sarr,Ligue_1,2018,2018-10-07,Monaco,Rennes,39,0.0643815994262695,NO_GOAL,MissedShots
+Ismaila Sarr,Ligue_1,2018,2018-12-02,Rennes,Strasbourg,58,0.0219733007252216,NO_GOAL,MissedShots
+Ismaila Sarr,Ligue_1,2018,2019-02-02,Rennes,Amiens,13,0.0553897991776466,NO_GOAL,MissedShots
+Ismaila Sarr,Ligue_1,2018,2019-05-12,Rennes,Guingamp,14,0.2620770037174225,GOAL,Goal
+Ismaila Sarr,EPL,2024,2024-12-21,Crystal Palace,Arsenal,10,0.0454815328121185,GOAL,Goal

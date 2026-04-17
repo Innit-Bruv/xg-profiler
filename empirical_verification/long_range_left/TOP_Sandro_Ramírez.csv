@@ -1,0 +1,25 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Sandro Ramírez,La_liga,2015,2015-10-03,Sevilla,Barcelona,72,0.0202955994755029,NO_GOAL,BlockedShot
+Sandro Ramírez,La_liga,2016,2016-09-20,Malaga,Eibar,21,0.0182103998959064,NO_GOAL,MissedShots
+Sandro Ramírez,La_liga,2016,2016-12-09,Malaga,Granada,25,0.0206534005701541,NO_GOAL,MissedShots
+Sandro Ramírez,La_liga,2016,2017-01-08,Celta Vigo,Malaga,78,0.011770199984312,NO_GOAL,MissedShots
+Sandro Ramírez,La_liga,2016,2017-04-05,Sporting Gijon,Malaga,71,0.0310248993337154,NO_GOAL,SavedShot
+Sandro Ramírez,La_liga,2016,2017-05-07,Malaga,Celta Vigo,21,0.0189063996076583,NO_GOAL,MissedShots
+Sandro Ramírez,La_liga,2016,2017-05-14,Real Sociedad,Malaga,91,0.0293975006788969,NO_GOAL,SavedShot
+Sandro Ramírez,La_liga,2017,2018-05-04,Sevilla,Real Sociedad,61,0.0414381995797157,NO_GOAL,SavedShot
+Sandro Ramírez,La_liga,2018,2019-01-27,Real Sociedad,SD Huesca,57,0.0206409990787506,NO_GOAL,SavedShot
+Sandro Ramírez,La_liga,2019,2019-11-24,Real Valladolid,Sevilla,69,0.0148045998066663,NO_GOAL,MissedShots
+Sandro Ramírez,La_liga,2019,2019-11-29,Celta Vigo,Real Valladolid,36,0.014296599663794,NO_GOAL,MissedShots
+Sandro Ramírez,La_liga,2020,2021-05-12,SD Huesca,Athletic Club,60,0.0181106999516487,GOAL,Goal
+Sandro Ramírez,La_liga,2021,2021-09-13,Getafe,Elche,93,0.0158018991351127,NO_GOAL,BlockedShot
+Sandro Ramírez,La_liga,2021,2021-10-03,Getafe,Real Sociedad,61,0.0489956997334957,NO_GOAL,MissedShots
+Sandro Ramírez,La_liga,2023,2023-11-26,Real Betis,Las Palmas,72,0.0110502364113926,NO_GOAL,SavedShot
+Sandro Ramírez,La_liga,2023,2023-12-01,Las Palmas,Getafe,69,0.0378879234194755,NO_GOAL,MissedShots
+Sandro Ramírez,La_liga,2023,2024-01-04,Las Palmas,Barcelona,15,0.034584105014801,NO_GOAL,MissedShots
+Sandro Ramírez,La_liga,2023,2024-02-03,Granada,Las Palmas,23,0.0652980655431747,NO_GOAL,MissedShots
+Sandro Ramírez,La_liga,2023,2024-05-04,Real Sociedad,Las Palmas,77,0.0179821420460939,NO_GOAL,BlockedShot
+Sandro Ramírez,La_liga,2024,2024-08-29,Las Palmas,Real Madrid,30,0.0208692420274019,NO_GOAL,BlockedShot
+Sandro Ramírez,La_liga,2024,2024-09-15,Las Palmas,Athletic Club,57,0.0535931773483753,GOAL,Goal
+Sandro Ramírez,La_liga,2024,2024-11-30,Barcelona,Las Palmas,48,0.0324860215187072,GOAL,Goal
+Sandro Ramírez,La_liga,2024,2025-02-28,Real Valladolid,Las Palmas,21,0.0198104288429021,GOAL,Goal
+Sandro Ramírez,La_liga,2024,2025-03-14,Las Palmas,Alaves,50,0.0198736134916543,NO_GOAL,MissedShots

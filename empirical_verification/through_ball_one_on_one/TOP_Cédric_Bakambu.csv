@@ -1,0 +1,21 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Cédric Bakambu,La_liga,2015,2015-08-28,Villarreal,Espanyol,86,0.3411400020122528,GOAL,Goal
+Cédric Bakambu,La_liga,2015,2016-02-21,Atletico Madrid,Villarreal,62,0.4730899930000305,NO_GOAL,MissedShots
+Cédric Bakambu,La_liga,2016,2016-10-16,Villarreal,Celta Vigo,37,0.1327050030231475,GOAL,Goal
+Cédric Bakambu,La_liga,2016,2016-10-23,Villarreal,Las Palmas,91,0.4031549990177154,GOAL,Goal
+Cédric Bakambu,La_liga,2016,2017-03-01,Osasuna,Villarreal,1,0.103252999484539,NO_GOAL,SavedShot
+Cédric Bakambu,La_liga,2016,2017-03-01,Osasuna,Villarreal,50,0.1300189942121505,NO_GOAL,SavedShot
+Cédric Bakambu,La_liga,2016,2017-03-04,Villarreal,Espanyol,1,0.424481987953186,NO_GOAL,SavedShot
+Cédric Bakambu,La_liga,2016,2017-04-04,Real Betis,Villarreal,85,0.3395859897136688,NO_GOAL,ShotOnPost
+Cédric Bakambu,La_liga,2016,2017-04-07,Villarreal,Athletic Club,46,0.1120830029249191,GOAL,Goal
+Cédric Bakambu,La_liga,2016,2017-04-28,Villarreal,Sporting Gijon,46,0.3861680030822754,GOAL,Goal
+Cédric Bakambu,La_liga,2016,2017-05-06,Barcelona,Villarreal,31,0.3537580072879791,GOAL,Goal
+Cédric Bakambu,La_liga,2017,2017-09-17,Alaves,Villarreal,61,0.4113140106201172,GOAL,Goal
+Cédric Bakambu,La_liga,2017,2017-10-15,Girona,Villarreal,19,0.3309400081634521,GOAL,Goal
+Cédric Bakambu,La_liga,2017,2017-10-28,Atletico Madrid,Villarreal,39,0.1063589975237846,NO_GOAL,BlockedShot
+Cédric Bakambu,Ligue_1,2021,2022-01-22,Lens,Marseille,76,0.1277679949998855,GOAL,Goal
+Cédric Bakambu,Ligue_1,2021,2022-03-06,Marseille,Monaco,32,0.1183879971504211,NO_GOAL,BlockedShot
+Cédric Bakambu,Ligue_1,2021,2022-03-06,Marseille,Monaco,37,0.116116002202034,NO_GOAL,BlockedShot
+Cédric Bakambu,La_liga,2024,2024-09-29,Real Betis,Espanyol,2,0.1105299964547157,NO_GOAL,SavedShot
+Cédric Bakambu,La_liga,2024,2024-09-29,Real Betis,Espanyol,29,0.1064324826002121,NO_GOAL,BlockedShot
+Cédric Bakambu,La_liga,2024,2025-05-23,Real Betis,Valencia,90,0.1146250665187835,NO_GOAL,MissedShots

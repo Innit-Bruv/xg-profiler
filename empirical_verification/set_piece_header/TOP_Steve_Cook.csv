@@ -1,0 +1,20 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Steve Cook,EPL,2015,2016-03-12,Bournemouth,Swansea,77,0.0451715998351573,GOAL,Goal
+Steve Cook,EPL,2015,2016-04-17,Bournemouth,Liverpool,5,0.0216729007661342,NO_GOAL,MissedShots
+Steve Cook,EPL,2016,2016-12-18,Bournemouth,Southampton,86,0.0597026012837886,NO_GOAL,BlockedShot
+Steve Cook,EPL,2016,2017-01-03,Bournemouth,Arsenal,34,0.0127963004633784,NO_GOAL,MissedShots
+Steve Cook,EPL,2016,2017-03-11,Bournemouth,West Ham,29,0.0223974008113145,NO_GOAL,MissedShots
+Steve Cook,EPL,2016,2017-04-05,Liverpool,Bournemouth,21,0.015743400901556,NO_GOAL,MissedShots
+Steve Cook,EPL,2016,2017-04-15,Tottenham,Bournemouth,23,0.0362479984760284,NO_GOAL,MissedShots
+Steve Cook,EPL,2017,2017-08-19,Bournemouth,Watford,46,0.0296477992087602,NO_GOAL,SavedShot
+Steve Cook,EPL,2017,2017-11-04,Newcastle United,Bournemouth,91,0.0564459003508091,GOAL,Goal
+Steve Cook,EPL,2017,2017-12-23,Manchester City,Bournemouth,88,0.0632018968462944,NO_GOAL,SavedShot
+Steve Cook,EPL,2017,2018-01-01,Brighton,Bournemouth,32,0.0446133986115455,GOAL,Goal
+Steve Cook,EPL,2018,2018-12-26,Tottenham,Bournemouth,74,0.0240352004766464,NO_GOAL,MissedShots
+Steve Cook,EPL,2018,2019-01-02,Bournemouth,Watford,88,0.0431259013712406,NO_GOAL,BlockedShot
+Steve Cook,EPL,2018,2019-02-02,Cardiff,Bournemouth,28,0.0138103999197483,NO_GOAL,MissedShots
+Steve Cook,EPL,2018,2019-02-02,Cardiff,Bournemouth,54,0.0188235007226467,NO_GOAL,BlockedShot
+Steve Cook,EPL,2019,2019-10-06,Arsenal,Bournemouth,90,0.0623527988791465,NO_GOAL,MissedShots
+Steve Cook,EPL,2019,2019-10-26,Watford,Bournemouth,17,0.0184975005686283,NO_GOAL,BlockedShot
+Steve Cook,EPL,2019,2019-11-23,Bournemouth,Wolverhampton Wanderers,58,0.0467071011662483,GOAL,Goal
+Steve Cook,EPL,2019,2020-06-20,Bournemouth,Crystal Palace,16,0.0131390998139977,NO_GOAL,BlockedShot

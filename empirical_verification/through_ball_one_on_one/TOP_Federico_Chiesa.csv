@@ -1,0 +1,18 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Federico Chiesa,Serie_A,2016,2017-02-07,Roma,Fiorentina,13,0.2762239873409271,NO_GOAL,BlockedShot
+Federico Chiesa,Serie_A,2016,2017-05-07,Sassuolo,Fiorentina,36,0.6531140208244324,GOAL,Goal
+Federico Chiesa,Serie_A,2017,2017-11-19,SPAL 2013,Fiorentina,79,0.487962007522583,GOAL,Goal
+Federico Chiesa,Serie_A,2017,2017-12-03,Fiorentina,Sassuolo,28,0.2811259925365448,NO_GOAL,SavedShot
+Federico Chiesa,Serie_A,2017,2017-12-03,Fiorentina,Sassuolo,70,0.4094370007514953,GOAL,Goal
+Federico Chiesa,Serie_A,2017,2018-03-31,Fiorentina,Crotone,61,0.354200005531311,GOAL,Goal
+Federico Chiesa,Serie_A,2018,2018-08-26,Fiorentina,Chievo,40,0.136580005288124,NO_GOAL,BlockedShot
+Federico Chiesa,Serie_A,2018,2018-08-26,Fiorentina,Chievo,70,0.4573319852352142,GOAL,Goal
+Federico Chiesa,Serie_A,2018,2019-01-27,Chievo,Fiorentina,78,0.3057320117950439,GOAL,Goal
+Federico Chiesa,Serie_A,2019,2019-09-25,Fiorentina,Sampdoria,56,0.3512730002403259,GOAL,Goal
+Federico Chiesa,Serie_A,2019,2020-07-15,Lecce,Fiorentina,5,0.3759090006351471,GOAL,Goal
+Federico Chiesa,Serie_A,2020,2020-09-26,Inter,Fiorentina,62,0.4825550019741058,GOAL,Goal
+Federico Chiesa,Serie_A,2020,2020-11-01,Spezia,Juventus,17,0.3751989901065826,NO_GOAL,MissedShots
+Federico Chiesa,Serie_A,2020,2020-11-01,Spezia,Juventus,28,0.1380639970302581,NO_GOAL,BlockedShot
+Federico Chiesa,Serie_A,2020,2021-01-03,Juventus,Udinese,48,0.5275949835777283,GOAL,Goal
+Federico Chiesa,Serie_A,2020,2021-01-06,AC Milan,Juventus,17,0.3483209908008575,GOAL,Goal
+Federico Chiesa,Serie_A,2023,2023-09-26,Juventus,Lecce,26,0.3519858121871948,NO_GOAL,MissedShots

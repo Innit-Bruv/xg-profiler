@@ -1,0 +1,24 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Lucas Boyé,La_liga,2020,2020-12-22,Elche,Osasuna,47,0.0168031994253397,NO_GOAL,MissedShots
+Lucas Boyé,La_liga,2020,2021-02-20,Elche,Eibar,80,0.0653043016791343,NO_GOAL,SavedShot
+Lucas Boyé,La_liga,2020,2021-04-24,Elche,Levante,23,0.0356184989213943,NO_GOAL,MissedShots
+Lucas Boyé,La_liga,2020,2021-05-11,Elche,Alaves,57,0.4440819919109344,NO_GOAL,SavedShot
+Lucas Boyé,La_liga,2020,2021-05-11,Elche,Alaves,79,0.0364269986748695,NO_GOAL,BlockedShot
+Lucas Boyé,La_liga,2021,2022-02-05,Elche,Alaves,38,0.2379020005464553,NO_GOAL,MissedShots
+Lucas Boyé,La_liga,2021,2022-02-25,Levante,Elche,22,0.0446349009871482,NO_GOAL,MissedShots
+Lucas Boyé,La_liga,2022,2023-01-28,Sevilla,Elche,10,0.0557438991963863,NO_GOAL,SavedShot
+Lucas Boyé,La_liga,2022,2023-02-24,Elche,Real Betis,43,0.049466498196125,NO_GOAL,MissedShots
+Lucas Boyé,La_liga,2022,2023-03-04,Mallorca,Elche,61,0.0292486008256673,NO_GOAL,SavedShot
+Lucas Boyé,La_liga,2022,2023-03-11,Elche,Real Valladolid,66,0.5681939721107483,NO_GOAL,MissedShots
+Lucas Boyé,La_liga,2022,2023-04-23,Elche,Valencia,23,0.0164522994309663,NO_GOAL,BlockedShot
+Lucas Boyé,La_liga,2022,2023-04-29,Elche,Rayo Vallecano,46,0.0192690435796976,NO_GOAL,MissedShots
+Lucas Boyé,La_liga,2022,2023-05-14,Elche,Atletico Madrid,34,0.6585801839828491,NO_GOAL,MissedShots
+Lucas Boyé,La_liga,2022,2023-05-20,Getafe,Elche,64,0.02273466065526,NO_GOAL,MissedShots
+Lucas Boyé,La_liga,2022,2023-05-24,Elche,Sevilla,44,0.0498325154185295,NO_GOAL,MissedShots
+Lucas Boyé,La_liga,2023,2023-09-02,Real Sociedad,Granada,63,0.0528836846351623,NO_GOAL,SavedShot
+Lucas Boyé,La_liga,2023,2023-09-28,Granada,Real Betis,65,0.029061384499073,NO_GOAL,MissedShots
+Lucas Boyé,La_liga,2023,2023-10-20,Osasuna,Granada,65,0.0514795333147048,NO_GOAL,MissedShots
+Lucas Boyé,La_liga,2023,2023-12-12,Granada,Athletic Club,45,0.0453062355518341,NO_GOAL,MissedShots
+Lucas Boyé,La_liga,2023,2024-03-03,Villarreal,Granada,53,0.0471046268939971,NO_GOAL,SavedShot
+Lucas Boyé,La_liga,2023,2024-03-09,Granada,Real Sociedad,3,0.021115181967616,NO_GOAL,MissedShots
+Lucas Boyé,La_liga,2023,2024-05-15,Rayo Vallecano,Granada,8,0.0381525605916976,NO_GOAL,MissedShots

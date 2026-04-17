@@ -1,0 +1,22 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Martin Braithwaite,Ligue_1,2014,2014-12-20,Toulouse,Guingamp,49,0.0102359997108578,NO_GOAL,SavedShot
+Martin Braithwaite,Ligue_1,2014,2015-01-25,Evian Thonon Gaillard,Toulouse,38,0.7346280217170715,NO_GOAL,MissedShots
+Martin Braithwaite,Ligue_1,2014,2015-04-25,Toulouse,Nantes,10,0.3509100079536438,NO_GOAL,SavedShot
+Martin Braithwaite,Ligue_1,2015,2015-09-12,Toulouse,Reims,34,0.053752701729536,NO_GOAL,MissedShots
+Martin Braithwaite,Ligue_1,2015,2015-09-23,Toulouse,Marseille,79,0.3593730032444,NO_GOAL,MissedShots
+Martin Braithwaite,Ligue_1,2015,2015-10-17,Toulouse,Angers,87,0.075350597500801,NO_GOAL,BlockedShot
+Martin Braithwaite,Ligue_1,2015,2015-10-31,Toulouse,Montpellier,3,0.0956553965806961,NO_GOAL,SavedShot
+Martin Braithwaite,Ligue_1,2015,2016-04-30,Saint-Etienne,Toulouse,3,0.0735678002238273,NO_GOAL,SavedShot
+Martin Braithwaite,Ligue_1,2016,2016-08-20,Toulouse,Bordeaux,81,0.3753750026226043,GOAL,Goal
+Martin Braithwaite,Ligue_1,2016,2016-09-17,Toulouse,Guingamp,73,0.107863999903202,NO_GOAL,MissedShots
+Martin Braithwaite,Ligue_1,2016,2016-11-19,Toulouse,Metz,18,0.0297263003885746,NO_GOAL,BlockedShot
+Martin Braithwaite,Ligue_1,2016,2016-11-19,Toulouse,Metz,43,0.0242777001112699,NO_GOAL,SavedShot
+Martin Braithwaite,Ligue_1,2016,2017-01-14,Toulouse,Nantes,76,0.0574337989091873,NO_GOAL,BlockedShot
+Martin Braithwaite,Ligue_1,2016,2017-02-05,Toulouse,Angers,43,0.069983996450901,NO_GOAL,MissedShots
+Martin Braithwaite,Ligue_1,2016,2017-05-14,Metz,Toulouse,85,0.065559297800064,NO_GOAL,ShotOnPost
+Martin Braithwaite,La_liga,2018,2019-03-09,Atletico Madrid,Leganes,33,0.0636048018932342,NO_GOAL,SavedShot
+Martin Braithwaite,La_liga,2018,2019-05-18,SD Huesca,Leganes,49,0.4119360148906708,NO_GOAL,MissedShots
+Martin Braithwaite,La_liga,2019,2019-12-22,Leganes,Espanyol,50,0.0281748007982969,NO_GOAL,SavedShot
+Martin Braithwaite,La_liga,2019,2020-01-03,Real Valladolid,Leganes,37,0.2826089859008789,NO_GOAL,SavedShot
+Martin Braithwaite,La_liga,2022,2022-09-04,Athletic Club,Espanyol,74,0.0155360996723175,NO_GOAL,MissedShots
+Martin Braithwaite,La_liga,2022,2023-05-28,Valencia,Espanyol,94,0.9238948822021484,NO_GOAL,MissedShots

@@ -1,0 +1,24 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Alexander Sørloth,Bundesliga,2020,2020-10-31,Borussia M.Gladbach,RasenBallsport Leipzig,81,0.0222704000771045,NO_GOAL,BlockedShot
+Alexander Sørloth,Bundesliga,2020,2021-02-06,Schalke 04,RasenBallsport Leipzig,30,0.0558476001024246,NO_GOAL,SavedShot
+Alexander Sørloth,Bundesliga,2020,2021-03-14,RasenBallsport Leipzig,Eintracht Frankfurt,77,0.0557762011885643,NO_GOAL,MissedShots
+Alexander Sørloth,Bundesliga,2020,2021-04-10,Werder Bremen,RasenBallsport Leipzig,43,0.0314726009964942,NO_GOAL,MissedShots
+Alexander Sørloth,La_liga,2021,2021-09-23,Granada,Real Sociedad,26,0.0582398995757103,NO_GOAL,BlockedShot
+Alexander Sørloth,La_liga,2021,2022-03-02,Mallorca,Real Sociedad,37,0.0510278008878231,NO_GOAL,MissedShots
+Alexander Sørloth,La_liga,2021,2022-03-20,Sevilla,Real Sociedad,31,0.0470133982598781,NO_GOAL,BlockedShot
+Alexander Sørloth,La_liga,2021,2022-05-01,Rayo Vallecano,Real Sociedad,47,0.0369290001690387,NO_GOAL,BlockedShot
+Alexander Sørloth,La_liga,2022,2022-09-11,Getafe,Real Sociedad,46,0.0355199985206127,NO_GOAL,MissedShots
+Alexander Sørloth,La_liga,2022,2022-09-18,Real Sociedad,Espanyol,57,0.0661093965172767,NO_GOAL,SavedShot
+Alexander Sørloth,La_liga,2022,2022-10-19,Real Sociedad,Mallorca,27,0.0525343008339405,NO_GOAL,SavedShot
+Alexander Sørloth,La_liga,2022,2022-11-06,Real Sociedad,Valencia,46,0.0557537004351615,NO_GOAL,BlockedShot
+Alexander Sørloth,La_liga,2023,2024-01-20,Villarreal,Mallorca,11,0.0234543066471815,NO_GOAL,SavedShot
+Alexander Sørloth,La_liga,2023,2024-02-04,Villarreal,Cadiz,10,0.027338495478034,NO_GOAL,SavedShot
+Alexander Sørloth,La_liga,2023,2024-03-17,Villarreal,Valencia,93,0.047419037669897,NO_GOAL,MissedShots
+Alexander Sørloth,La_liga,2023,2024-04-28,Villarreal,Rayo Vallecano,39,0.0395226031541824,NO_GOAL,BlockedShot
+Alexander Sørloth,La_liga,2023,2024-05-11,Villarreal,Sevilla,66,0.044790506362915,NO_GOAL,MissedShots
+Alexander Sørloth,La_liga,2023,2024-05-19,Villarreal,Real Madrid,5,0.0173492692410945,NO_GOAL,ShotOnPost
+Alexander Sørloth,La_liga,2024,2024-08-25,Atletico Madrid,Girona,86,0.020889950916171,NO_GOAL,BlockedShot
+Alexander Sørloth,La_liga,2024,2024-08-31,Athletic Club,Atletico Madrid,96,0.4698750674724579,NO_GOAL,SavedShot
+Alexander Sørloth,La_liga,2024,2024-09-26,Celta Vigo,Atletico Madrid,54,0.0525310523808002,NO_GOAL,BlockedShot
+Alexander Sørloth,La_liga,2024,2024-10-20,Atletico Madrid,Leganes,49,0.0467870868742466,NO_GOAL,BlockedShot
+Alexander Sørloth,La_liga,2024,2025-03-16,Atletico Madrid,Barcelona,90,0.0291440449655056,NO_GOAL,MissedShots

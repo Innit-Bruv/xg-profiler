@@ -1,0 +1,16 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Alessio Romagnoli,Serie_A,2014,2015-02-15,Chievo,Sampdoria,41,0.0066716498695313,NO_GOAL,MissedShots
+Alessio Romagnoli,Serie_A,2015,2016-04-21,AC Milan,Carpi,33,0.0108391996473073,NO_GOAL,MissedShots
+Alessio Romagnoli,Serie_A,2016,2016-10-25,Genoa,AC Milan,21,0.0140843000262975,NO_GOAL,MissedShots
+Alessio Romagnoli,Serie_A,2016,2017-04-02,Pescara,AC Milan,37,0.0208352003246545,NO_GOAL,MissedShots
+Alessio Romagnoli,Serie_A,2017,2017-09-20,AC Milan,SPAL 2013,33,0.0158239006996154,NO_GOAL,MissedShots
+Alessio Romagnoli,Serie_A,2017,2017-10-01,AC Milan,Roma,46,0.0189814995974302,NO_GOAL,BlockedShot
+Alessio Romagnoli,Serie_A,2017,2017-11-18,Napoli,AC Milan,90,0.0125473998486995,GOAL,Goal
+Alessio Romagnoli,Serie_A,2018,2018-10-31,AC Milan,Genoa,55,0.0,NO_GOAL,OwnGoal
+Alessio Romagnoli,Serie_A,2018,2018-10-31,AC Milan,Genoa,90,0.247978001832962,GOAL,Goal
+Alessio Romagnoli,Serie_A,2019,2019-09-29,AC Milan,Fiorentina,34,0.0182636994868516,NO_GOAL,MissedShots
+Alessio Romagnoli,Serie_A,2021,2021-09-12,AC Milan,Lazio,30,0.0279066991060972,NO_GOAL,BlockedShot
+Alessio Romagnoli,Serie_A,2021,2021-12-22,Empoli,AC Milan,94,0.0102263996377587,NO_GOAL,ShotOnPost
+Alessio Romagnoli,Serie_A,2022,2022-10-02,Lazio,Spezia,23,0.0447653010487556,GOAL,Goal
+Alessio Romagnoli,Serie_A,2022,2022-10-23,Atalanta,Lazio,50,0.0117209004238247,NO_GOAL,MissedShots
+Alessio Romagnoli,Serie_A,2023,2024-03-30,Lazio,Juventus,54,0.0269010607153177,NO_GOAL,MissedShots

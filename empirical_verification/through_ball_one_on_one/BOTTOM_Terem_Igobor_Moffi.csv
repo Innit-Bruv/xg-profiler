@@ -1,0 +1,17 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Terem Igobor Moffi,Ligue_1,2020,2021-03-14,Lorient,Nice,23,0.1091519966721534,NO_GOAL,SavedShot
+Terem Igobor Moffi,Ligue_1,2020,2021-04-11,Lens,Lorient,33,0.4923200011253357,NO_GOAL,MissedShots
+Terem Igobor Moffi,Ligue_1,2021,2021-10-31,Strasbourg,Lorient,16,0.4318769872188568,NO_GOAL,MissedShots
+Terem Igobor Moffi,Ligue_1,2021,2021-11-07,Lorient,Brest,7,0.1364219933748245,NO_GOAL,BlockedShot
+Terem Igobor Moffi,Ligue_1,2021,2021-12-22,Lorient,Paris Saint Germain,15,0.6068900227546692,NO_GOAL,SavedShot
+Terem Igobor Moffi,Ligue_1,2021,2022-04-08,Lorient,Saint-Etienne,25,0.3086720108985901,NO_GOAL,SavedShot
+Terem Igobor Moffi,Ligue_1,2022,2022-08-28,Lorient,Clermont Foot,55,0.4317980110645294,NO_GOAL,SavedShot
+Terem Igobor Moffi,Ligue_1,2022,2022-08-31,Lens,Lorient,82,0.2853440046310425,NO_GOAL,MissedShots
+Terem Igobor Moffi,Ligue_1,2022,2022-11-06,Lorient,Paris Saint Germain,52,0.3273899853229522,GOAL,Goal
+Terem Igobor Moffi,Ligue_1,2022,2023-01-11,Lorient,Monaco,16,0.3757590055465698,NO_GOAL,SavedShot
+Terem Igobor Moffi,Ligue_1,2022,2023-02-18,Nice,Reims,3,0.3278279900550842,NO_GOAL,MissedShots
+Terem Igobor Moffi,Ligue_1,2022,2023-04-30,Troyes,Nice,24,0.1304274797439575,NO_GOAL,SavedShot
+Terem Igobor Moffi,Ligue_1,2022,2023-05-21,Nice,Toulouse,85,0.4548503756523132,NO_GOAL,SavedShot
+Terem Igobor Moffi,Ligue_1,2023,2023-09-03,Nice,Strasbourg,66,0.3822070360183716,NO_GOAL,ShotOnPost
+Terem Igobor Moffi,Ligue_1,2023,2023-09-03,Nice,Strasbourg,74,0.3073079884052276,GOAL,Goal
+Terem Igobor Moffi,Ligue_1,2023,2024-04-07,Reims,Nice,6,0.3737755119800567,NO_GOAL,MissedShots

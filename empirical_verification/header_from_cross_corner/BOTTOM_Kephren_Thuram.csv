@@ -1,0 +1,21 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Kephren Thuram,Ligue_1,2020,2021-03-20,Nice,Marseille,84,0.0262803006917238,NO_GOAL,MissedShots
+Kephren Thuram,Ligue_1,2020,2021-05-16,Nice,Strasbourg,46,0.057261899113655,NO_GOAL,MissedShots
+Kephren Thuram,Ligue_1,2021,2022-01-09,Brest,Nice,86,0.5121880173683167,NO_GOAL,MissedShots
+Kephren Thuram,Ligue_1,2021,2022-04-24,Nice,Troyes,88,0.0389449000358581,NO_GOAL,BlockedShot
+Kephren Thuram,Ligue_1,2021,2022-05-01,Bordeaux,Nice,58,0.3768990039825439,NO_GOAL,SavedShot
+Kephren Thuram,Ligue_1,2022,2022-11-11,Lyon,Nice,42,0.0697332993149757,NO_GOAL,MissedShots
+Kephren Thuram,Ligue_1,2022,2023-01-02,Rennes,Nice,68,0.238546997308731,NO_GOAL,MissedShots
+Kephren Thuram,Ligue_1,2022,2023-02-10,Nice,Ajaccio,16,0.1121120005846023,NO_GOAL,MissedShots
+Kephren Thuram,Ligue_1,2022,2023-02-18,Nice,Reims,58,0.4461440145969391,NO_GOAL,SavedShot
+Kephren Thuram,Ligue_1,2022,2023-04-30,Troyes,Nice,39,0.058715034276247,NO_GOAL,BlockedShot
+Kephren Thuram,Ligue_1,2023,2023-10-01,Nice,Brest,82,0.0717994272708892,NO_GOAL,MissedShots
+Kephren Thuram,Ligue_1,2023,2023-12-02,Nantes,Nice,62,0.2641884684562683,NO_GOAL,SavedShot
+Kephren Thuram,Ligue_1,2023,2024-01-27,Nice,Metz,39,0.078183002769947,NO_GOAL,SavedShot
+Kephren Thuram,Ligue_1,2023,2024-03-08,Nice,Montpellier,27,0.2894098162651062,NO_GOAL,MissedShots
+Kephren Thuram,Ligue_1,2023,2024-04-07,Reims,Nice,86,0.0901838541030883,NO_GOAL,SavedShot
+Kephren Thuram,Ligue_1,2023,2024-05-15,Nice,Paris Saint Germain,39,0.0474503859877586,NO_GOAL,MissedShots
+Kephren Thuram,Serie_A,2024,2024-09-28,Genoa,Juventus,74,0.3292959034442901,NO_GOAL,MissedShots
+Kephren Thuram,Serie_A,2024,2024-11-02,Udinese,Juventus,4,0.0852861404418945,NO_GOAL,MissedShots
+Kephren Thuram,Serie_A,2024,2024-12-01,Lecce,Juventus,5,0.619044303894043,NO_GOAL,ShotOnPost
+Kephren Thuram,Serie_A,2024,2024-12-14,Juventus,Venezia,48,0.0900702029466629,NO_GOAL,MissedShots

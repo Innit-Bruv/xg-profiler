@@ -1,0 +1,20 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Thomas Mangani,Ligue_1,2015,2015-11-22,Caen,Angers,73,0.0153935998678207,NO_GOAL,ShotOnPost
+Thomas Mangani,Ligue_1,2015,2016-03-19,Angers,Lorient,73,0.0624802000820636,NO_GOAL,MissedShots
+Thomas Mangani,Ligue_1,2016,2016-10-02,Angers,Marseille,78,0.0313464999198913,NO_GOAL,SavedShot
+Thomas Mangani,Ligue_1,2016,2016-11-19,Rennes,Angers,37,0.0567644983530044,NO_GOAL,BlockedShot
+Thomas Mangani,Ligue_1,2017,2017-09-22,Nice,Angers,46,0.0778506025671958,NO_GOAL,BlockedShot
+Thomas Mangani,Ligue_1,2017,2017-11-18,Guingamp,Angers,62,0.0761791989207267,NO_GOAL,SavedShot
+Thomas Mangani,Ligue_1,2017,2017-12-20,Angers,Dijon,12,0.0530602000653743,NO_GOAL,SavedShot
+Thomas Mangani,Ligue_1,2017,2018-02-17,Angers,Saint-Etienne,66,0.049099400639534,NO_GOAL,MissedShots
+Thomas Mangani,Ligue_1,2018,2018-08-11,Angers,Nimes,54,0.0704144015908241,NO_GOAL,SavedShot
+Thomas Mangani,Ligue_1,2018,2019-03-02,Angers,Monaco,7,0.0166711006313562,NO_GOAL,MissedShots
+Thomas Mangani,Ligue_1,2019,2019-09-22,Angers,Saint-Etienne,32,0.0543433986604213,NO_GOAL,MissedShots
+Thomas Mangani,Ligue_1,2019,2019-10-05,Paris Saint Germain,Angers,82,0.0087128896266222,NO_GOAL,MissedShots
+Thomas Mangani,Ligue_1,2019,2019-10-19,Angers,Brest,54,0.0129450000822544,NO_GOAL,MissedShots
+Thomas Mangani,Ligue_1,2019,2019-11-02,Angers,Strasbourg,69,0.0543582998216152,NO_GOAL,MissedShots
+Thomas Mangani,Ligue_1,2019,2019-11-09,Reims,Angers,5,0.0246677994728088,NO_GOAL,BlockedShot
+Thomas Mangani,Ligue_1,2020,2020-12-20,Nantes,Angers,35,0.0472761988639831,NO_GOAL,BlockedShot
+Thomas Mangani,Ligue_1,2020,2021-04-17,Angers,Rennes,72,0.0148967998102307,NO_GOAL,SavedShot
+Thomas Mangani,Ligue_1,2020,2021-05-23,Angers,Lille,79,0.0426166988909244,NO_GOAL,MissedShots
+Thomas Mangani,Ligue_1,2022,2022-09-04,Ajaccio,Lorient,46,0.0550625994801521,NO_GOAL,BlockedShot

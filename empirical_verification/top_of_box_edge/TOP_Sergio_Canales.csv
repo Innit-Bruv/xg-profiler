@@ -1,0 +1,17 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Sergio Canales,La_liga,2014,2014-11-22,Deportivo La Coruna,Real Sociedad,8,0.0227956008166074,NO_GOAL,BlockedShot
+Sergio Canales,La_liga,2014,2015-02-13,Almeria,Real Sociedad,47,0.6275889873504639,GOAL,Goal
+Sergio Canales,La_liga,2016,2017-04-23,Real Sociedad,Deportivo La Coruna,85,0.0961809009313583,NO_GOAL,ShotOnPost
+Sergio Canales,La_liga,2017,2017-10-29,Getafe,Real Sociedad,49,0.0267401002347469,NO_GOAL,BlockedShot
+Sergio Canales,La_liga,2017,2018-01-14,Real Sociedad,Barcelona,45,0.0425500981509685,NO_GOAL,SavedShot
+Sergio Canales,La_liga,2017,2018-01-21,Real Sociedad,Celta Vigo,25,0.0287533998489379,NO_GOAL,SavedShot
+Sergio Canales,La_liga,2017,2018-01-27,Villarreal,Real Sociedad,76,0.0223896000534296,NO_GOAL,BlockedShot
+Sergio Canales,La_liga,2017,2018-01-27,Villarreal,Real Sociedad,84,0.0101575003936886,NO_GOAL,BlockedShot
+Sergio Canales,La_liga,2017,2018-02-02,Real Sociedad,Deportivo La Coruna,74,0.507070004940033,GOAL,Goal
+Sergio Canales,La_liga,2017,2018-02-18,Real Sociedad,Levante,54,0.1548230051994323,GOAL,Goal
+Sergio Canales,La_liga,2017,2018-03-01,Real Betis,Real Sociedad,53,0.0231845006346702,NO_GOAL,BlockedShot
+Sergio Canales,La_liga,2019,2019-09-15,Real Betis,Getafe,32,0.0151305003091692,NO_GOAL,SavedShot
+Sergio Canales,La_liga,2019,2019-09-20,Osasuna,Real Betis,77,0.015527700074017,NO_GOAL,MissedShots
+Sergio Canales,La_liga,2020,2020-10-03,Valencia,Real Betis,18,0.0895029976963996,GOAL,Goal
+Sergio Canales,La_liga,2021,2021-09-13,Granada,Real Betis,88,0.1083199977874755,GOAL,Goal
+Sergio Canales,La_liga,2021,2022-02-20,Real Betis,Mallorca,41,0.0272776000201702,NO_GOAL,SavedShot

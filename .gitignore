@@ -1,0 +1,23 @@
+# data - too large for git
+data/raw/
+data/processed/
+data/outputs/
+
+# virtual environment
+venv/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+.env
+
+# large model/label files
+v3_final_results/v3_cluster_labels.csv
+
+# internal claude/tooling
+.claude/
+.nutmeg.user.md
+DATA_STRATEGY.md

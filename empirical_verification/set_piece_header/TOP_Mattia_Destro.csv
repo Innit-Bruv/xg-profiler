@@ -1,0 +1,23 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Mattia Destro,Serie_A,2014,2015-02-15,AC Milan,Empoli,78,0.0492173992097377,NO_GOAL,MissedShots
+Mattia Destro,Serie_A,2014,2015-03-21,AC Milan,Cagliari,13,0.0375467985868454,NO_GOAL,BlockedShot
+Mattia Destro,Serie_A,2015,2015-11-01,Bologna,Atalanta,68,0.0125155001878738,NO_GOAL,MissedShots
+Mattia Destro,Serie_A,2016,2016-11-20,Bologna,Palermo,19,0.0319354012608528,GOAL,Goal
+Mattia Destro,Serie_A,2016,2017-02-08,Bologna,AC Milan,82,0.0529614984989166,NO_GOAL,MissedShots
+Mattia Destro,Serie_A,2016,2017-05-14,Bologna,Pescara,7,0.3951050043106079,GOAL,Goal
+Mattia Destro,Serie_A,2017,2017-09-30,Genoa,Bologna,68,0.0545987002551555,NO_GOAL,MissedShots
+Mattia Destro,Serie_A,2017,2017-12-22,Chievo,Bologna,3,0.1267170011997223,GOAL,Goal
+Mattia Destro,Serie_A,2017,2018-01-06,Torino,Bologna,61,0.0599971003830432,NO_GOAL,BlockedShot
+Mattia Destro,Serie_A,2018,2018-09-16,Genoa,Bologna,76,0.0277279000729322,NO_GOAL,BlockedShot
+Mattia Destro,Serie_A,2018,2019-02-10,Bologna,Genoa,16,0.4155310094356537,GOAL,Goal
+Mattia Destro,Serie_A,2019,2019-08-30,Bologna,SPAL 2013,12,0.0283286999911069,NO_GOAL,MissedShots
+Mattia Destro,Serie_A,2019,2020-06-23,Genoa,Parma Calcio 1913,69,0.0616206005215644,NO_GOAL,MissedShots
+Mattia Destro,Serie_A,2019,2020-07-25,Genoa,Inter,87,0.0430688001215457,NO_GOAL,SavedShot
+Mattia Destro,Serie_A,2020,2020-12-16,Genoa,AC Milan,59,0.048317901790142,GOAL,Goal
+Mattia Destro,Serie_A,2020,2021-03-19,Parma Calcio 1913,Genoa,40,0.0559789985418319,NO_GOAL,MissedShots
+Mattia Destro,Serie_A,2021,2021-10-31,Genoa,Venezia,50,0.0493821986019611,NO_GOAL,MissedShots
+Mattia Destro,Serie_A,2021,2021-12-10,Genoa,Sampdoria,77,0.5219630002975464,GOAL,Goal
+Mattia Destro,Serie_A,2021,2022-01-09,Genoa,Spezia,51,0.0284043997526168,NO_GOAL,BlockedShot
+Mattia Destro,Serie_A,2021,2022-01-09,Genoa,Spezia,70,0.0427392981946468,NO_GOAL,BlockedShot
+Mattia Destro,Serie_A,2023,2023-10-01,Bologna,Empoli,82,0.0479155145585536,NO_GOAL,BlockedShot
+Mattia Destro,Serie_A,2023,2024-03-03,Empoli,Cagliari,34,0.0385343208909034,NO_GOAL,MissedShots

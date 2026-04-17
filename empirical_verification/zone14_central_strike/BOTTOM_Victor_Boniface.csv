@@ -1,0 +1,19 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Victor Boniface,Bundesliga,2023,2023-08-26,Borussia M.Gladbach,Bayer Leverkusen,35,0.0284301489591598,NO_GOAL,BlockedShot
+Victor Boniface,Bundesliga,2023,2023-09-02,Bayer Leverkusen,Darmstadt,31,0.0314142070710659,NO_GOAL,BlockedShot
+Victor Boniface,Bundesliga,2023,2023-09-15,Bayern Munich,Bayer Leverkusen,50,0.0099163837730884,NO_GOAL,MissedShots
+Victor Boniface,Bundesliga,2023,2023-09-24,Bayer Leverkusen,FC Heidenheim,5,0.0208673309534788,NO_GOAL,MissedShots
+Victor Boniface,Bundesliga,2023,2023-09-24,Bayer Leverkusen,FC Heidenheim,76,0.0955929234623909,NO_GOAL,ShotOnPost
+Victor Boniface,Bundesliga,2023,2023-10-21,Wolfsburg,Bayer Leverkusen,30,0.0399462915956974,NO_GOAL,MissedShots
+Victor Boniface,Bundesliga,2023,2023-10-29,Bayer Leverkusen,Freiburg,58,0.0099144419655203,NO_GOAL,MissedShots
+Victor Boniface,Bundesliga,2023,2023-11-04,Hoffenheim,Bayer Leverkusen,9,0.0667488798499107,NO_GOAL,SavedShot
+Victor Boniface,Bundesliga,2023,2023-11-12,Bayer Leverkusen,Union Berlin,8,0.0250404272228479,NO_GOAL,MissedShots
+Victor Boniface,Bundesliga,2023,2023-11-12,Bayer Leverkusen,Union Berlin,10,0.0641796514391899,NO_GOAL,MissedShots
+Victor Boniface,Bundesliga,2023,2024-05-12,Bochum,Bayer Leverkusen,58,0.0635086968541145,NO_GOAL,ShotOnPost
+Victor Boniface,Bundesliga,2024,2024-08-23,Borussia M.Gladbach,Bayer Leverkusen,65,0.0644526630640029,NO_GOAL,BlockedShot
+Victor Boniface,Bundesliga,2024,2024-08-31,Bayer Leverkusen,RasenBallsport Leipzig,53,0.0238372031599283,NO_GOAL,BlockedShot
+Victor Boniface,Bundesliga,2024,2024-09-14,Hoffenheim,Bayer Leverkusen,46,0.5012077689170837,NO_GOAL,SavedShot
+Victor Boniface,Bundesliga,2024,2024-09-22,Bayer Leverkusen,Wolfsburg,76,0.0267213489860296,NO_GOAL,SavedShot
+Victor Boniface,Bundesliga,2024,2024-09-28,Bayern Munich,Bayer Leverkusen,69,0.0092505197972059,NO_GOAL,MissedShots
+Victor Boniface,Bundesliga,2024,2024-10-19,Bayer Leverkusen,Eintracht Frankfurt,47,0.0237917602062225,NO_GOAL,BlockedShot
+Victor Boniface,Bundesliga,2024,2025-03-16,VfB Stuttgart,Bayer Leverkusen,95,0.0641163513064384,NO_GOAL,ShotOnPost

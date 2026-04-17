@@ -1,0 +1,20 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Hugo Ekitike,Ligue_1,2021,2021-10-31,Bordeaux,Reims,33,0.2340040057897567,NO_GOAL,SavedShot
+Hugo Ekitike,Ligue_1,2021,2021-11-21,Strasbourg,Reims,49,0.1128759980201721,NO_GOAL,MissedShots
+Hugo Ekitike,Ligue_1,2021,2021-12-05,Reims,Angers,55,0.4671669900417328,NO_GOAL,ShotOnPost
+Hugo Ekitike,Bundesliga,2023,2024-02-18,Freiburg,Eintracht Frankfurt,94,0.0629217475652694,NO_GOAL,BlockedShot
+Hugo Ekitike,Bundesliga,2023,2024-04-13,VfB Stuttgart,Eintracht Frankfurt,46,0.0380554087460041,NO_GOAL,BlockedShot
+Hugo Ekitike,Bundesliga,2023,2024-04-13,VfB Stuttgart,Eintracht Frankfurt,81,0.0148024009540677,NO_GOAL,MissedShots
+Hugo Ekitike,Bundesliga,2023,2024-04-13,VfB Stuttgart,Eintracht Frankfurt,81,0.0342548266053199,NO_GOAL,MissedShots
+Hugo Ekitike,Bundesliga,2023,2024-04-13,VfB Stuttgart,Eintracht Frankfurt,81,0.0536577627062797,NO_GOAL,MissedShots
+Hugo Ekitike,Bundesliga,2023,2024-04-27,Bayern Munich,Eintracht Frankfurt,51,0.062672421336174,NO_GOAL,MissedShots
+Hugo Ekitike,Bundesliga,2024,2024-08-31,Eintracht Frankfurt,Hoffenheim,15,0.0543907210230827,NO_GOAL,MissedShots
+Hugo Ekitike,Bundesliga,2024,2025-01-14,Eintracht Frankfurt,Freiburg,5,0.0356016010046005,NO_GOAL,BlockedShot
+Hugo Ekitike,Bundesliga,2024,2025-01-14,Eintracht Frankfurt,Freiburg,16,0.0360156893730163,NO_GOAL,BlockedShot
+Hugo Ekitike,Bundesliga,2024,2025-01-26,Hoffenheim,Eintracht Frankfurt,47,0.0881330594420433,NO_GOAL,MissedShots
+Hugo Ekitike,Bundesliga,2024,2025-01-26,Hoffenheim,Eintracht Frankfurt,74,0.0675946623086929,NO_GOAL,SavedShot
+Hugo Ekitike,Bundesliga,2024,2025-03-01,Eintracht Frankfurt,Bayer Leverkusen,40,0.1140360608696937,NO_GOAL,MissedShots
+Hugo Ekitike,Bundesliga,2024,2025-03-01,Eintracht Frankfurt,Bayer Leverkusen,87,0.0611145608127117,NO_GOAL,MissedShots
+Hugo Ekitike,Bundesliga,2024,2025-04-13,Eintracht Frankfurt,FC Heidenheim,62,0.0908426642417907,NO_GOAL,SavedShot
+Hugo Ekitike,Bundesliga,2024,2025-04-20,Augsburg,Eintracht Frankfurt,53,0.0285677891224622,NO_GOAL,SavedShot
+Hugo Ekitike,Bundesliga,2024,2025-04-20,Augsburg,Eintracht Frankfurt,88,0.0918804034590721,NO_GOAL,MissedShots

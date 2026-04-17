@@ -1,0 +1,11 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Neymar,La_liga,2014,2015-02-21,Barcelona,Malaga,35,0.0666358992457389,NO_GOAL,BlockedShot
+Neymar,La_liga,2015,2015-11-21,Real Madrid,Barcelona,6,0.081385999917984,NO_GOAL,MissedShots
+Neymar,La_liga,2015,2016-03-12,Barcelona,Getafe,87,0.0290463995188474,NO_GOAL,MissedShots
+Neymar,La_liga,2015,2016-04-02,Barcelona,Real Madrid,21,0.0735365971922874,NO_GOAL,MissedShots
+Neymar,La_liga,2016,2017-03-04,Barcelona,Celta Vigo,30,0.0420485995709896,NO_GOAL,BlockedShot
+Neymar,Ligue_1,2017,2018-01-17,Paris Saint Germain,Dijon,59,0.0888859033584594,NO_GOAL,BlockedShot
+Neymar,Ligue_1,2018,2019-01-19,Paris Saint Germain,Guingamp,61,0.1173119992017746,NO_GOAL,BlockedShot
+Neymar,Ligue_1,2019,2019-09-22,Lyon,Paris Saint Germain,37,0.0266017001122236,NO_GOAL,BlockedShot
+Neymar,Ligue_1,2020,2021-01-22,Paris Saint Germain,Montpellier,71,0.1185090020298957,NO_GOAL,BlockedShot
+Neymar,Ligue_1,2020,2021-05-09,Rennes,Paris Saint Germain,42,0.0765779986977577,NO_GOAL,MissedShots

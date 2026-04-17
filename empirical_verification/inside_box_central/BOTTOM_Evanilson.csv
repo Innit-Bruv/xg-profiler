@@ -1,0 +1,16 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Evanilson,EPL,2024,2024-08-25,Bournemouth,Newcastle United,63,0.8241491913795471,NO_GOAL,MissedShots
+Evanilson,EPL,2024,2024-08-31,Everton,Bournemouth,13,0.139943391084671,NO_GOAL,BlockedShot
+Evanilson,EPL,2024,2024-11-02,Bournemouth,Manchester City,45,0.4163733720779419,NO_GOAL,SavedShot
+Evanilson,EPL,2024,2024-11-23,Bournemouth,Brighton,19,0.1103112250566482,NO_GOAL,SavedShot
+Evanilson,EPL,2024,2024-11-23,Bournemouth,Brighton,50,0.3564120233058929,NO_GOAL,MissedShots
+Evanilson,EPL,2024,2024-11-23,Bournemouth,Brighton,87,0.0746131017804145,NO_GOAL,BlockedShot
+Evanilson,EPL,2024,2024-12-05,Bournemouth,Tottenham,15,0.6199016571044922,NO_GOAL,SavedShot
+Evanilson,EPL,2024,2024-12-05,Bournemouth,Tottenham,66,0.1191707476973533,NO_GOAL,BlockedShot
+Evanilson,EPL,2024,2024-12-16,Bournemouth,West Ham,70,0.086812250316143,NO_GOAL,BlockedShot
+Evanilson,EPL,2024,2024-12-26,Bournemouth,Crystal Palace,73,0.0806880071759224,NO_GOAL,MissedShots
+Evanilson,EPL,2024,2024-12-29,Fulham,Bournemouth,50,0.2746831476688385,GOAL,Goal
+Evanilson,EPL,2024,2025-01-04,Bournemouth,Everton,23,0.0574844032526016,NO_GOAL,MissedShots
+Evanilson,EPL,2024,2025-01-04,Bournemouth,Everton,27,0.0726288259029388,NO_GOAL,BlockedShot
+Evanilson,EPL,2024,2025-03-09,Tottenham,Bournemouth,0,0.0733280554413795,NO_GOAL,SavedShot
+Evanilson,EPL,2024,2025-04-14,Bournemouth,Fulham,16,0.657689094543457,NO_GOAL,ShotOnPost

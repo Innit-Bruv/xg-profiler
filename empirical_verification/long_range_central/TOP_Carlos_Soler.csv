@@ -1,0 +1,16 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Carlos Soler,La_liga,2016,2017-04-26,Valencia,Real Sociedad,57,0.0091115897521376,NO_GOAL,BlockedShot
+Carlos Soler,La_liga,2017,2017-08-18,Valencia,Las Palmas,58,0.0209561996161937,NO_GOAL,MissedShots
+Carlos Soler,La_liga,2017,2017-09-16,Levante,Valencia,89,0.0278082992881536,NO_GOAL,SavedShot
+Carlos Soler,La_liga,2018,2018-08-26,Espanyol,Valencia,37,0.0231893006712198,NO_GOAL,MissedShots
+Carlos Soler,La_liga,2018,2018-10-20,Valencia,Leganes,15,0.0263027995824813,NO_GOAL,BlockedShot
+Carlos Soler,La_liga,2018,2018-11-03,Valencia,Girona,60,0.0227629002183675,NO_GOAL,SavedShot
+Carlos Soler,La_liga,2019,2020-06-18,Real Madrid,Valencia,6,0.0237026996910572,NO_GOAL,MissedShots
+Carlos Soler,La_liga,2019,2020-06-28,Villarreal,Valencia,22,0.0275545008480548,NO_GOAL,BlockedShot
+Carlos Soler,La_liga,2020,2021-01-10,Real Valladolid,Valencia,75,0.0160940997302532,GOAL,Goal
+Carlos Soler,La_liga,2021,2021-12-20,Levante,Valencia,15,0.0250956006348133,NO_GOAL,SavedShot
+Carlos Soler,La_liga,2021,2021-12-31,Valencia,Espanyol,27,0.0196024999022483,NO_GOAL,BlockedShot
+Carlos Soler,La_liga,2021,2022-03-05,Valencia,Granada,9,0.0137248001992702,NO_GOAL,MissedShots
+Carlos Soler,La_liga,2021,2022-05-10,Valencia,Real Betis,50,0.0235385000705719,NO_GOAL,SavedShot
+Carlos Soler,Ligue_1,2023,2024-05-19,Metz,Paris Saint Germain,6,0.0174982473254203,GOAL,Goal
+Carlos Soler,EPL,2024,2024-12-09,West Ham,Wolverhampton Wanderers,28,0.023608062416315,NO_GOAL,BlockedShot

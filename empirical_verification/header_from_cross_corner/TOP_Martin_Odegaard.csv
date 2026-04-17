@@ -1,0 +1,16 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Martin Odegaard,La_liga,2019,2019-09-14,Real Sociedad,Atletico Madrid,19,0.0736083984375,NO_GOAL,MissedShots
+Martin Odegaard,La_liga,2019,2020-01-19,Real Betis,Real Sociedad,14,0.0699153989553451,NO_GOAL,MissedShots
+Martin Odegaard,EPL,2020,2021-03-14,Arsenal,Tottenham,43,0.0633502006530761,GOAL,Goal
+Martin Odegaard,EPL,2020,2021-05-12,Chelsea,Arsenal,70,0.0522046983242034,NO_GOAL,MissedShots
+Martin Odegaard,EPL,2021,2021-12-06,Everton,Arsenal,46,0.1060589998960495,GOAL,Goal
+Martin Odegaard,EPL,2021,2022-02-19,Arsenal,Brentford,3,0.0937170982360839,NO_GOAL,BlockedShot
+Martin Odegaard,EPL,2022,2023-01-22,Arsenal,Manchester United,89,0.0976687967777252,NO_GOAL,MissedShots
+Martin Odegaard,EPL,2022,2023-03-12,Fulham,Arsenal,46,0.1327300071716308,GOAL,Goal
+Martin Odegaard,EPL,2022,2023-04-16,West Ham,Arsenal,9,0.5538759827613831,GOAL,Goal
+Martin Odegaard,EPL,2022,2023-04-21,Arsenal,Southampton,27,0.0777130648493766,NO_GOAL,MissedShots
+Martin Odegaard,EPL,2022,2023-04-21,Arsenal,Southampton,45,0.0420791916549205,NO_GOAL,BlockedShot
+Martin Odegaard,EPL,2022,2023-05-02,Arsenal,Chelsea,30,0.3253357708454132,GOAL,Goal
+Martin Odegaard,EPL,2024,2024-08-31,Arsenal,Brighton,17,0.308718740940094,NO_GOAL,SavedShot
+Martin Odegaard,EPL,2024,2024-12-14,Arsenal,Everton,9,0.0804819986224174,NO_GOAL,MissedShots
+Martin Odegaard,EPL,2024,2025-04-23,Arsenal,Crystal Palace,69,0.0682733878493309,NO_GOAL,BlockedShot

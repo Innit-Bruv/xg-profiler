@@ -1,0 +1,29 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Kerem Demirbay,Bundesliga,2016,2016-09-20,Darmstadt,Hoffenheim,20,0.0493735000491142,NO_GOAL,BlockedShot
+Kerem Demirbay,Bundesliga,2016,2016-10-22,Bayer Leverkusen,Hoffenheim,7,0.067792996764183,NO_GOAL,ShotOnPost
+Kerem Demirbay,Bundesliga,2016,2016-10-30,Hoffenheim,Hertha Berlin,75,0.0650615990161895,NO_GOAL,MissedShots
+Kerem Demirbay,Bundesliga,2016,2017-01-21,Augsburg,Hoffenheim,28,0.0707565024495124,NO_GOAL,BlockedShot
+Kerem Demirbay,Bundesliga,2016,2017-01-28,RasenBallsport Leipzig,Hoffenheim,84,0.0364316999912261,NO_GOAL,MissedShots
+Kerem Demirbay,Bundesliga,2016,2017-02-04,Hoffenheim,Mainz 05,80,0.0691597014665603,NO_GOAL,SavedShot
+Kerem Demirbay,Bundesliga,2016,2017-02-12,Wolfsburg,Hoffenheim,15,0.1191859990358352,NO_GOAL,ShotOnPost
+Kerem Demirbay,Bundesliga,2016,2017-03-11,Freiburg,Hoffenheim,4,0.0590392015874385,NO_GOAL,MissedShots
+Kerem Demirbay,Bundesliga,2016,2017-03-18,Hoffenheim,Bayer Leverkusen,52,0.1479129940271377,NO_GOAL,BlockedShot
+Kerem Demirbay,Bundesliga,2017,2017-11-26,Hamburger SV,Hoffenheim,41,0.0549922995269298,NO_GOAL,BlockedShot
+Kerem Demirbay,Bundesliga,2018,2018-12-01,Hoffenheim,Schalke 04,23,0.0745887979865074,NO_GOAL,MissedShots
+Kerem Demirbay,Bundesliga,2018,2019-03-16,VfB Stuttgart,Hoffenheim,28,0.0771908983588218,NO_GOAL,MissedShots
+Kerem Demirbay,Bundesliga,2018,2019-03-16,VfB Stuttgart,Hoffenheim,69,0.0745553970336914,NO_GOAL,BlockedShot
+Kerem Demirbay,Bundesliga,2018,2019-05-18,Mainz 05,Hoffenheim,9,0.073742501437664,NO_GOAL,BlockedShot
+Kerem Demirbay,Bundesliga,2019,2019-08-24,Fortuna Duesseldorf,Bayer Leverkusen,53,0.0596522018313407,NO_GOAL,BlockedShot
+Kerem Demirbay,Bundesliga,2019,2019-11-23,Bayer Leverkusen,Freiburg,2,0.4504980146884918,NO_GOAL,BlockedShot
+Kerem Demirbay,Bundesliga,2020,2020-11-29,Bayer Leverkusen,Hertha Berlin,54,0.058306198567152,NO_GOAL,MissedShots
+Kerem Demirbay,Bundesliga,2020,2020-11-29,Bayer Leverkusen,Hertha Berlin,66,0.0755760967731475,NO_GOAL,MissedShots
+Kerem Demirbay,Bundesliga,2020,2021-01-19,Bayer Leverkusen,Borussia Dortmund,91,0.0480827018618583,NO_GOAL,MissedShots
+Kerem Demirbay,Bundesliga,2021,2021-09-11,Bayer Leverkusen,Borussia Dortmund,68,0.0527373999357223,NO_GOAL,SavedShot
+Kerem Demirbay,Bundesliga,2021,2021-09-25,Bayer Leverkusen,Mainz 05,90,0.0173016004264354,NO_GOAL,SavedShot
+Kerem Demirbay,Bundesliga,2021,2021-10-30,Bayer Leverkusen,Wolfsburg,84,0.0835001990199089,NO_GOAL,BlockedShot
+Kerem Demirbay,Bundesliga,2021,2022-03-13,Bayer Leverkusen,FC Cologne,40,0.0537431985139846,NO_GOAL,MissedShots
+Kerem Demirbay,Bundesliga,2021,2022-03-13,Bayer Leverkusen,FC Cologne,53,0.0986604988574981,NO_GOAL,BlockedShot
+Kerem Demirbay,Bundesliga,2022,2022-08-20,Bayer Leverkusen,Hoffenheim,57,0.0535854995250701,NO_GOAL,MissedShots
+Kerem Demirbay,Bundesliga,2022,2022-08-27,Mainz 05,Bayer Leverkusen,49,0.0426325015723705,NO_GOAL,BlockedShot
+Kerem Demirbay,Bundesliga,2022,2023-02-19,Bayer Leverkusen,Mainz 05,19,0.0634021982550621,NO_GOAL,BlockedShot
+Kerem Demirbay,Bundesliga,2022,2023-02-26,Freiburg,Bayer Leverkusen,48,0.0496092997491359,NO_GOAL,MissedShots

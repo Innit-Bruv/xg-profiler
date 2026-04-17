@@ -1,0 +1,17 @@
+player_name,league,season,date,h_team,a_team,minute,xg_understat,goal_label,result
+Lee Kang-In,La_liga,2020,2020-10-23,Elche,Valencia,78,0.0659584030508995,NO_GOAL,MissedShots
+Lee Kang-In,La_liga,2020,2021-01-04,Valencia,Cadiz,29,0.1505510061979293,NO_GOAL,BlockedShot
+Lee Kang-In,La_liga,2020,2021-01-10,Real Valladolid,Valencia,62,0.0986265018582344,NO_GOAL,BlockedShot
+Lee Kang-In,La_liga,2020,2021-02-20,Valencia,Celta Vigo,67,0.0904503017663955,NO_GOAL,MissedShots
+Lee Kang-In,La_liga,2020,2021-04-21,Osasuna,Valencia,80,0.0656438022851944,NO_GOAL,SavedShot
+Lee Kang-In,La_liga,2021,2021-09-26,Mallorca,Osasuna,15,0.0811918973922729,NO_GOAL,MissedShots
+Lee Kang-In,La_liga,2021,2021-11-07,Mallorca,Elche,52,0.0619844011962413,NO_GOAL,SavedShot
+Lee Kang-In,La_liga,2021,2021-12-10,Mallorca,Celta Vigo,52,0.0358599014580249,NO_GOAL,BlockedShot
+Lee Kang-In,La_liga,2021,2022-01-02,Mallorca,Barcelona,31,0.060726098716259,NO_GOAL,BlockedShot
+Lee Kang-In,La_liga,2021,2022-01-02,Mallorca,Barcelona,41,0.0530062988400459,NO_GOAL,SavedShot
+Lee Kang-In,La_liga,2021,2022-02-26,Mallorca,Valencia,80,0.0875504985451698,NO_GOAL,BlockedShot
+Lee Kang-In,La_liga,2021,2022-05-15,Mallorca,Rayo Vallecano,90,0.0928433984518051,NO_GOAL,ShotOnPost
+Lee Kang-In,La_liga,2022,2022-08-20,Mallorca,Real Betis,85,0.0812567025423049,NO_GOAL,ShotOnPost
+Lee Kang-In,La_liga,2022,2022-11-09,Mallorca,Atletico Madrid,34,0.0664886012673378,NO_GOAL,BlockedShot
+Lee Kang-In,La_liga,2022,2023-02-11,Sevilla,Mallorca,75,0.0551684983074665,NO_GOAL,BlockedShot
+Lee Kang-In,La_liga,2022,2023-05-20,Almeria,Mallorca,7,0.050351895391941,NO_GOAL,BlockedShot
